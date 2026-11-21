@@ -1,0 +1,34 @@
+promo_id,promo_name,promo_type,start_date,end_date,discount_pct,channel_scope,country_scope,category_scope
+PR001,WELCOME10 Voucher,Voucher,2023-01-01,2026-12-31,0.1,Web,ALL,ALL
+PR002,Winter Clearance 2023,Clearance,2023-01-03,2023-01-28,0.2,Web+Retail,ALL,Winter Sports|Apparel
+PR003,Novruz Sale 2023,Seasonal,2023-03-14,2023-03-25,0.15,Web+Retail,AZ|TR,ALL
+PR004,Spring Launch 2023,Launch,2023-04-01,2023-04-14,0.1,Web,ALL,Footwear|Backpacks & Bags|Camp Kitchen
+PR005,Summer Sale 2023,Clearance,2023-07-01,2023-07-21,0.15,All,ALL,Tents & Shelter|Footwear|Camp Kitchen|Backpacks & Bags
+PR006,Marketplace Deal Days 2023,Marketplace Event,2023-07-10,2023-07-11,0.15,Marketplace,ALL,ALL
+PR007,Back to Adventure 2023,Seasonal,2023-09-01,2023-09-14,0.1,Web,ALL,ALL
+PR008,Black Friday 2023,Black Friday,2023-11-20,2023-11-27,0.2,All,ALL,ALL
+PR009,Winter Gear Festival 2023,Seasonal,2023-12-05,2023-12-20,0.1,Web+Retail,ALL,Winter Sports|Apparel
+PR010,Winter Clearance 2024,Clearance,2024-01-03,2024-01-28,0.25,Web+Retail,ALL,Winter Sports|Apparel
+PR011,Novruz Sale 2024,Seasonal,2024-03-14,2024-03-25,0.15,Web+Retail,AZ|TR,ALL
+PR012,Spring Launch 2024,Launch,2024-04-01,2024-04-14,0.1,Web,ALL,Footwear|Backpacks & Bags|Camp Kitchen
+PR013,Summer Sale 2024,Clearance,2024-07-01,2024-07-21,0.2,All,ALL,Tents & Shelter|Footwear|Camp Kitchen|Backpacks & Bags
+PR014,Marketplace Deal Days 2024,Marketplace Event,2024-07-10,2024-07-11,0.15,Marketplace,ALL,ALL
+PR015,Back to Adventure 2024,Seasonal,2024-09-01,2024-09-14,0.1,Web,ALL,ALL
+PR016,Black Friday 2024,Black Friday,2024-11-25,2024-12-02,0.25,All,ALL,ALL
+PR017,Winter Gear Festival 2024,Seasonal,2024-12-05,2024-12-20,0.1,Web+Retail,ALL,Winter Sports|Apparel
+PR018,Winter Clearance 2025,Clearance,2025-01-03,2025-01-28,0.3,Web+Retail,ALL,Winter Sports|Apparel
+PR019,Novruz Sale 2025,Seasonal,2025-03-14,2025-03-25,0.15,Web+Retail,AZ|TR,ALL
+PR020,Spring Launch 2025,Launch,2025-04-01,2025-04-14,0.1,Web,ALL,Footwear|Backpacks & Bags|Camp Kitchen
+PR021,Summer Sale 2025,Clearance,2025-07-01,2025-07-21,0.25,All,ALL,Tents & Shelter|Footwear|Camp Kitchen|Backpacks & Bags
+PR022,Marketplace Deal Days 2025,Marketplace Event,2025-07-10,2025-07-11,0.15,Marketplace,ALL,ALL
+PR023,Back to Adventure 2025,Seasonal,2025-09-01,2025-09-14,0.1,Web,ALL,ALL
+PR024,Black Friday 2025,Black Friday,2025-11-24,2025-12-01,0.3,All,ALL,ALL
+PR025,Winter Gear Festival 2025,Seasonal,2025-12-05,2025-12-20,0.1,Web+Retail,ALL,Winter Sports|Apparel
+PR026,Winter Clearance 2026,Clearance,2026-01-03,2026-01-28,0.3,Web+Retail,ALL,Winter Sports|Apparel
+PR027,Novruz Sale 2026,Seasonal,2026-03-14,2026-03-25,0.15,Web+Retail,AZ|TR,ALL
+PR028,Spring Launch 2026,Launch,2026-04-01,2026-04-14,0.1,Web,ALL,Footwear|Backpacks & Bags|Camp Kitchen
+PR029,Summer Sale 2026,Clearance,2026-07-01,2026-07-21,0.25,All,ALL,Tents & Shelter|Footwear|Camp Kitchen|Backpacks & Bags
+PR030,Marketplace Deal Days 2026,Marketplace Event,2026-07-10,2026-07-11,0.15,Marketplace,ALL,ALL
+PR031,Back to Adventure 2026,Seasonal,2026-09-01,2026-09-14,0.1,Web,ALL,ALL
+PR032,Black Friday 2026,Black Friday,2026-11-23,2026-11-30,0.3,All,ALL,ALL
+PR033,Winter Gear Festival 2026,Seasonal,2026-12-05,2026-12-20,0.1,Web+Retail,ALL,Winter Sports|Apparel

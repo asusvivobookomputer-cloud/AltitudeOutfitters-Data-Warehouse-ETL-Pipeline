@@ -1,0 +1,17 @@
+carrier,quarter_start,deliveries,late_pct,prev_quarter_late_pct,other_carriers_late_pct,alert
+AnatolianPost,2024-10-01,389,19.8,10.9,19.8,
+AnatolianPost,2025-01-01,386,9.6,19.8,11.8,
+AnatolianPost,2025-04-01,468,12.2,9.6,13.2,
+AnatolianPost,2025-07-01,412,11.4,12.2,17.2,
+AnatolianPost,2025-10-01,674,20.0,11.4,25.0,
+AnatolianPost,2026-01-01,584,8.9,20.0,18.0,
+AnatolianPost,2026-04-01,733,11.7,8.9,17.3,
+AnatolianPost,2026-07-01,703,11.1,11.7,18.5,
+SwiftCargo,2024-10-01,576,24.8,10.7,19.3,
+SwiftCargo,2025-01-01,555,13.2,24.8,11.4,
+SwiftCargo,2025-04-01,619,22.1,13.2,12.2,
+SwiftCargo,2025-07-01,665,55.5,22.1,12.2,ALERT
+SwiftCargo,2025-10-01,1030,66.4,55.5,19.3,ALERT
+SwiftCargo,2026-01-01,836,53.3,66.4,12.7,ALERT
+SwiftCargo,2026-04-01,1040,53.2,53.3,11.8,ALERT
+SwiftCargo,2026-07-01,1076,57.8,53.2,12.2,ALERT

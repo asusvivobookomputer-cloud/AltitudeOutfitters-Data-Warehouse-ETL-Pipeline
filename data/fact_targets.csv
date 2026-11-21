@@ -1,0 +1,2587 @@
+month_start,country_code,category,target_net_revenue_usd,target_gross_margin_pct
+2023-01-01,DE,Tents & Shelter,2348.0,0.444
+2023-01-01,DE,Apparel,9051.0,0.581
+2023-01-01,DE,Footwear,2048.0,0.528
+2023-01-01,DE,Backpacks & Bags,3230.0,0.545
+2023-01-01,DE,Camp Kitchen,1129.0,0.596
+2023-01-01,DE,Electronics & Navigation,2219.0,0.394
+2023-01-01,DE,Winter Sports,12233.0,0.488
+2023-01-01,FR,Tents & Shelter,725.0,0.444
+2023-01-01,FR,Apparel,2953.0,0.581
+2023-01-01,FR,Footwear,1271.0,0.528
+2023-01-01,FR,Backpacks & Bags,2295.0,0.545
+2023-01-01,FR,Camp Kitchen,504.0,0.596
+2023-01-01,FR,Electronics & Navigation,609.0,0.394
+2023-01-01,FR,Winter Sports,4616.0,0.488
+2023-01-01,NL,Tents & Shelter,719.0,0.444
+2023-01-01,NL,Apparel,4796.0,0.581
+2023-01-01,NL,Footwear,1904.0,0.528
+2023-01-01,NL,Backpacks & Bags,3273.0,0.545
+2023-01-01,NL,Camp Kitchen,521.0,0.596
+2023-01-01,NL,Electronics & Navigation,804.0,0.394
+2023-01-01,NL,Winter Sports,2676.0,0.488
+2023-01-01,GB,Tents & Shelter,709.0,0.444
+2023-01-01,GB,Apparel,7792.0,0.581
+2023-01-01,GB,Footwear,1725.0,0.528
+2023-01-01,GB,Backpacks & Bags,3058.0,0.545
+2023-01-01,GB,Camp Kitchen,420.0,0.596
+2023-01-01,GB,Electronics & Navigation,1501.0,0.394
+2023-01-01,GB,Winter Sports,5886.0,0.488
+2023-01-01,US,Tents & Shelter,823.0,0.444
+2023-01-01,US,Apparel,4364.0,0.581
+2023-01-01,US,Footwear,1613.0,0.528
+2023-01-01,US,Backpacks & Bags,1327.0,0.545
+2023-01-01,US,Camp Kitchen,1092.0,0.596
+2023-01-01,US,Electronics & Navigation,885.0,0.394
+2023-01-01,US,Winter Sports,3852.0,0.488
+2023-01-01,TR,Tents & Shelter,982.0,0.444
+2023-01-01,TR,Apparel,4803.0,0.581
+2023-01-01,TR,Footwear,2831.0,0.528
+2023-01-01,TR,Backpacks & Bags,849.0,0.545
+2023-01-01,TR,Camp Kitchen,294.0,0.596
+2023-01-01,TR,Electronics & Navigation,1974.0,0.394
+2023-01-01,TR,Winter Sports,4154.0,0.488
+2023-01-01,AZ,Tents & Shelter,379.0,0.444
+2023-01-01,AZ,Apparel,1450.0,0.581
+2023-01-01,AZ,Backpacks & Bags,134.0,0.545
+2023-01-01,AZ,Camp Kitchen,41.0,0.596
+2023-01-01,AZ,Electronics & Navigation,541.0,0.394
+2023-01-01,AZ,Winter Sports,741.0,0.488
+2023-02-01,DE,Tents & Shelter,2115.0,0.444
+2023-02-01,DE,Apparel,8391.0,0.581
+2023-02-01,DE,Footwear,2107.0,0.528
+2023-02-01,DE,Backpacks & Bags,1992.0,0.545
+2023-02-01,DE,Camp Kitchen,970.0,0.596
+2023-02-01,DE,Electronics & Navigation,3104.0,0.394
+2023-02-01,DE,Winter Sports,14588.0,0.488
+2023-02-01,FR,Tents & Shelter,1506.0,0.444
+2023-02-01,FR,Apparel,4654.0,0.581
+2023-02-01,FR,Footwear,654.0,0.528
+2023-02-01,FR,Backpacks & Bags,1736.0,0.545
+2023-02-01,FR,Camp Kitchen,413.0,0.596
+2023-02-01,FR,Electronics & Navigation,157.0,0.394
+2023-02-01,FR,Winter Sports,4158.0,0.488
+2023-02-01,NL,Tents & Shelter,270.0,0.444
+2023-02-01,NL,Apparel,2092.0,0.581
+2023-02-01,NL,Footwear,518.0,0.528
+2023-02-01,NL,Backpacks & Bags,598.0,0.545
+2023-02-01,NL,Camp Kitchen,413.0,0.596
+2023-02-01,NL,Electronics & Navigation,482.0,0.394
+2023-02-01,NL,Winter Sports,2396.0,0.488
+2023-02-01,GB,Tents & Shelter,2778.0,0.444
+2023-02-01,GB,Apparel,8084.0,0.581
+2023-02-01,GB,Footwear,2431.0,0.528
+2023-02-01,GB,Backpacks & Bags,1752.0,0.545
+2023-02-01,GB,Camp Kitchen,1067.0,0.596
+2023-02-01,GB,Electronics & Navigation,2437.0,0.394
+2023-02-01,GB,Winter Sports,7725.0,0.488
+2023-02-01,US,Tents & Shelter,753.0,0.444
+2023-02-01,US,Apparel,4191.0,0.581
+2023-02-01,US,Footwear,1430.0,0.528
+2023-02-01,US,Backpacks & Bags,2379.0,0.545
+2023-02-01,US,Camp Kitchen,818.0,0.596
+2023-02-01,US,Electronics & Navigation,843.0,0.394
+2023-02-01,US,Winter Sports,5807.0,0.488
+2023-02-01,TR,Tents & Shelter,2307.0,0.444
+2023-02-01,TR,Apparel,2300.0,0.581
+2023-02-01,TR,Footwear,1291.0,0.528
+2023-02-01,TR,Backpacks & Bags,1909.0,0.545
+2023-02-01,TR,Camp Kitchen,361.0,0.596
+2023-02-01,TR,Electronics & Navigation,1167.0,0.394
+2023-02-01,TR,Winter Sports,3077.0,0.488
+2023-02-01,AZ,Tents & Shelter,846.0,0.444
+2023-02-01,AZ,Apparel,1812.0,0.581
+2023-02-01,AZ,Footwear,262.0,0.528
+2023-02-01,AZ,Backpacks & Bags,114.0,0.545
+2023-02-01,AZ,Camp Kitchen,193.0,0.596
+2023-02-01,AZ,Electronics & Navigation,415.0,0.394
+2023-02-01,AZ,Winter Sports,1186.0,0.488
+2023-03-01,DE,Tents & Shelter,3146.0,0.444
+2023-03-01,DE,Apparel,5468.0,0.581
+2023-03-01,DE,Footwear,2346.0,0.528
+2023-03-01,DE,Backpacks & Bags,3888.0,0.545
+2023-03-01,DE,Camp Kitchen,1578.0,0.596
+2023-03-01,DE,Electronics & Navigation,1803.0,0.394
+2023-03-01,DE,Winter Sports,7131.0,0.488
+2023-03-01,FR,Tents & Shelter,1597.0,0.444
+2023-03-01,FR,Apparel,2463.0,0.581
+2023-03-01,FR,Footwear,2630.0,0.528
+2023-03-01,FR,Backpacks & Bags,1066.0,0.545
+2023-03-01,FR,Camp Kitchen,883.0,0.596
+2023-03-01,FR,Electronics & Navigation,357.0,0.394
+2023-03-01,FR,Winter Sports,3174.0,0.488
+2023-03-01,NL,Tents & Shelter,2979.0,0.444
+2023-03-01,NL,Apparel,3593.0,0.581
+2023-03-01,NL,Footwear,1945.0,0.528
+2023-03-01,NL,Backpacks & Bags,2409.0,0.545
+2023-03-01,NL,Camp Kitchen,475.0,0.596
+2023-03-01,NL,Electronics & Navigation,774.0,0.394
+2023-03-01,NL,Winter Sports,3917.0,0.488
+2023-03-01,GB,Tents & Shelter,3638.0,0.444
+2023-03-01,GB,Apparel,7243.0,0.581
+2023-03-01,GB,Footwear,6184.0,0.528
+2023-03-01,GB,Backpacks & Bags,4791.0,0.545
+2023-03-01,GB,Camp Kitchen,2308.0,0.596
+2023-03-01,GB,Electronics & Navigation,4220.0,0.394
+2023-03-01,GB,Winter Sports,4696.0,0.488
+2023-03-01,US,Tents & Shelter,2971.0,0.444
+2023-03-01,US,Apparel,3955.0,0.581
+2023-03-01,US,Footwear,2065.0,0.528
+2023-03-01,US,Backpacks & Bags,3398.0,0.545
+2023-03-01,US,Camp Kitchen,2013.0,0.596
+2023-03-01,US,Electronics & Navigation,1631.0,0.394
+2023-03-01,US,Winter Sports,4254.0,0.488
+2023-03-01,TR,Tents & Shelter,2417.0,0.444
+2023-03-01,TR,Apparel,4455.0,0.581
+2023-03-01,TR,Footwear,1255.0,0.528
+2023-03-01,TR,Backpacks & Bags,1223.0,0.545
+2023-03-01,TR,Camp Kitchen,758.0,0.596
+2023-03-01,TR,Electronics & Navigation,1851.0,0.394
+2023-03-01,TR,Winter Sports,2366.0,0.488
+2023-03-01,AZ,Tents & Shelter,856.0,0.444
+2023-03-01,AZ,Apparel,1172.0,0.581
+2023-03-01,AZ,Footwear,1858.0,0.528
+2023-03-01,AZ,Backpacks & Bags,243.0,0.545
+2023-03-01,AZ,Camp Kitchen,106.0,0.596
+2023-03-01,AZ,Electronics & Navigation,928.0,0.394
+2023-03-01,AZ,Winter Sports,861.0,0.488
+2023-04-01,DE,Tents & Shelter,9153.0,0.444
+2023-04-01,DE,Apparel,8181.0,0.581
+2023-04-01,DE,Footwear,5484.0,0.528
+2023-04-01,DE,Backpacks & Bags,4706.0,0.545
+2023-04-01,DE,Camp Kitchen,1629.0,0.596
+2023-04-01,DE,Electronics & Navigation,2500.0,0.394
+2023-04-01,DE,Winter Sports,2077.0,0.488
+2023-04-01,FR,Tents & Shelter,3262.0,0.444
+2023-04-01,FR,Apparel,4328.0,0.581
+2023-04-01,FR,Footwear,3412.0,0.528
+2023-04-01,FR,Backpacks & Bags,3221.0,0.545
+2023-04-01,FR,Camp Kitchen,1712.0,0.596
+2023-04-01,FR,Electronics & Navigation,1605.0,0.394
+2023-04-01,FR,Winter Sports,818.0,0.488
+2023-04-01,NL,Tents & Shelter,2012.0,0.444
+2023-04-01,NL,Apparel,1573.0,0.581
+2023-04-01,NL,Footwear,2611.0,0.528
+2023-04-01,NL,Backpacks & Bags,1131.0,0.545
+2023-04-01,NL,Camp Kitchen,539.0,0.596
+2023-04-01,NL,Electronics & Navigation,1467.0,0.394
+2023-04-01,NL,Winter Sports,417.0,0.488
+2023-04-01,GB,Tents & Shelter,6886.0,0.444
+2023-04-01,GB,Apparel,7074.0,0.581
+2023-04-01,GB,Footwear,4911.0,0.528
+2023-04-01,GB,Backpacks & Bags,4793.0,0.545
+2023-04-01,GB,Camp Kitchen,1587.0,0.596
+2023-04-01,GB,Electronics & Navigation,1967.0,0.394
+2023-04-01,GB,Winter Sports,1316.0,0.488
+2023-04-01,US,Tents & Shelter,4727.0,0.444
+2023-04-01,US,Apparel,2998.0,0.581
+2023-04-01,US,Footwear,3355.0,0.528
+2023-04-01,US,Backpacks & Bags,4253.0,0.545
+2023-04-01,US,Camp Kitchen,971.0,0.596
+2023-04-01,US,Electronics & Navigation,1335.0,0.394
+2023-04-01,US,Winter Sports,1758.0,0.488
+2023-04-01,TR,Tents & Shelter,4259.0,0.444
+2023-04-01,TR,Apparel,3352.0,0.581
+2023-04-01,TR,Footwear,1569.0,0.528
+2023-04-01,TR,Backpacks & Bags,3591.0,0.545
+2023-04-01,TR,Camp Kitchen,1689.0,0.596
+2023-04-01,TR,Electronics & Navigation,1541.0,0.394
+2023-04-01,TR,Winter Sports,1093.0,0.488
+2023-04-01,AZ,Tents & Shelter,894.0,0.444
+2023-04-01,AZ,Apparel,410.0,0.581
+2023-04-01,AZ,Footwear,414.0,0.528
+2023-04-01,AZ,Backpacks & Bags,281.0,0.545
+2023-04-01,AZ,Camp Kitchen,348.0,0.596
+2023-04-01,AZ,Electronics & Navigation,296.0,0.394
+2023-04-01,AZ,Winter Sports,757.0,0.488
+2023-05-01,DE,Tents & Shelter,12434.0,0.444
+2023-05-01,DE,Apparel,7033.0,0.581
+2023-05-01,DE,Footwear,3972.0,0.528
+2023-05-01,DE,Backpacks & Bags,5667.0,0.545
+2023-05-01,DE,Camp Kitchen,2680.0,0.596
+2023-05-01,DE,Electronics & Navigation,4016.0,0.394
+2023-05-01,DE,Winter Sports,357.0,0.488
+2023-05-01,FR,Tents & Shelter,3982.0,0.444
+2023-05-01,FR,Apparel,4171.0,0.581
+2023-05-01,FR,Footwear,3510.0,0.528
+2023-05-01,FR,Backpacks & Bags,2896.0,0.545
+2023-05-01,FR,Camp Kitchen,1929.0,0.596
+2023-05-01,FR,Electronics & Navigation,1450.0,0.394
+2023-05-01,FR,Winter Sports,443.0,0.488
+2023-05-01,NL,Tents & Shelter,3652.0,0.444
+2023-05-01,NL,Apparel,3755.0,0.581
+2023-05-01,NL,Footwear,2169.0,0.528
+2023-05-01,NL,Backpacks & Bags,3997.0,0.545
+2023-05-01,NL,Camp Kitchen,1087.0,0.596
+2023-05-01,NL,Electronics & Navigation,1155.0,0.394
+2023-05-01,NL,Winter Sports,56.0,0.488
+2023-05-01,GB,Tents & Shelter,6629.0,0.444
+2023-05-01,GB,Apparel,7648.0,0.581
+2023-05-01,GB,Footwear,3956.0,0.528
+2023-05-01,GB,Backpacks & Bags,6007.0,0.545
+2023-05-01,GB,Camp Kitchen,3476.0,0.596
+2023-05-01,GB,Electronics & Navigation,5218.0,0.394
+2023-05-01,GB,Winter Sports,1442.0,0.488
+2023-05-01,US,Tents & Shelter,6069.0,0.444
+2023-05-01,US,Apparel,3794.0,0.581
+2023-05-01,US,Footwear,2244.0,0.528
+2023-05-01,US,Backpacks & Bags,4898.0,0.545
+2023-05-01,US,Camp Kitchen,1769.0,0.596
+2023-05-01,US,Electronics & Navigation,2937.0,0.394
+2023-05-01,US,Winter Sports,307.0,0.488
+2023-05-01,TR,Tents & Shelter,7003.0,0.444
+2023-05-01,TR,Apparel,4573.0,0.581
+2023-05-01,TR,Footwear,6966.0,0.528
+2023-05-01,TR,Backpacks & Bags,4344.0,0.545
+2023-05-01,TR,Camp Kitchen,2499.0,0.596
+2023-05-01,TR,Electronics & Navigation,2736.0,0.394
+2023-05-01,TR,Winter Sports,369.0,0.488
+2023-05-01,AZ,Tents & Shelter,2934.0,0.444
+2023-05-01,AZ,Apparel,2791.0,0.581
+2023-05-01,AZ,Footwear,1314.0,0.528
+2023-05-01,AZ,Backpacks & Bags,1236.0,0.545
+2023-05-01,AZ,Camp Kitchen,1818.0,0.596
+2023-05-01,AZ,Electronics & Navigation,223.0,0.394
+2023-05-01,AZ,Winter Sports,405.0,0.488
+2023-06-01,DE,Tents & Shelter,12892.0,0.444
+2023-06-01,DE,Apparel,6065.0,0.581
+2023-06-01,DE,Footwear,4946.0,0.528
+2023-06-01,DE,Backpacks & Bags,7250.0,0.545
+2023-06-01,DE,Camp Kitchen,3861.0,0.596
+2023-06-01,DE,Electronics & Navigation,11009.0,0.394
+2023-06-01,DE,Winter Sports,803.0,0.488
+2023-06-01,FR,Tents & Shelter,4296.0,0.444
+2023-06-01,FR,Apparel,2433.0,0.581
+2023-06-01,FR,Footwear,2209.0,0.528
+2023-06-01,FR,Backpacks & Bags,3265.0,0.545
+2023-06-01,FR,Camp Kitchen,1315.0,0.596
+2023-06-01,FR,Electronics & Navigation,2184.0,0.394
+2023-06-01,NL,Tents & Shelter,5342.0,0.444
+2023-06-01,NL,Apparel,1989.0,0.581
+2023-06-01,NL,Footwear,3045.0,0.528
+2023-06-01,NL,Backpacks & Bags,2501.0,0.545
+2023-06-01,NL,Camp Kitchen,941.0,0.596
+2023-06-01,NL,Electronics & Navigation,1803.0,0.394
+2023-06-01,NL,Winter Sports,1157.0,0.488
+2023-06-01,GB,Tents & Shelter,10264.0,0.444
+2023-06-01,GB,Apparel,5285.0,0.581
+2023-06-01,GB,Footwear,2998.0,0.528
+2023-06-01,GB,Backpacks & Bags,7598.0,0.545
+2023-06-01,GB,Camp Kitchen,3364.0,0.596
+2023-06-01,GB,Electronics & Navigation,3834.0,0.394
+2023-06-01,GB,Winter Sports,1892.0,0.488
+2023-06-01,US,Tents & Shelter,6886.0,0.444
+2023-06-01,US,Apparel,3248.0,0.581
+2023-06-01,US,Footwear,2328.0,0.528
+2023-06-01,US,Backpacks & Bags,5008.0,0.545
+2023-06-01,US,Camp Kitchen,2670.0,0.596
+2023-06-01,US,Electronics & Navigation,2940.0,0.394
+2023-06-01,US,Winter Sports,182.0,0.488
+2023-06-01,TR,Tents & Shelter,7206.0,0.444
+2023-06-01,TR,Apparel,3951.0,0.581
+2023-06-01,TR,Footwear,1998.0,0.528
+2023-06-01,TR,Backpacks & Bags,5343.0,0.545
+2023-06-01,TR,Camp Kitchen,2693.0,0.596
+2023-06-01,TR,Electronics & Navigation,2944.0,0.394
+2023-06-01,TR,Winter Sports,307.0,0.488
+2023-06-01,AZ,Tents & Shelter,1118.0,0.444
+2023-06-01,AZ,Apparel,5773.0,0.581
+2023-06-01,AZ,Footwear,198.0,0.528
+2023-06-01,AZ,Backpacks & Bags,2181.0,0.545
+2023-06-01,AZ,Camp Kitchen,1061.0,0.596
+2023-06-01,AZ,Electronics & Navigation,1854.0,0.394
+2023-06-01,AZ,Winter Sports,126.0,0.488
+2023-07-01,DE,Tents & Shelter,12628.0,0.444
+2023-07-01,DE,Apparel,7950.0,0.581
+2023-07-01,DE,Footwear,3459.0,0.528
+2023-07-01,DE,Backpacks & Bags,11076.0,0.545
+2023-07-01,DE,Camp Kitchen,4321.0,0.596
+2023-07-01,DE,Electronics & Navigation,2556.0,0.394
+2023-07-01,DE,Winter Sports,1952.0,0.488
+2023-07-01,FR,Tents & Shelter,8168.0,0.444
+2023-07-01,FR,Apparel,5809.0,0.581
+2023-07-01,FR,Footwear,1381.0,0.528
+2023-07-01,FR,Backpacks & Bags,3879.0,0.545
+2023-07-01,FR,Camp Kitchen,2202.0,0.596
+2023-07-01,FR,Electronics & Navigation,6005.0,0.394
+2023-07-01,FR,Winter Sports,353.0,0.488
+2023-07-01,NL,Tents & Shelter,2581.0,0.444
+2023-07-01,NL,Apparel,2669.0,0.581
+2023-07-01,NL,Footwear,2677.0,0.528
+2023-07-01,NL,Backpacks & Bags,4360.0,0.545
+2023-07-01,NL,Camp Kitchen,1518.0,0.596
+2023-07-01,NL,Electronics & Navigation,2522.0,0.394
+2023-07-01,NL,Winter Sports,189.0,0.488
+2023-07-01,GB,Tents & Shelter,7683.0,0.444
+2023-07-01,GB,Apparel,4393.0,0.581
+2023-07-01,GB,Footwear,2720.0,0.528
+2023-07-01,GB,Backpacks & Bags,6926.0,0.545
+2023-07-01,GB,Camp Kitchen,3298.0,0.596
+2023-07-01,GB,Electronics & Navigation,3767.0,0.394
+2023-07-01,GB,Winter Sports,257.0,0.488
+2023-07-01,US,Tents & Shelter,10600.0,0.444
+2023-07-01,US,Apparel,4185.0,0.581
+2023-07-01,US,Footwear,3284.0,0.528
+2023-07-01,US,Backpacks & Bags,6137.0,0.545
+2023-07-01,US,Camp Kitchen,3239.0,0.596
+2023-07-01,US,Electronics & Navigation,2497.0,0.394
+2023-07-01,US,Winter Sports,191.0,0.488
+2023-07-01,TR,Tents & Shelter,6845.0,0.444
+2023-07-01,TR,Apparel,3756.0,0.581
+2023-07-01,TR,Footwear,1528.0,0.528
+2023-07-01,TR,Backpacks & Bags,3967.0,0.545
+2023-07-01,TR,Camp Kitchen,2626.0,0.596
+2023-07-01,TR,Electronics & Navigation,2044.0,0.394
+2023-07-01,TR,Winter Sports,912.0,0.488
+2023-07-01,AZ,Tents & Shelter,3657.0,0.444
+2023-07-01,AZ,Apparel,892.0,0.581
+2023-07-01,AZ,Footwear,791.0,0.528
+2023-07-01,AZ,Backpacks & Bags,5577.0,0.545
+2023-07-01,AZ,Camp Kitchen,536.0,0.596
+2023-07-01,AZ,Electronics & Navigation,1089.0,0.394
+2023-07-01,AZ,Winter Sports,146.0,0.488
+2023-08-01,DE,Tents & Shelter,7895.0,0.444
+2023-08-01,DE,Apparel,6088.0,0.581
+2023-08-01,DE,Footwear,3156.0,0.528
+2023-08-01,DE,Backpacks & Bags,5903.0,0.545
+2023-08-01,DE,Camp Kitchen,3017.0,0.596
+2023-08-01,DE,Electronics & Navigation,3349.0,0.394
+2023-08-01,DE,Winter Sports,711.0,0.488
+2023-08-01,FR,Tents & Shelter,4459.0,0.444
+2023-08-01,FR,Apparel,2604.0,0.581
+2023-08-01,FR,Footwear,2275.0,0.528
+2023-08-01,FR,Backpacks & Bags,4977.0,0.545
+2023-08-01,FR,Camp Kitchen,3565.0,0.596
+2023-08-01,FR,Electronics & Navigation,1811.0,0.394
+2023-08-01,FR,Winter Sports,52.0,0.488
+2023-08-01,NL,Tents & Shelter,1958.0,0.444
+2023-08-01,NL,Apparel,3146.0,0.581
+2023-08-01,NL,Footwear,1303.0,0.528
+2023-08-01,NL,Backpacks & Bags,1691.0,0.545
+2023-08-01,NL,Camp Kitchen,1858.0,0.596
+2023-08-01,NL,Electronics & Navigation,1501.0,0.394
+2023-08-01,NL,Winter Sports,626.0,0.488
+2023-08-01,GB,Tents & Shelter,8627.0,0.444
+2023-08-01,GB,Apparel,6502.0,0.581
+2023-08-01,GB,Footwear,5285.0,0.528
+2023-08-01,GB,Backpacks & Bags,5173.0,0.545
+2023-08-01,GB,Camp Kitchen,4253.0,0.596
+2023-08-01,GB,Electronics & Navigation,2813.0,0.394
+2023-08-01,GB,Winter Sports,1164.0,0.488
+2023-08-01,US,Tents & Shelter,6399.0,0.444
+2023-08-01,US,Apparel,4873.0,0.581
+2023-08-01,US,Footwear,1890.0,0.528
+2023-08-01,US,Backpacks & Bags,3714.0,0.545
+2023-08-01,US,Camp Kitchen,1658.0,0.596
+2023-08-01,US,Electronics & Navigation,2677.0,0.394
+2023-08-01,US,Winter Sports,736.0,0.488
+2023-08-01,TR,Tents & Shelter,7693.0,0.444
+2023-08-01,TR,Apparel,7942.0,0.581
+2023-08-01,TR,Footwear,2664.0,0.528
+2023-08-01,TR,Backpacks & Bags,4911.0,0.545
+2023-08-01,TR,Camp Kitchen,1562.0,0.596
+2023-08-01,TR,Electronics & Navigation,3999.0,0.394
+2023-08-01,TR,Winter Sports,956.0,0.488
+2023-08-01,AZ,Tents & Shelter,1032.0,0.444
+2023-08-01,AZ,Apparel,1463.0,0.581
+2023-08-01,AZ,Footwear,883.0,0.528
+2023-08-01,AZ,Backpacks & Bags,1165.0,0.545
+2023-08-01,AZ,Camp Kitchen,474.0,0.596
+2023-08-01,AZ,Electronics & Navigation,593.0,0.394
+2023-08-01,AZ,Winter Sports,1132.0,0.488
+2023-09-01,DE,Tents & Shelter,5162.0,0.444
+2023-09-01,DE,Apparel,8894.0,0.581
+2023-09-01,DE,Footwear,5387.0,0.528
+2023-09-01,DE,Backpacks & Bags,7102.0,0.545
+2023-09-01,DE,Camp Kitchen,2601.0,0.596
+2023-09-01,DE,Electronics & Navigation,4335.0,0.394
+2023-09-01,DE,Winter Sports,4584.0,0.488
+2023-09-01,FR,Tents & Shelter,1578.0,0.444
+2023-09-01,FR,Apparel,5612.0,0.581
+2023-09-01,FR,Footwear,2597.0,0.528
+2023-09-01,FR,Backpacks & Bags,2151.0,0.545
+2023-09-01,FR,Camp Kitchen,1036.0,0.596
+2023-09-01,FR,Electronics & Navigation,2339.0,0.394
+2023-09-01,FR,Winter Sports,1701.0,0.488
+2023-09-01,NL,Tents & Shelter,2525.0,0.444
+2023-09-01,NL,Apparel,2699.0,0.581
+2023-09-01,NL,Footwear,1423.0,0.528
+2023-09-01,NL,Backpacks & Bags,2061.0,0.545
+2023-09-01,NL,Camp Kitchen,651.0,0.596
+2023-09-01,NL,Electronics & Navigation,2945.0,0.394
+2023-09-01,NL,Winter Sports,884.0,0.488
+2023-09-01,GB,Tents & Shelter,5202.0,0.444
+2023-09-01,GB,Apparel,12164.0,0.581
+2023-09-01,GB,Footwear,4903.0,0.528
+2023-09-01,GB,Backpacks & Bags,4931.0,0.545
+2023-09-01,GB,Camp Kitchen,2697.0,0.596
+2023-09-01,GB,Electronics & Navigation,3235.0,0.394
+2023-09-01,GB,Winter Sports,2092.0,0.488
+2023-09-01,US,Tents & Shelter,11745.0,0.444
+2023-09-01,US,Apparel,8326.0,0.581
+2023-09-01,US,Footwear,5202.0,0.528
+2023-09-01,US,Backpacks & Bags,7460.0,0.545
+2023-09-01,US,Camp Kitchen,1844.0,0.596
+2023-09-01,US,Electronics & Navigation,2887.0,0.394
+2023-09-01,US,Winter Sports,2028.0,0.488
+2023-09-01,TR,Tents & Shelter,5479.0,0.444
+2023-09-01,TR,Apparel,9741.0,0.581
+2023-09-01,TR,Footwear,3581.0,0.528
+2023-09-01,TR,Backpacks & Bags,6637.0,0.545
+2023-09-01,TR,Camp Kitchen,2179.0,0.596
+2023-09-01,TR,Electronics & Navigation,4340.0,0.394
+2023-09-01,TR,Winter Sports,2028.0,0.488
+2023-09-01,AZ,Tents & Shelter,4056.0,0.444
+2023-09-01,AZ,Apparel,5603.0,0.581
+2023-09-01,AZ,Footwear,1827.0,0.528
+2023-09-01,AZ,Backpacks & Bags,738.0,0.545
+2023-09-01,AZ,Camp Kitchen,31.0,0.596
+2023-09-01,AZ,Electronics & Navigation,207.0,0.394
+2023-09-01,AZ,Winter Sports,767.0,0.488
+2023-10-01,DE,Tents & Shelter,4958.0,0.444
+2023-10-01,DE,Apparel,16628.0,0.581
+2023-10-01,DE,Footwear,4544.0,0.528
+2023-10-01,DE,Backpacks & Bags,7744.0,0.545
+2023-10-01,DE,Camp Kitchen,2126.0,0.596
+2023-10-01,DE,Electronics & Navigation,10215.0,0.394
+2023-10-01,DE,Winter Sports,12100.0,0.488
+2023-10-01,FR,Tents & Shelter,3141.0,0.444
+2023-10-01,FR,Apparel,7196.0,0.581
+2023-10-01,FR,Footwear,2585.0,0.528
+2023-10-01,FR,Backpacks & Bags,1636.0,0.545
+2023-10-01,FR,Camp Kitchen,662.0,0.596
+2023-10-01,FR,Electronics & Navigation,4363.0,0.394
+2023-10-01,FR,Winter Sports,4415.0,0.488
+2023-10-01,NL,Tents & Shelter,1268.0,0.444
+2023-10-01,NL,Apparel,6051.0,0.581
+2023-10-01,NL,Footwear,2914.0,0.528
+2023-10-01,NL,Backpacks & Bags,2181.0,0.545
+2023-10-01,NL,Camp Kitchen,929.0,0.596
+2023-10-01,NL,Electronics & Navigation,2027.0,0.394
+2023-10-01,NL,Winter Sports,3276.0,0.488
+2023-10-01,GB,Tents & Shelter,4554.0,0.444
+2023-10-01,GB,Apparel,9905.0,0.581
+2023-10-01,GB,Footwear,4003.0,0.528
+2023-10-01,GB,Backpacks & Bags,3123.0,0.545
+2023-10-01,GB,Camp Kitchen,1557.0,0.596
+2023-10-01,GB,Electronics & Navigation,4683.0,0.394
+2023-10-01,GB,Winter Sports,9056.0,0.488
+2023-10-01,US,Tents & Shelter,5050.0,0.444
+2023-10-01,US,Apparel,10348.0,0.581
+2023-10-01,US,Footwear,3946.0,0.528
+2023-10-01,US,Backpacks & Bags,5161.0,0.545
+2023-10-01,US,Camp Kitchen,1162.0,0.596
+2023-10-01,US,Electronics & Navigation,3812.0,0.394
+2023-10-01,US,Winter Sports,6539.0,0.488
+2023-10-01,TR,Tents & Shelter,1895.0,0.444
+2023-10-01,TR,Apparel,11875.0,0.581
+2023-10-01,TR,Footwear,6500.0,0.528
+2023-10-01,TR,Backpacks & Bags,3640.0,0.545
+2023-10-01,TR,Camp Kitchen,1549.0,0.596
+2023-10-01,TR,Electronics & Navigation,6564.0,0.394
+2023-10-01,TR,Winter Sports,7213.0,0.488
+2023-10-01,AZ,Tents & Shelter,783.0,0.444
+2023-10-01,AZ,Apparel,2686.0,0.581
+2023-10-01,AZ,Footwear,1443.0,0.528
+2023-10-01,AZ,Backpacks & Bags,985.0,0.545
+2023-10-01,AZ,Camp Kitchen,555.0,0.596
+2023-10-01,AZ,Electronics & Navigation,783.0,0.394
+2023-10-01,AZ,Winter Sports,3475.0,0.488
+2023-11-01,DE,Tents & Shelter,5233.0,0.444
+2023-11-01,DE,Apparel,17503.0,0.581
+2023-11-01,DE,Footwear,8614.0,0.528
+2023-11-01,DE,Backpacks & Bags,7800.0,0.545
+2023-11-01,DE,Camp Kitchen,2301.0,0.596
+2023-11-01,DE,Electronics & Navigation,8409.0,0.394
+2023-11-01,DE,Winter Sports,25392.0,0.488
+2023-11-01,FR,Tents & Shelter,2291.0,0.444
+2023-11-01,FR,Apparel,9280.0,0.581
+2023-11-01,FR,Footwear,2911.0,0.528
+2023-11-01,FR,Backpacks & Bags,4000.0,0.545
+2023-11-01,FR,Camp Kitchen,1999.0,0.596
+2023-11-01,FR,Electronics & Navigation,3963.0,0.394
+2023-11-01,FR,Winter Sports,12940.0,0.488
+2023-11-01,NL,Tents & Shelter,3090.0,0.444
+2023-11-01,NL,Apparel,13990.0,0.581
+2023-11-01,NL,Footwear,5608.0,0.528
+2023-11-01,NL,Backpacks & Bags,2345.0,0.545
+2023-11-01,NL,Camp Kitchen,749.0,0.596
+2023-11-01,NL,Electronics & Navigation,6582.0,0.394
+2023-11-01,NL,Winter Sports,20169.0,0.488
+2023-11-01,GB,Tents & Shelter,2658.0,0.444
+2023-11-01,GB,Apparel,22592.0,0.581
+2023-11-01,GB,Footwear,4589.0,0.528
+2023-11-01,GB,Backpacks & Bags,4566.0,0.545
+2023-11-01,GB,Camp Kitchen,1782.0,0.596
+2023-11-01,GB,Electronics & Navigation,18226.0,0.394
+2023-11-01,GB,Winter Sports,26356.0,0.488
+2023-11-01,US,Tents & Shelter,3233.0,0.444
+2023-11-01,US,Apparel,17717.0,0.581
+2023-11-01,US,Footwear,5177.0,0.528
+2023-11-01,US,Backpacks & Bags,6462.0,0.545
+2023-11-01,US,Camp Kitchen,2190.0,0.596
+2023-11-01,US,Electronics & Navigation,7236.0,0.394
+2023-11-01,US,Winter Sports,21178.0,0.488
+2023-11-01,TR,Tents & Shelter,3747.0,0.444
+2023-11-01,TR,Apparel,8295.0,0.581
+2023-11-01,TR,Footwear,4654.0,0.528
+2023-11-01,TR,Backpacks & Bags,4367.0,0.545
+2023-11-01,TR,Camp Kitchen,1133.0,0.596
+2023-11-01,TR,Electronics & Navigation,10784.0,0.394
+2023-11-01,TR,Winter Sports,14087.0,0.488
+2023-11-01,AZ,Tents & Shelter,929.0,0.444
+2023-11-01,AZ,Apparel,3478.0,0.581
+2023-11-01,AZ,Footwear,1844.0,0.528
+2023-11-01,AZ,Backpacks & Bags,1801.0,0.545
+2023-11-01,AZ,Camp Kitchen,534.0,0.596
+2023-11-01,AZ,Electronics & Navigation,2347.0,0.394
+2023-11-01,AZ,Winter Sports,4406.0,0.488
+2023-12-01,DE,Tents & Shelter,4806.0,0.444
+2023-12-01,DE,Apparel,14190.0,0.581
+2023-12-01,DE,Footwear,7921.0,0.528
+2023-12-01,DE,Backpacks & Bags,10502.0,0.545
+2023-12-01,DE,Camp Kitchen,3173.0,0.596
+2023-12-01,DE,Electronics & Navigation,11343.0,0.394
+2023-12-01,DE,Winter Sports,25749.0,0.488
+2023-12-01,FR,Tents & Shelter,2446.0,0.444
+2023-12-01,FR,Apparel,13451.0,0.581
+2023-12-01,FR,Footwear,3633.0,0.528
+2023-12-01,FR,Backpacks & Bags,4970.0,0.545
+2023-12-01,FR,Camp Kitchen,1917.0,0.596
+2023-12-01,FR,Electronics & Navigation,4601.0,0.394
+2023-12-01,FR,Winter Sports,11028.0,0.488
+2023-12-01,NL,Tents & Shelter,1080.0,0.444
+2023-12-01,NL,Apparel,5527.0,0.581
+2023-12-01,NL,Footwear,2132.0,0.528
+2023-12-01,NL,Backpacks & Bags,2910.0,0.545
+2023-12-01,NL,Camp Kitchen,2296.0,0.596
+2023-12-01,NL,Electronics & Navigation,4798.0,0.394
+2023-12-01,NL,Winter Sports,10500.0,0.488
+2023-12-01,GB,Tents & Shelter,8893.0,0.444
+2023-12-01,GB,Apparel,24479.0,0.581
+2023-12-01,GB,Footwear,5269.0,0.528
+2023-12-01,GB,Backpacks & Bags,6258.0,0.545
+2023-12-01,GB,Camp Kitchen,1992.0,0.596
+2023-12-01,GB,Electronics & Navigation,12526.0,0.394
+2023-12-01,GB,Winter Sports,37376.0,0.488
+2023-12-01,US,Tents & Shelter,2694.0,0.444
+2023-12-01,US,Apparel,11083.0,0.581
+2023-12-01,US,Footwear,2820.0,0.528
+2023-12-01,US,Backpacks & Bags,5134.0,0.545
+2023-12-01,US,Camp Kitchen,1505.0,0.596
+2023-12-01,US,Electronics & Navigation,7646.0,0.394
+2023-12-01,US,Winter Sports,13906.0,0.488
+2023-12-01,TR,Tents & Shelter,2862.0,0.444
+2023-12-01,TR,Apparel,14027.0,0.581
+2023-12-01,TR,Footwear,4473.0,0.528
+2023-12-01,TR,Backpacks & Bags,4199.0,0.545
+2023-12-01,TR,Camp Kitchen,1753.0,0.596
+2023-12-01,TR,Electronics & Navigation,7653.0,0.394
+2023-12-01,TR,Winter Sports,20249.0,0.488
+2023-12-01,AZ,Tents & Shelter,675.0,0.444
+2023-12-01,AZ,Apparel,2769.0,0.581
+2023-12-01,AZ,Footwear,923.0,0.528
+2023-12-01,AZ,Backpacks & Bags,1422.0,0.545
+2023-12-01,AZ,Camp Kitchen,292.0,0.596
+2023-12-01,AZ,Electronics & Navigation,1210.0,0.394
+2023-12-01,AZ,Winter Sports,8097.0,0.488
+2024-01-01,DE,Tents & Shelter,5221.0,0.444
+2024-01-01,DE,Apparel,11434.0,0.581
+2024-01-01,DE,Footwear,5710.0,0.528
+2024-01-01,DE,Backpacks & Bags,5408.0,0.545
+2024-01-01,DE,Camp Kitchen,2368.0,0.596
+2024-01-01,DE,Electronics & Navigation,5502.0,0.394
+2024-01-01,DE,Winter Sports,17070.0,0.488
+2024-01-01,FR,Tents & Shelter,925.0,0.444
+2024-01-01,FR,Apparel,6578.0,0.581
+2024-01-01,FR,Footwear,2386.0,0.528
+2024-01-01,FR,Backpacks & Bags,965.0,0.545
+2024-01-01,FR,Camp Kitchen,1716.0,0.596
+2024-01-01,FR,Electronics & Navigation,2020.0,0.394
+2024-01-01,FR,Winter Sports,11154.0,0.488
+2024-01-01,NL,Tents & Shelter,1774.0,0.444
+2024-01-01,NL,Apparel,4409.0,0.581
+2024-01-01,NL,Footwear,2818.0,0.528
+2024-01-01,NL,Backpacks & Bags,2838.0,0.545
+2024-01-01,NL,Camp Kitchen,1500.0,0.596
+2024-01-01,NL,Electronics & Navigation,2084.0,0.394
+2024-01-01,NL,Winter Sports,8240.0,0.488
+2024-01-01,GB,Tents & Shelter,2281.0,0.444
+2024-01-01,GB,Apparel,13637.0,0.581
+2024-01-01,GB,Footwear,4407.0,0.528
+2024-01-01,GB,Backpacks & Bags,3613.0,0.545
+2024-01-01,GB,Camp Kitchen,1696.0,0.596
+2024-01-01,GB,Electronics & Navigation,4177.0,0.394
+2024-01-01,GB,Winter Sports,16312.0,0.488
+2024-01-01,US,Tents & Shelter,4194.0,0.444
+2024-01-01,US,Apparel,15216.0,0.581
+2024-01-01,US,Footwear,3725.0,0.528
+2024-01-01,US,Backpacks & Bags,3171.0,0.545
+2024-01-01,US,Camp Kitchen,1817.0,0.596
+2024-01-01,US,Electronics & Navigation,4287.0,0.394
+2024-01-01,US,Winter Sports,14208.0,0.488
+2024-01-01,TR,Tents & Shelter,2509.0,0.444
+2024-01-01,TR,Apparel,10786.0,0.581
+2024-01-01,TR,Footwear,5505.0,0.528
+2024-01-01,TR,Backpacks & Bags,2741.0,0.545
+2024-01-01,TR,Camp Kitchen,2885.0,0.596
+2024-01-01,TR,Electronics & Navigation,2735.0,0.394
+2024-01-01,TR,Winter Sports,9055.0,0.488
+2024-01-01,AZ,Tents & Shelter,508.0,0.444
+2024-01-01,AZ,Apparel,2131.0,0.581
+2024-01-01,AZ,Footwear,1786.0,0.528
+2024-01-01,AZ,Backpacks & Bags,698.0,0.545
+2024-01-01,AZ,Camp Kitchen,296.0,0.596
+2024-01-01,AZ,Electronics & Navigation,348.0,0.394
+2024-01-01,AZ,Winter Sports,5719.0,0.488
+2024-02-01,DE,Tents & Shelter,7562.0,0.444
+2024-02-01,DE,Apparel,18550.0,0.581
+2024-02-01,DE,Footwear,5497.0,0.528
+2024-02-01,DE,Backpacks & Bags,3765.0,0.545
+2024-02-01,DE,Camp Kitchen,1903.0,0.596
+2024-02-01,DE,Electronics & Navigation,4615.0,0.394
+2024-02-01,DE,Winter Sports,29392.0,0.488
+2024-02-01,FR,Tents & Shelter,3644.0,0.444
+2024-02-01,FR,Apparel,5787.0,0.581
+2024-02-01,FR,Footwear,1837.0,0.528
+2024-02-01,FR,Backpacks & Bags,1950.0,0.545
+2024-02-01,FR,Camp Kitchen,1105.0,0.596
+2024-02-01,FR,Electronics & Navigation,1386.0,0.394
+2024-02-01,FR,Winter Sports,11751.0,0.488
+2024-02-01,NL,Tents & Shelter,2047.0,0.444
+2024-02-01,NL,Apparel,4752.0,0.581
+2024-02-01,NL,Footwear,1800.0,0.528
+2024-02-01,NL,Backpacks & Bags,980.0,0.545
+2024-02-01,NL,Camp Kitchen,804.0,0.596
+2024-02-01,NL,Electronics & Navigation,1090.0,0.394
+2024-02-01,NL,Winter Sports,5099.0,0.488
+2024-02-01,GB,Tents & Shelter,2110.0,0.444
+2024-02-01,GB,Apparel,13185.0,0.581
+2024-02-01,GB,Footwear,4925.0,0.528
+2024-02-01,GB,Backpacks & Bags,2803.0,0.545
+2024-02-01,GB,Camp Kitchen,1882.0,0.596
+2024-02-01,GB,Electronics & Navigation,3071.0,0.394
+2024-02-01,GB,Winter Sports,10538.0,0.488
+2024-02-01,US,Tents & Shelter,3830.0,0.444
+2024-02-01,US,Apparel,9118.0,0.581
+2024-02-01,US,Footwear,3508.0,0.528
+2024-02-01,US,Backpacks & Bags,2772.0,0.545
+2024-02-01,US,Camp Kitchen,1876.0,0.596
+2024-02-01,US,Electronics & Navigation,3332.0,0.394
+2024-02-01,US,Winter Sports,11305.0,0.488
+2024-02-01,TR,Tents & Shelter,2359.0,0.444
+2024-02-01,TR,Apparel,7409.0,0.581
+2024-02-01,TR,Footwear,5240.0,0.528
+2024-02-01,TR,Backpacks & Bags,4730.0,0.545
+2024-02-01,TR,Camp Kitchen,2013.0,0.596
+2024-02-01,TR,Electronics & Navigation,3273.0,0.394
+2024-02-01,TR,Winter Sports,5335.0,0.488
+2024-02-01,AZ,Tents & Shelter,1159.0,0.444
+2024-02-01,AZ,Apparel,1850.0,0.581
+2024-02-01,AZ,Footwear,869.0,0.528
+2024-02-01,AZ,Backpacks & Bags,1725.0,0.545
+2024-02-01,AZ,Camp Kitchen,106.0,0.596
+2024-02-01,AZ,Electronics & Navigation,647.0,0.394
+2024-02-01,AZ,Winter Sports,3458.0,0.488
+2024-03-01,DE,Tents & Shelter,10359.0,0.444
+2024-03-01,DE,Apparel,14979.0,0.581
+2024-03-01,DE,Footwear,6962.0,0.528
+2024-03-01,DE,Backpacks & Bags,8245.0,0.545
+2024-03-01,DE,Camp Kitchen,2935.0,0.596
+2024-03-01,DE,Electronics & Navigation,10055.0,0.394
+2024-03-01,DE,Winter Sports,9128.0,0.488
+2024-03-01,FR,Tents & Shelter,3775.0,0.444
+2024-03-01,FR,Apparel,7214.0,0.581
+2024-03-01,FR,Footwear,4706.0,0.528
+2024-03-01,FR,Backpacks & Bags,4397.0,0.545
+2024-03-01,FR,Camp Kitchen,1469.0,0.596
+2024-03-01,FR,Electronics & Navigation,2065.0,0.394
+2024-03-01,FR,Winter Sports,4347.0,0.488
+2024-03-01,NL,Tents & Shelter,3250.0,0.444
+2024-03-01,NL,Apparel,3894.0,0.581
+2024-03-01,NL,Footwear,3165.0,0.528
+2024-03-01,NL,Backpacks & Bags,2840.0,0.545
+2024-03-01,NL,Camp Kitchen,1228.0,0.596
+2024-03-01,NL,Electronics & Navigation,2455.0,0.394
+2024-03-01,NL,Winter Sports,2319.0,0.488
+2024-03-01,GB,Tents & Shelter,9320.0,0.444
+2024-03-01,GB,Apparel,12151.0,0.581
+2024-03-01,GB,Footwear,4582.0,0.528
+2024-03-01,GB,Backpacks & Bags,7403.0,0.545
+2024-03-01,GB,Camp Kitchen,2418.0,0.596
+2024-03-01,GB,Electronics & Navigation,3859.0,0.394
+2024-03-01,GB,Winter Sports,9018.0,0.488
+2024-03-01,US,Tents & Shelter,5869.0,0.444
+2024-03-01,US,Apparel,10816.0,0.581
+2024-03-01,US,Footwear,7069.0,0.528
+2024-03-01,US,Backpacks & Bags,4358.0,0.545
+2024-03-01,US,Camp Kitchen,1998.0,0.596
+2024-03-01,US,Electronics & Navigation,9239.0,0.394
+2024-03-01,US,Winter Sports,6167.0,0.488
+2024-03-01,TR,Tents & Shelter,5735.0,0.444
+2024-03-01,TR,Apparel,16063.0,0.581
+2024-03-01,TR,Footwear,3889.0,0.528
+2024-03-01,TR,Backpacks & Bags,5948.0,0.545
+2024-03-01,TR,Camp Kitchen,2174.0,0.596
+2024-03-01,TR,Electronics & Navigation,4374.0,0.394
+2024-03-01,TR,Winter Sports,9857.0,0.488
+2024-03-01,AZ,Tents & Shelter,1884.0,0.444
+2024-03-01,AZ,Apparel,2928.0,0.581
+2024-03-01,AZ,Footwear,1541.0,0.528
+2024-03-01,AZ,Backpacks & Bags,1510.0,0.545
+2024-03-01,AZ,Camp Kitchen,1090.0,0.596
+2024-03-01,AZ,Electronics & Navigation,1882.0,0.394
+2024-03-01,AZ,Winter Sports,3311.0,0.488
+2024-03-01,AE,Tents & Shelter,4769.0,0.444
+2024-03-01,AE,Apparel,11974.0,0.581
+2024-03-01,AE,Footwear,5349.0,0.528
+2024-03-01,AE,Backpacks & Bags,7337.0,0.545
+2024-03-01,AE,Camp Kitchen,3537.0,0.596
+2024-03-01,AE,Electronics & Navigation,6860.0,0.394
+2024-03-01,AE,Winter Sports,1719.0,0.488
+2024-04-01,DE,Tents & Shelter,14132.0,0.444
+2024-04-01,DE,Apparel,11663.0,0.581
+2024-04-01,DE,Footwear,6902.0,0.528
+2024-04-01,DE,Backpacks & Bags,7795.0,0.545
+2024-04-01,DE,Camp Kitchen,4950.0,0.596
+2024-04-01,DE,Electronics & Navigation,6248.0,0.394
+2024-04-01,DE,Winter Sports,3092.0,0.488
+2024-04-01,FR,Tents & Shelter,5646.0,0.444
+2024-04-01,FR,Apparel,6845.0,0.581
+2024-04-01,FR,Footwear,3834.0,0.528
+2024-04-01,FR,Backpacks & Bags,4915.0,0.545
+2024-04-01,FR,Camp Kitchen,2638.0,0.596
+2024-04-01,FR,Electronics & Navigation,2720.0,0.394
+2024-04-01,FR,Winter Sports,1122.0,0.488
+2024-04-01,NL,Tents & Shelter,3695.0,0.444
+2024-04-01,NL,Apparel,2821.0,0.581
+2024-04-01,NL,Footwear,2268.0,0.528
+2024-04-01,NL,Backpacks & Bags,2629.0,0.545
+2024-04-01,NL,Camp Kitchen,1603.0,0.596
+2024-04-01,NL,Electronics & Navigation,1062.0,0.394
+2024-04-01,NL,Winter Sports,635.0,0.488
+2024-04-01,GB,Tents & Shelter,10451.0,0.444
+2024-04-01,GB,Apparel,11016.0,0.581
+2024-04-01,GB,Footwear,5214.0,0.528
+2024-04-01,GB,Backpacks & Bags,7729.0,0.545
+2024-04-01,GB,Camp Kitchen,4973.0,0.596
+2024-04-01,GB,Electronics & Navigation,4531.0,0.394
+2024-04-01,GB,Winter Sports,2834.0,0.488
+2024-04-01,US,Tents & Shelter,8686.0,0.444
+2024-04-01,US,Apparel,11646.0,0.581
+2024-04-01,US,Footwear,11091.0,0.528
+2024-04-01,US,Backpacks & Bags,8352.0,0.545
+2024-04-01,US,Camp Kitchen,5387.0,0.596
+2024-04-01,US,Electronics & Navigation,3967.0,0.394
+2024-04-01,US,Winter Sports,7117.0,0.488
+2024-04-01,TR,Tents & Shelter,10542.0,0.444
+2024-04-01,TR,Apparel,9139.0,0.581
+2024-04-01,TR,Footwear,5514.0,0.528
+2024-04-01,TR,Backpacks & Bags,4400.0,0.545
+2024-04-01,TR,Camp Kitchen,4617.0,0.596
+2024-04-01,TR,Electronics & Navigation,4898.0,0.394
+2024-04-01,TR,Winter Sports,2753.0,0.488
+2024-04-01,AZ,Tents & Shelter,5252.0,0.444
+2024-04-01,AZ,Apparel,2602.0,0.581
+2024-04-01,AZ,Footwear,1537.0,0.528
+2024-04-01,AZ,Backpacks & Bags,1973.0,0.545
+2024-04-01,AZ,Camp Kitchen,920.0,0.596
+2024-04-01,AZ,Electronics & Navigation,1772.0,0.394
+2024-04-01,AZ,Winter Sports,1949.0,0.488
+2024-04-01,AE,Tents & Shelter,5725.0,0.444
+2024-04-01,AE,Apparel,8228.0,0.581
+2024-04-01,AE,Footwear,6591.0,0.528
+2024-04-01,AE,Backpacks & Bags,4719.0,0.545
+2024-04-01,AE,Camp Kitchen,4185.0,0.596
+2024-04-01,AE,Electronics & Navigation,10304.0,0.394
+2024-04-01,AE,Winter Sports,350.0,0.488
+2024-05-01,DE,Tents & Shelter,18375.0,0.444
+2024-05-01,DE,Apparel,14834.0,0.581
+2024-05-01,DE,Footwear,7314.0,0.528
+2024-05-01,DE,Backpacks & Bags,8908.0,0.545
+2024-05-01,DE,Camp Kitchen,6259.0,0.596
+2024-05-01,DE,Electronics & Navigation,8410.0,0.394
+2024-05-01,DE,Winter Sports,1920.0,0.488
+2024-05-01,FR,Tents & Shelter,7227.0,0.444
+2024-05-01,FR,Apparel,5355.0,0.581
+2024-05-01,FR,Footwear,3473.0,0.528
+2024-05-01,FR,Backpacks & Bags,3948.0,0.545
+2024-05-01,FR,Camp Kitchen,4318.0,0.596
+2024-05-01,FR,Electronics & Navigation,2399.0,0.394
+2024-05-01,FR,Winter Sports,775.0,0.488
+2024-05-01,NL,Tents & Shelter,9419.0,0.444
+2024-05-01,NL,Apparel,3982.0,0.581
+2024-05-01,NL,Footwear,2821.0,0.528
+2024-05-01,NL,Backpacks & Bags,4774.0,0.545
+2024-05-01,NL,Camp Kitchen,2802.0,0.596
+2024-05-01,NL,Electronics & Navigation,3617.0,0.394
+2024-05-01,NL,Winter Sports,298.0,0.488
+2024-05-01,GB,Tents & Shelter,16956.0,0.444
+2024-05-01,GB,Apparel,14671.0,0.581
+2024-05-01,GB,Footwear,9987.0,0.528
+2024-05-01,GB,Backpacks & Bags,8263.0,0.545
+2024-05-01,GB,Camp Kitchen,8625.0,0.596
+2024-05-01,GB,Electronics & Navigation,8900.0,0.394
+2024-05-01,GB,Winter Sports,1623.0,0.488
+2024-05-01,US,Tents & Shelter,18503.0,0.444
+2024-05-01,US,Apparel,8689.0,0.581
+2024-05-01,US,Footwear,6311.0,0.528
+2024-05-01,US,Backpacks & Bags,8040.0,0.545
+2024-05-01,US,Camp Kitchen,4858.0,0.596
+2024-05-01,US,Electronics & Navigation,7839.0,0.394
+2024-05-01,US,Winter Sports,2294.0,0.488
+2024-05-01,TR,Tents & Shelter,12482.0,0.444
+2024-05-01,TR,Apparel,8063.0,0.581
+2024-05-01,TR,Footwear,7580.0,0.528
+2024-05-01,TR,Backpacks & Bags,6032.0,0.545
+2024-05-01,TR,Camp Kitchen,5125.0,0.596
+2024-05-01,TR,Electronics & Navigation,3267.0,0.394
+2024-05-01,TR,Winter Sports,169.0,0.488
+2024-05-01,AZ,Tents & Shelter,5631.0,0.444
+2024-05-01,AZ,Apparel,2197.0,0.581
+2024-05-01,AZ,Footwear,3131.0,0.528
+2024-05-01,AZ,Backpacks & Bags,3140.0,0.545
+2024-05-01,AZ,Camp Kitchen,2942.0,0.596
+2024-05-01,AZ,Electronics & Navigation,2644.0,0.394
+2024-05-01,AZ,Winter Sports,173.0,0.488
+2024-05-01,AE,Tents & Shelter,11652.0,0.444
+2024-05-01,AE,Apparel,6977.0,0.581
+2024-05-01,AE,Footwear,6150.0,0.528
+2024-05-01,AE,Backpacks & Bags,7115.0,0.545
+2024-05-01,AE,Camp Kitchen,5106.0,0.596
+2024-05-01,AE,Electronics & Navigation,4510.0,0.394
+2024-05-01,AE,Winter Sports,225.0,0.488
+2024-06-01,DE,Tents & Shelter,25948.0,0.444
+2024-06-01,DE,Apparel,11496.0,0.581
+2024-06-01,DE,Footwear,7489.0,0.528
+2024-06-01,DE,Backpacks & Bags,10312.0,0.545
+2024-06-01,DE,Camp Kitchen,10191.0,0.596
+2024-06-01,DE,Electronics & Navigation,7013.0,0.394
+2024-06-01,DE,Winter Sports,259.0,0.488
+2024-06-01,FR,Tents & Shelter,7506.0,0.444
+2024-06-01,FR,Apparel,3234.0,0.581
+2024-06-01,FR,Footwear,3762.0,0.528
+2024-06-01,FR,Backpacks & Bags,5695.0,0.545
+2024-06-01,FR,Camp Kitchen,2304.0,0.596
+2024-06-01,FR,Electronics & Navigation,3148.0,0.394
+2024-06-01,FR,Winter Sports,428.0,0.488
+2024-06-01,NL,Tents & Shelter,7355.0,0.444
+2024-06-01,NL,Apparel,3708.0,0.581
+2024-06-01,NL,Footwear,3312.0,0.528
+2024-06-01,NL,Backpacks & Bags,6348.0,0.545
+2024-06-01,NL,Camp Kitchen,2338.0,0.596
+2024-06-01,NL,Electronics & Navigation,2523.0,0.394
+2024-06-01,NL,Winter Sports,89.0,0.488
+2024-06-01,GB,Tents & Shelter,15166.0,0.444
+2024-06-01,GB,Apparel,11225.0,0.581
+2024-06-01,GB,Footwear,5108.0,0.528
+2024-06-01,GB,Backpacks & Bags,8865.0,0.545
+2024-06-01,GB,Camp Kitchen,7762.0,0.596
+2024-06-01,GB,Electronics & Navigation,9358.0,0.394
+2024-06-01,GB,Winter Sports,961.0,0.488
+2024-06-01,US,Tents & Shelter,15348.0,0.444
+2024-06-01,US,Apparel,8915.0,0.581
+2024-06-01,US,Footwear,9684.0,0.528
+2024-06-01,US,Backpacks & Bags,7175.0,0.545
+2024-06-01,US,Camp Kitchen,7512.0,0.596
+2024-06-01,US,Electronics & Navigation,4594.0,0.394
+2024-06-01,US,Winter Sports,266.0,0.488
+2024-06-01,TR,Tents & Shelter,21716.0,0.444
+2024-06-01,TR,Apparel,4999.0,0.581
+2024-06-01,TR,Footwear,6322.0,0.528
+2024-06-01,TR,Backpacks & Bags,7697.0,0.545
+2024-06-01,TR,Camp Kitchen,5843.0,0.596
+2024-06-01,TR,Electronics & Navigation,9111.0,0.394
+2024-06-01,TR,Winter Sports,546.0,0.488
+2024-06-01,AZ,Tents & Shelter,2912.0,0.444
+2024-06-01,AZ,Apparel,1806.0,0.581
+2024-06-01,AZ,Footwear,758.0,0.528
+2024-06-01,AZ,Backpacks & Bags,2998.0,0.545
+2024-06-01,AZ,Camp Kitchen,1319.0,0.596
+2024-06-01,AZ,Electronics & Navigation,727.0,0.394
+2024-06-01,AE,Tents & Shelter,8237.0,0.444
+2024-06-01,AE,Apparel,5359.0,0.581
+2024-06-01,AE,Footwear,8319.0,0.528
+2024-06-01,AE,Backpacks & Bags,8175.0,0.545
+2024-06-01,AE,Camp Kitchen,4674.0,0.596
+2024-06-01,AE,Electronics & Navigation,6732.0,0.394
+2024-06-01,AE,Winter Sports,82.0,0.488
+2024-07-01,DE,Tents & Shelter,13666.0,0.444
+2024-07-01,DE,Apparel,11648.0,0.581
+2024-07-01,DE,Footwear,5808.0,0.528
+2024-07-01,DE,Backpacks & Bags,12045.0,0.545
+2024-07-01,DE,Camp Kitchen,9391.0,0.596
+2024-07-01,DE,Electronics & Navigation,11657.0,0.394
+2024-07-01,DE,Winter Sports,514.0,0.488
+2024-07-01,FR,Tents & Shelter,8740.0,0.444
+2024-07-01,FR,Apparel,6203.0,0.581
+2024-07-01,FR,Footwear,4256.0,0.528
+2024-07-01,FR,Backpacks & Bags,5075.0,0.545
+2024-07-01,FR,Camp Kitchen,3459.0,0.596
+2024-07-01,FR,Electronics & Navigation,3011.0,0.394
+2024-07-01,FR,Winter Sports,335.0,0.488
+2024-07-01,NL,Tents & Shelter,5750.0,0.444
+2024-07-01,NL,Apparel,2296.0,0.581
+2024-07-01,NL,Footwear,2157.0,0.528
+2024-07-01,NL,Backpacks & Bags,3552.0,0.545
+2024-07-01,NL,Camp Kitchen,2894.0,0.596
+2024-07-01,NL,Electronics & Navigation,2076.0,0.394
+2024-07-01,NL,Winter Sports,501.0,0.488
+2024-07-01,GB,Tents & Shelter,13825.0,0.444
+2024-07-01,GB,Apparel,8810.0,0.581
+2024-07-01,GB,Footwear,4006.0,0.528
+2024-07-01,GB,Backpacks & Bags,7171.0,0.545
+2024-07-01,GB,Camp Kitchen,4918.0,0.596
+2024-07-01,GB,Electronics & Navigation,9289.0,0.394
+2024-07-01,GB,Winter Sports,1066.0,0.488
+2024-07-01,US,Tents & Shelter,11791.0,0.444
+2024-07-01,US,Apparel,8815.0,0.581
+2024-07-01,US,Footwear,4128.0,0.528
+2024-07-01,US,Backpacks & Bags,8588.0,0.545
+2024-07-01,US,Camp Kitchen,5314.0,0.596
+2024-07-01,US,Electronics & Navigation,5083.0,0.394
+2024-07-01,US,Winter Sports,358.0,0.488
+2024-07-01,TR,Tents & Shelter,18140.0,0.444
+2024-07-01,TR,Apparel,9134.0,0.581
+2024-07-01,TR,Footwear,5108.0,0.528
+2024-07-01,TR,Backpacks & Bags,8292.0,0.545
+2024-07-01,TR,Camp Kitchen,7452.0,0.596
+2024-07-01,TR,Electronics & Navigation,7314.0,0.394
+2024-07-01,TR,Winter Sports,218.0,0.488
+2024-07-01,AZ,Tents & Shelter,3479.0,0.444
+2024-07-01,AZ,Apparel,2867.0,0.581
+2024-07-01,AZ,Footwear,2757.0,0.528
+2024-07-01,AZ,Backpacks & Bags,3260.0,0.545
+2024-07-01,AZ,Camp Kitchen,2699.0,0.596
+2024-07-01,AZ,Electronics & Navigation,502.0,0.394
+2024-07-01,AZ,Winter Sports,37.0,0.488
+2024-07-01,AE,Tents & Shelter,9693.0,0.444
+2024-07-01,AE,Apparel,5857.0,0.581
+2024-07-01,AE,Footwear,2904.0,0.528
+2024-07-01,AE,Backpacks & Bags,7291.0,0.545
+2024-07-01,AE,Camp Kitchen,4599.0,0.596
+2024-07-01,AE,Electronics & Navigation,8682.0,0.394
+2024-07-01,AE,Winter Sports,421.0,0.488
+2024-08-01,DE,Tents & Shelter,17294.0,0.444
+2024-08-01,DE,Apparel,13543.0,0.581
+2024-08-01,DE,Footwear,7964.0,0.528
+2024-08-01,DE,Backpacks & Bags,12789.0,0.545
+2024-08-01,DE,Camp Kitchen,6545.0,0.596
+2024-08-01,DE,Electronics & Navigation,7331.0,0.394
+2024-08-01,DE,Winter Sports,1344.0,0.488
+2024-08-01,FR,Tents & Shelter,7104.0,0.444
+2024-08-01,FR,Apparel,3931.0,0.581
+2024-08-01,FR,Footwear,2617.0,0.528
+2024-08-01,FR,Backpacks & Bags,6237.0,0.545
+2024-08-01,FR,Camp Kitchen,3859.0,0.596
+2024-08-01,FR,Electronics & Navigation,3165.0,0.394
+2024-08-01,FR,Winter Sports,472.0,0.488
+2024-08-01,NL,Tents & Shelter,4982.0,0.444
+2024-08-01,NL,Apparel,1550.0,0.581
+2024-08-01,NL,Footwear,2196.0,0.528
+2024-08-01,NL,Backpacks & Bags,2433.0,0.545
+2024-08-01,NL,Camp Kitchen,1702.0,0.596
+2024-08-01,NL,Electronics & Navigation,1725.0,0.394
+2024-08-01,NL,Winter Sports,224.0,0.488
+2024-08-01,GB,Tents & Shelter,9259.0,0.444
+2024-08-01,GB,Apparel,7938.0,0.581
+2024-08-01,GB,Footwear,6099.0,0.528
+2024-08-01,GB,Backpacks & Bags,7383.0,0.545
+2024-08-01,GB,Camp Kitchen,7159.0,0.596
+2024-08-01,GB,Electronics & Navigation,6531.0,0.394
+2024-08-01,GB,Winter Sports,954.0,0.488
+2024-08-01,US,Tents & Shelter,9494.0,0.444
+2024-08-01,US,Apparel,8116.0,0.581
+2024-08-01,US,Footwear,5700.0,0.528
+2024-08-01,US,Backpacks & Bags,7248.0,0.545
+2024-08-01,US,Camp Kitchen,4760.0,0.596
+2024-08-01,US,Electronics & Navigation,5338.0,0.394
+2024-08-01,US,Winter Sports,1180.0,0.488
+2024-08-01,TR,Tents & Shelter,11991.0,0.444
+2024-08-01,TR,Apparel,9894.0,0.581
+2024-08-01,TR,Footwear,7013.0,0.528
+2024-08-01,TR,Backpacks & Bags,6833.0,0.545
+2024-08-01,TR,Camp Kitchen,5396.0,0.596
+2024-08-01,TR,Electronics & Navigation,8189.0,0.394
+2024-08-01,TR,Winter Sports,777.0,0.488
+2024-08-01,AZ,Tents & Shelter,4945.0,0.444
+2024-08-01,AZ,Apparel,1047.0,0.581
+2024-08-01,AZ,Footwear,3040.0,0.528
+2024-08-01,AZ,Backpacks & Bags,2041.0,0.545
+2024-08-01,AZ,Camp Kitchen,1311.0,0.596
+2024-08-01,AZ,Electronics & Navigation,1458.0,0.394
+2024-08-01,AZ,Winter Sports,996.0,0.488
+2024-08-01,AE,Tents & Shelter,5487.0,0.444
+2024-08-01,AE,Apparel,7569.0,0.581
+2024-08-01,AE,Footwear,4491.0,0.528
+2024-08-01,AE,Backpacks & Bags,6806.0,0.545
+2024-08-01,AE,Camp Kitchen,5208.0,0.596
+2024-08-01,AE,Electronics & Navigation,10207.0,0.394
+2024-08-01,AE,Winter Sports,685.0,0.488
+2024-09-01,DE,Tents & Shelter,13287.0,0.444
+2024-09-01,DE,Apparel,13199.0,0.581
+2024-09-01,DE,Footwear,11021.0,0.528
+2024-09-01,DE,Backpacks & Bags,8061.0,0.545
+2024-09-01,DE,Camp Kitchen,4563.0,0.596
+2024-09-01,DE,Electronics & Navigation,8809.0,0.394
+2024-09-01,DE,Winter Sports,5442.0,0.488
+2024-09-01,FR,Tents & Shelter,6303.0,0.444
+2024-09-01,FR,Apparel,6300.0,0.581
+2024-09-01,FR,Footwear,5187.0,0.528
+2024-09-01,FR,Backpacks & Bags,5958.0,0.545
+2024-09-01,FR,Camp Kitchen,2367.0,0.596
+2024-09-01,FR,Electronics & Navigation,5014.0,0.394
+2024-09-01,FR,Winter Sports,1182.0,0.488
+2024-09-01,NL,Tents & Shelter,3701.0,0.444
+2024-09-01,NL,Apparel,5273.0,0.581
+2024-09-01,NL,Footwear,3117.0,0.528
+2024-09-01,NL,Backpacks & Bags,5009.0,0.545
+2024-09-01,NL,Camp Kitchen,2206.0,0.596
+2024-09-01,NL,Electronics & Navigation,1845.0,0.394
+2024-09-01,NL,Winter Sports,2279.0,0.488
+2024-09-01,GB,Tents & Shelter,12040.0,0.444
+2024-09-01,GB,Apparel,11804.0,0.581
+2024-09-01,GB,Footwear,8850.0,0.528
+2024-09-01,GB,Backpacks & Bags,7940.0,0.545
+2024-09-01,GB,Camp Kitchen,5430.0,0.596
+2024-09-01,GB,Electronics & Navigation,6444.0,0.394
+2024-09-01,GB,Winter Sports,5708.0,0.488
+2024-09-01,US,Tents & Shelter,7672.0,0.444
+2024-09-01,US,Apparel,10976.0,0.581
+2024-09-01,US,Footwear,8529.0,0.528
+2024-09-01,US,Backpacks & Bags,7638.0,0.545
+2024-09-01,US,Camp Kitchen,3653.0,0.596
+2024-09-01,US,Electronics & Navigation,5497.0,0.394
+2024-09-01,US,Winter Sports,4233.0,0.488
+2024-09-01,TR,Tents & Shelter,12545.0,0.444
+2024-09-01,TR,Apparel,13018.0,0.581
+2024-09-01,TR,Footwear,7698.0,0.528
+2024-09-01,TR,Backpacks & Bags,5412.0,0.545
+2024-09-01,TR,Camp Kitchen,5838.0,0.596
+2024-09-01,TR,Electronics & Navigation,6988.0,0.394
+2024-09-01,TR,Winter Sports,2899.0,0.488
+2024-09-01,AZ,Tents & Shelter,4725.0,0.444
+2024-09-01,AZ,Apparel,2615.0,0.581
+2024-09-01,AZ,Footwear,1454.0,0.528
+2024-09-01,AZ,Backpacks & Bags,1862.0,0.545
+2024-09-01,AZ,Camp Kitchen,752.0,0.596
+2024-09-01,AZ,Electronics & Navigation,1239.0,0.394
+2024-09-01,AZ,Winter Sports,675.0,0.488
+2024-09-01,AE,Tents & Shelter,4865.0,0.444
+2024-09-01,AE,Apparel,9842.0,0.581
+2024-09-01,AE,Footwear,7870.0,0.528
+2024-09-01,AE,Backpacks & Bags,7273.0,0.545
+2024-09-01,AE,Camp Kitchen,3669.0,0.596
+2024-09-01,AE,Electronics & Navigation,10051.0,0.394
+2024-09-01,AE,Winter Sports,418.0,0.488
+2024-10-01,DE,Tents & Shelter,6424.0,0.444
+2024-10-01,DE,Apparel,23886.0,0.581
+2024-10-01,DE,Footwear,9411.0,0.528
+2024-10-01,DE,Backpacks & Bags,10110.0,0.545
+2024-10-01,DE,Camp Kitchen,4011.0,0.596
+2024-10-01,DE,Electronics & Navigation,7582.0,0.394
+2024-10-01,DE,Winter Sports,19703.0,0.488
+2024-10-01,FR,Tents & Shelter,2247.0,0.444
+2024-10-01,FR,Apparel,7893.0,0.581
+2024-10-01,FR,Footwear,4789.0,0.528
+2024-10-01,FR,Backpacks & Bags,2494.0,0.545
+2024-10-01,FR,Camp Kitchen,1571.0,0.596
+2024-10-01,FR,Electronics & Navigation,3835.0,0.394
+2024-10-01,FR,Winter Sports,7317.0,0.488
+2024-10-01,NL,Tents & Shelter,1410.0,0.444
+2024-10-01,NL,Apparel,8552.0,0.581
+2024-10-01,NL,Footwear,3836.0,0.528
+2024-10-01,NL,Backpacks & Bags,3185.0,0.545
+2024-10-01,NL,Camp Kitchen,1133.0,0.596
+2024-10-01,NL,Electronics & Navigation,3133.0,0.394
+2024-10-01,NL,Winter Sports,5924.0,0.488
+2024-10-01,GB,Tents & Shelter,4847.0,0.444
+2024-10-01,GB,Apparel,17763.0,0.581
+2024-10-01,GB,Footwear,8304.0,0.528
+2024-10-01,GB,Backpacks & Bags,4688.0,0.545
+2024-10-01,GB,Camp Kitchen,5393.0,0.596
+2024-10-01,GB,Electronics & Navigation,6677.0,0.394
+2024-10-01,GB,Winter Sports,13792.0,0.488
+2024-10-01,US,Tents & Shelter,7674.0,0.444
+2024-10-01,US,Apparel,20085.0,0.581
+2024-10-01,US,Footwear,10333.0,0.528
+2024-10-01,US,Backpacks & Bags,8524.0,0.545
+2024-10-01,US,Camp Kitchen,6273.0,0.596
+2024-10-01,US,Electronics & Navigation,10215.0,0.394
+2024-10-01,US,Winter Sports,13064.0,0.488
+2024-10-01,TR,Tents & Shelter,4939.0,0.444
+2024-10-01,TR,Apparel,17449.0,0.581
+2024-10-01,TR,Footwear,9842.0,0.528
+2024-10-01,TR,Backpacks & Bags,8826.0,0.545
+2024-10-01,TR,Camp Kitchen,3184.0,0.596
+2024-10-01,TR,Electronics & Navigation,8617.0,0.394
+2024-10-01,TR,Winter Sports,8605.0,0.488
+2024-10-01,AZ,Tents & Shelter,1273.0,0.444
+2024-10-01,AZ,Apparel,3918.0,0.581
+2024-10-01,AZ,Footwear,3009.0,0.528
+2024-10-01,AZ,Backpacks & Bags,2074.0,0.545
+2024-10-01,AZ,Camp Kitchen,1046.0,0.596
+2024-10-01,AZ,Electronics & Navigation,1597.0,0.394
+2024-10-01,AZ,Winter Sports,4847.0,0.488
+2024-10-01,AE,Tents & Shelter,4138.0,0.444
+2024-10-01,AE,Apparel,17379.0,0.581
+2024-10-01,AE,Footwear,10627.0,0.528
+2024-10-01,AE,Backpacks & Bags,4390.0,0.545
+2024-10-01,AE,Camp Kitchen,3690.0,0.596
+2024-10-01,AE,Electronics & Navigation,8829.0,0.394
+2024-10-01,AE,Winter Sports,1786.0,0.488
+2024-11-01,DE,Tents & Shelter,10427.0,0.444
+2024-11-01,DE,Apparel,34424.0,0.581
+2024-11-01,DE,Footwear,15173.0,0.528
+2024-11-01,DE,Backpacks & Bags,18188.0,0.545
+2024-11-01,DE,Camp Kitchen,6772.0,0.596
+2024-11-01,DE,Electronics & Navigation,21767.0,0.394
+2024-11-01,DE,Winter Sports,51703.0,0.488
+2024-11-01,FR,Tents & Shelter,4112.0,0.444
+2024-11-01,FR,Apparel,13195.0,0.581
+2024-11-01,FR,Footwear,6024.0,0.528
+2024-11-01,FR,Backpacks & Bags,6290.0,0.545
+2024-11-01,FR,Camp Kitchen,2930.0,0.596
+2024-11-01,FR,Electronics & Navigation,13032.0,0.394
+2024-11-01,FR,Winter Sports,17001.0,0.488
+2024-11-01,NL,Tents & Shelter,2971.0,0.444
+2024-11-01,NL,Apparel,8152.0,0.581
+2024-11-01,NL,Footwear,3164.0,0.528
+2024-11-01,NL,Backpacks & Bags,3601.0,0.545
+2024-11-01,NL,Camp Kitchen,1690.0,0.596
+2024-11-01,NL,Electronics & Navigation,11150.0,0.394
+2024-11-01,NL,Winter Sports,8959.0,0.488
+2024-11-01,GB,Tents & Shelter,6419.0,0.444
+2024-11-01,GB,Apparel,29811.0,0.581
+2024-11-01,GB,Footwear,13186.0,0.528
+2024-11-01,GB,Backpacks & Bags,9315.0,0.545
+2024-11-01,GB,Camp Kitchen,3379.0,0.596
+2024-11-01,GB,Electronics & Navigation,16808.0,0.394
+2024-11-01,GB,Winter Sports,31707.0,0.488
+2024-11-01,US,Tents & Shelter,7121.0,0.444
+2024-11-01,US,Apparel,21751.0,0.581
+2024-11-01,US,Footwear,11787.0,0.528
+2024-11-01,US,Backpacks & Bags,8721.0,0.545
+2024-11-01,US,Camp Kitchen,3239.0,0.596
+2024-11-01,US,Electronics & Navigation,16573.0,0.394
+2024-11-01,US,Winter Sports,27665.0,0.488
+2024-11-01,TR,Tents & Shelter,5810.0,0.444
+2024-11-01,TR,Apparel,28577.0,0.581
+2024-11-01,TR,Footwear,11990.0,0.528
+2024-11-01,TR,Backpacks & Bags,8048.0,0.545
+2024-11-01,TR,Camp Kitchen,3334.0,0.596
+2024-11-01,TR,Electronics & Navigation,11176.0,0.394
+2024-11-01,TR,Winter Sports,36005.0,0.488
+2024-11-01,AZ,Tents & Shelter,2624.0,0.444
+2024-11-01,AZ,Apparel,5607.0,0.581
+2024-11-01,AZ,Footwear,3031.0,0.528
+2024-11-01,AZ,Backpacks & Bags,3595.0,0.545
+2024-11-01,AZ,Camp Kitchen,1216.0,0.596
+2024-11-01,AZ,Electronics & Navigation,3226.0,0.394
+2024-11-01,AZ,Winter Sports,12102.0,0.488
+2024-11-01,AE,Tents & Shelter,3149.0,0.444
+2024-11-01,AE,Apparel,28780.0,0.581
+2024-11-01,AE,Footwear,13936.0,0.528
+2024-11-01,AE,Backpacks & Bags,10093.0,0.545
+2024-11-01,AE,Camp Kitchen,4208.0,0.596
+2024-11-01,AE,Electronics & Navigation,16227.0,0.394
+2024-11-01,AE,Winter Sports,5879.0,0.488
+2024-12-01,DE,Tents & Shelter,4111.0,0.444
+2024-12-01,DE,Apparel,25759.0,0.581
+2024-12-01,DE,Footwear,10330.0,0.528
+2024-12-01,DE,Backpacks & Bags,13610.0,0.545
+2024-12-01,DE,Camp Kitchen,3702.0,0.596
+2024-12-01,DE,Electronics & Navigation,14315.0,0.394
+2024-12-01,DE,Winter Sports,34786.0,0.488
+2024-12-01,FR,Tents & Shelter,1883.0,0.444
+2024-12-01,FR,Apparel,14240.0,0.581
+2024-12-01,FR,Footwear,4794.0,0.528
+2024-12-01,FR,Backpacks & Bags,12080.0,0.545
+2024-12-01,FR,Camp Kitchen,1739.0,0.596
+2024-12-01,FR,Electronics & Navigation,10467.0,0.394
+2024-12-01,FR,Winter Sports,23015.0,0.488
+2024-12-01,NL,Tents & Shelter,1786.0,0.444
+2024-12-01,NL,Apparel,5299.0,0.581
+2024-12-01,NL,Footwear,2644.0,0.528
+2024-12-01,NL,Backpacks & Bags,2601.0,0.545
+2024-12-01,NL,Camp Kitchen,994.0,0.596
+2024-12-01,NL,Electronics & Navigation,3766.0,0.394
+2024-12-01,NL,Winter Sports,10799.0,0.488
+2024-12-01,GB,Tents & Shelter,3486.0,0.444
+2024-12-01,GB,Apparel,25723.0,0.581
+2024-12-01,GB,Footwear,12224.0,0.528
+2024-12-01,GB,Backpacks & Bags,7483.0,0.545
+2024-12-01,GB,Camp Kitchen,4540.0,0.596
+2024-12-01,GB,Electronics & Navigation,13683.0,0.394
+2024-12-01,GB,Winter Sports,42235.0,0.488
+2024-12-01,US,Tents & Shelter,4930.0,0.444
+2024-12-01,US,Apparel,30725.0,0.581
+2024-12-01,US,Footwear,9868.0,0.528
+2024-12-01,US,Backpacks & Bags,7882.0,0.545
+2024-12-01,US,Camp Kitchen,3872.0,0.596
+2024-12-01,US,Electronics & Navigation,12023.0,0.394
+2024-12-01,US,Winter Sports,32720.0,0.488
+2024-12-01,TR,Tents & Shelter,6687.0,0.444
+2024-12-01,TR,Apparel,23524.0,0.581
+2024-12-01,TR,Footwear,6793.0,0.528
+2024-12-01,TR,Backpacks & Bags,9361.0,0.545
+2024-12-01,TR,Camp Kitchen,3100.0,0.596
+2024-12-01,TR,Electronics & Navigation,14117.0,0.394
+2024-12-01,TR,Winter Sports,25985.0,0.488
+2024-12-01,AZ,Tents & Shelter,1832.0,0.444
+2024-12-01,AZ,Apparel,10203.0,0.581
+2024-12-01,AZ,Footwear,2306.0,0.528
+2024-12-01,AZ,Backpacks & Bags,2318.0,0.545
+2024-12-01,AZ,Camp Kitchen,627.0,0.596
+2024-12-01,AZ,Electronics & Navigation,7213.0,0.394
+2024-12-01,AZ,Winter Sports,16597.0,0.488
+2024-12-01,AE,Tents & Shelter,2149.0,0.444
+2024-12-01,AE,Apparel,22670.0,0.581
+2024-12-01,AE,Footwear,7612.0,0.528
+2024-12-01,AE,Backpacks & Bags,7795.0,0.545
+2024-12-01,AE,Camp Kitchen,1995.0,0.596
+2024-12-01,AE,Electronics & Navigation,19104.0,0.394
+2024-12-01,AE,Winter Sports,18044.0,0.488
+2025-01-01,DE,Tents & Shelter,6027.0,0.444
+2025-01-01,DE,Apparel,35490.0,0.581
+2025-01-01,DE,Footwear,7358.0,0.528
+2025-01-01,DE,Backpacks & Bags,17447.0,0.545
+2025-01-01,DE,Camp Kitchen,3166.0,0.596
+2025-01-01,DE,Electronics & Navigation,14724.0,0.394
+2025-01-01,DE,Winter Sports,32446.0,0.488
+2025-01-01,FR,Tents & Shelter,2532.0,0.444
+2025-01-01,FR,Apparel,11800.0,0.581
+2025-01-01,FR,Footwear,5178.0,0.528
+2025-01-01,FR,Backpacks & Bags,2465.0,0.545
+2025-01-01,FR,Camp Kitchen,1386.0,0.596
+2025-01-01,FR,Electronics & Navigation,4929.0,0.394
+2025-01-01,FR,Winter Sports,12780.0,0.488
+2025-01-01,NL,Tents & Shelter,879.0,0.444
+2025-01-01,NL,Apparel,5419.0,0.581
+2025-01-01,NL,Footwear,3168.0,0.528
+2025-01-01,NL,Backpacks & Bags,4321.0,0.545
+2025-01-01,NL,Camp Kitchen,1328.0,0.596
+2025-01-01,NL,Electronics & Navigation,4269.0,0.394
+2025-01-01,NL,Winter Sports,7486.0,0.488
+2025-01-01,GB,Tents & Shelter,5100.0,0.444
+2025-01-01,GB,Apparel,18013.0,0.581
+2025-01-01,GB,Footwear,9941.0,0.528
+2025-01-01,GB,Backpacks & Bags,6457.0,0.545
+2025-01-01,GB,Camp Kitchen,2593.0,0.596
+2025-01-01,GB,Electronics & Navigation,6084.0,0.394
+2025-01-01,GB,Winter Sports,23038.0,0.488
+2025-01-01,US,Tents & Shelter,5120.0,0.444
+2025-01-01,US,Apparel,13963.0,0.581
+2025-01-01,US,Footwear,9337.0,0.528
+2025-01-01,US,Backpacks & Bags,6860.0,0.545
+2025-01-01,US,Camp Kitchen,3349.0,0.596
+2025-01-01,US,Electronics & Navigation,9202.0,0.394
+2025-01-01,US,Winter Sports,16390.0,0.488
+2025-01-01,TR,Tents & Shelter,5113.0,0.444
+2025-01-01,TR,Apparel,24091.0,0.581
+2025-01-01,TR,Footwear,9771.0,0.528
+2025-01-01,TR,Backpacks & Bags,8761.0,0.545
+2025-01-01,TR,Camp Kitchen,3606.0,0.596
+2025-01-01,TR,Electronics & Navigation,5264.0,0.394
+2025-01-01,TR,Winter Sports,20167.0,0.488
+2025-01-01,AZ,Tents & Shelter,3754.0,0.444
+2025-01-01,AZ,Apparel,6563.0,0.581
+2025-01-01,AZ,Footwear,2738.0,0.528
+2025-01-01,AZ,Backpacks & Bags,6469.0,0.545
+2025-01-01,AZ,Camp Kitchen,453.0,0.596
+2025-01-01,AZ,Electronics & Navigation,2900.0,0.394
+2025-01-01,AZ,Winter Sports,9812.0,0.488
+2025-01-01,AE,Tents & Shelter,5938.0,0.444
+2025-01-01,AE,Apparel,23198.0,0.581
+2025-01-01,AE,Footwear,6571.0,0.528
+2025-01-01,AE,Backpacks & Bags,8467.0,0.545
+2025-01-01,AE,Camp Kitchen,3339.0,0.596
+2025-01-01,AE,Electronics & Navigation,11256.0,0.394
+2025-01-01,AE,Winter Sports,14925.0,0.488
+2025-02-01,DE,Tents & Shelter,6397.0,0.444
+2025-02-01,DE,Apparel,18939.0,0.581
+2025-02-01,DE,Footwear,10570.0,0.528
+2025-02-01,DE,Backpacks & Bags,4720.0,0.545
+2025-02-01,DE,Camp Kitchen,3559.0,0.596
+2025-02-01,DE,Electronics & Navigation,6774.0,0.394
+2025-02-01,DE,Winter Sports,32375.0,0.488
+2025-02-01,FR,Tents & Shelter,2948.0,0.444
+2025-02-01,FR,Apparel,6539.0,0.581
+2025-02-01,FR,Footwear,2930.0,0.528
+2025-02-01,FR,Backpacks & Bags,5493.0,0.545
+2025-02-01,FR,Camp Kitchen,1082.0,0.596
+2025-02-01,FR,Electronics & Navigation,2061.0,0.394
+2025-02-01,FR,Winter Sports,11755.0,0.488
+2025-02-01,NL,Tents & Shelter,1993.0,0.444
+2025-02-01,NL,Apparel,7221.0,0.581
+2025-02-01,NL,Footwear,2944.0,0.528
+2025-02-01,NL,Backpacks & Bags,2262.0,0.545
+2025-02-01,NL,Camp Kitchen,791.0,0.596
+2025-02-01,NL,Electronics & Navigation,5007.0,0.394
+2025-02-01,NL,Winter Sports,6756.0,0.488
+2025-02-01,GB,Tents & Shelter,3642.0,0.444
+2025-02-01,GB,Apparel,21299.0,0.581
+2025-02-01,GB,Footwear,7616.0,0.528
+2025-02-01,GB,Backpacks & Bags,7432.0,0.545
+2025-02-01,GB,Camp Kitchen,2869.0,0.596
+2025-02-01,GB,Electronics & Navigation,5972.0,0.394
+2025-02-01,GB,Winter Sports,18541.0,0.488
+2025-02-01,US,Tents & Shelter,9001.0,0.444
+2025-02-01,US,Apparel,20044.0,0.581
+2025-02-01,US,Footwear,10367.0,0.528
+2025-02-01,US,Backpacks & Bags,6915.0,0.545
+2025-02-01,US,Camp Kitchen,3072.0,0.596
+2025-02-01,US,Electronics & Navigation,5797.0,0.394
+2025-02-01,US,Winter Sports,19258.0,0.488
+2025-02-01,TR,Tents & Shelter,4753.0,0.444
+2025-02-01,TR,Apparel,16526.0,0.581
+2025-02-01,TR,Footwear,4192.0,0.528
+2025-02-01,TR,Backpacks & Bags,3039.0,0.545
+2025-02-01,TR,Camp Kitchen,2928.0,0.596
+2025-02-01,TR,Electronics & Navigation,8282.0,0.394
+2025-02-01,TR,Winter Sports,14486.0,0.488
+2025-02-01,AZ,Tents & Shelter,2035.0,0.444
+2025-02-01,AZ,Apparel,3655.0,0.581
+2025-02-01,AZ,Footwear,2468.0,0.528
+2025-02-01,AZ,Backpacks & Bags,980.0,0.545
+2025-02-01,AZ,Camp Kitchen,768.0,0.596
+2025-02-01,AZ,Electronics & Navigation,790.0,0.394
+2025-02-01,AZ,Winter Sports,5064.0,0.488
+2025-02-01,AE,Tents & Shelter,2594.0,0.444
+2025-02-01,AE,Apparel,13788.0,0.581
+2025-02-01,AE,Footwear,5966.0,0.528
+2025-02-01,AE,Backpacks & Bags,6439.0,0.545
+2025-02-01,AE,Camp Kitchen,3178.0,0.596
+2025-02-01,AE,Electronics & Navigation,9872.0,0.394
+2025-02-01,AE,Winter Sports,3454.0,0.488
+2025-03-01,DE,Tents & Shelter,13604.0,0.444
+2025-03-01,DE,Apparel,18666.0,0.581
+2025-03-01,DE,Footwear,12832.0,0.528
+2025-03-01,DE,Backpacks & Bags,12039.0,0.545
+2025-03-01,DE,Camp Kitchen,4935.0,0.596
+2025-03-01,DE,Electronics & Navigation,9221.0,0.394
+2025-03-01,DE,Winter Sports,15581.0,0.488
+2025-03-01,FR,Tents & Shelter,2121.0,0.444
+2025-03-01,FR,Apparel,4697.0,0.581
+2025-03-01,FR,Footwear,5409.0,0.528
+2025-03-01,FR,Backpacks & Bags,4730.0,0.545
+2025-03-01,FR,Camp Kitchen,2013.0,0.596
+2025-03-01,FR,Electronics & Navigation,1482.0,0.394
+2025-03-01,FR,Winter Sports,6384.0,0.488
+2025-03-01,NL,Tents & Shelter,2889.0,0.444
+2025-03-01,NL,Apparel,7411.0,0.581
+2025-03-01,NL,Footwear,5992.0,0.528
+2025-03-01,NL,Backpacks & Bags,2835.0,0.545
+2025-03-01,NL,Camp Kitchen,1808.0,0.596
+2025-03-01,NL,Electronics & Navigation,3016.0,0.394
+2025-03-01,NL,Winter Sports,5771.0,0.488
+2025-03-01,GB,Tents & Shelter,10107.0,0.444
+2025-03-01,GB,Apparel,13406.0,0.581
+2025-03-01,GB,Footwear,14135.0,0.528
+2025-03-01,GB,Backpacks & Bags,9284.0,0.545
+2025-03-01,GB,Camp Kitchen,4435.0,0.596
+2025-03-01,GB,Electronics & Navigation,9318.0,0.394
+2025-03-01,GB,Winter Sports,8230.0,0.488
+2025-03-01,US,Tents & Shelter,9741.0,0.444
+2025-03-01,US,Apparel,16727.0,0.581
+2025-03-01,US,Footwear,10093.0,0.528
+2025-03-01,US,Backpacks & Bags,5798.0,0.545
+2025-03-01,US,Camp Kitchen,3565.0,0.596
+2025-03-01,US,Electronics & Navigation,6326.0,0.394
+2025-03-01,US,Winter Sports,9366.0,0.488
+2025-03-01,TR,Tents & Shelter,13568.0,0.444
+2025-03-01,TR,Apparel,18691.0,0.581
+2025-03-01,TR,Footwear,17343.0,0.528
+2025-03-01,TR,Backpacks & Bags,15784.0,0.545
+2025-03-01,TR,Camp Kitchen,4845.0,0.596
+2025-03-01,TR,Electronics & Navigation,6116.0,0.394
+2025-03-01,TR,Winter Sports,8429.0,0.488
+2025-03-01,AZ,Tents & Shelter,2401.0,0.444
+2025-03-01,AZ,Apparel,7075.0,0.581
+2025-03-01,AZ,Footwear,6226.0,0.528
+2025-03-01,AZ,Backpacks & Bags,3684.0,0.545
+2025-03-01,AZ,Camp Kitchen,1075.0,0.596
+2025-03-01,AZ,Electronics & Navigation,2968.0,0.394
+2025-03-01,AZ,Winter Sports,3178.0,0.488
+2025-03-01,AE,Tents & Shelter,7477.0,0.444
+2025-03-01,AE,Apparel,10635.0,0.581
+2025-03-01,AE,Footwear,10313.0,0.528
+2025-03-01,AE,Backpacks & Bags,6604.0,0.545
+2025-03-01,AE,Camp Kitchen,3875.0,0.596
+2025-03-01,AE,Electronics & Navigation,8829.0,0.394
+2025-03-01,AE,Winter Sports,2001.0,0.488
+2025-04-01,DE,Tents & Shelter,17478.0,0.444
+2025-04-01,DE,Apparel,22262.0,0.581
+2025-04-01,DE,Footwear,29595.0,0.528
+2025-04-01,DE,Backpacks & Bags,19229.0,0.545
+2025-04-01,DE,Camp Kitchen,14011.0,0.596
+2025-04-01,DE,Electronics & Navigation,11348.0,0.394
+2025-04-01,DE,Winter Sports,4617.0,0.488
+2025-04-01,FR,Tents & Shelter,5755.0,0.444
+2025-04-01,FR,Apparel,8717.0,0.581
+2025-04-01,FR,Footwear,8149.0,0.528
+2025-04-01,FR,Backpacks & Bags,5056.0,0.545
+2025-04-01,FR,Camp Kitchen,3170.0,0.596
+2025-04-01,FR,Electronics & Navigation,2610.0,0.394
+2025-04-01,FR,Winter Sports,2568.0,0.488
+2025-04-01,NL,Tents & Shelter,5131.0,0.444
+2025-04-01,NL,Apparel,6345.0,0.581
+2025-04-01,NL,Footwear,2899.0,0.528
+2025-04-01,NL,Backpacks & Bags,5803.0,0.545
+2025-04-01,NL,Camp Kitchen,2071.0,0.596
+2025-04-01,NL,Electronics & Navigation,1255.0,0.394
+2025-04-01,NL,Winter Sports,914.0,0.488
+2025-04-01,GB,Tents & Shelter,11396.0,0.444
+2025-04-01,GB,Apparel,18963.0,0.581
+2025-04-01,GB,Footwear,13135.0,0.528
+2025-04-01,GB,Backpacks & Bags,8532.0,0.545
+2025-04-01,GB,Camp Kitchen,6017.0,0.596
+2025-04-01,GB,Electronics & Navigation,7230.0,0.394
+2025-04-01,GB,Winter Sports,4831.0,0.488
+2025-04-01,US,Tents & Shelter,11596.0,0.444
+2025-04-01,US,Apparel,9663.0,0.581
+2025-04-01,US,Footwear,12827.0,0.528
+2025-04-01,US,Backpacks & Bags,7190.0,0.545
+2025-04-01,US,Camp Kitchen,4653.0,0.596
+2025-04-01,US,Electronics & Navigation,4590.0,0.394
+2025-04-01,US,Winter Sports,3049.0,0.488
+2025-04-01,TR,Tents & Shelter,17053.0,0.444
+2025-04-01,TR,Apparel,16836.0,0.581
+2025-04-01,TR,Footwear,14371.0,0.528
+2025-04-01,TR,Backpacks & Bags,11575.0,0.545
+2025-04-01,TR,Camp Kitchen,10718.0,0.596
+2025-04-01,TR,Electronics & Navigation,10483.0,0.394
+2025-04-01,TR,Winter Sports,3360.0,0.488
+2025-04-01,AZ,Tents & Shelter,5871.0,0.444
+2025-04-01,AZ,Apparel,3417.0,0.581
+2025-04-01,AZ,Footwear,4195.0,0.528
+2025-04-01,AZ,Backpacks & Bags,2182.0,0.545
+2025-04-01,AZ,Camp Kitchen,1466.0,0.596
+2025-04-01,AZ,Electronics & Navigation,1749.0,0.394
+2025-04-01,AZ,Winter Sports,1149.0,0.488
+2025-04-01,AE,Tents & Shelter,8391.0,0.444
+2025-04-01,AE,Apparel,11225.0,0.581
+2025-04-01,AE,Footwear,12621.0,0.528
+2025-04-01,AE,Backpacks & Bags,11963.0,0.545
+2025-04-01,AE,Camp Kitchen,4121.0,0.596
+2025-04-01,AE,Electronics & Navigation,7988.0,0.394
+2025-04-01,AE,Winter Sports,843.0,0.488
+2025-05-01,DE,Tents & Shelter,22355.0,0.444
+2025-05-01,DE,Apparel,23485.0,0.581
+2025-05-01,DE,Footwear,21081.0,0.528
+2025-05-01,DE,Backpacks & Bags,21441.0,0.545
+2025-05-01,DE,Camp Kitchen,14320.0,0.596
+2025-05-01,DE,Electronics & Navigation,14110.0,0.394
+2025-05-01,DE,Winter Sports,4990.0,0.488
+2025-05-01,FR,Tents & Shelter,11227.0,0.444
+2025-05-01,FR,Apparel,7966.0,0.581
+2025-05-01,FR,Footwear,8944.0,0.528
+2025-05-01,FR,Backpacks & Bags,6505.0,0.545
+2025-05-01,FR,Camp Kitchen,5691.0,0.596
+2025-05-01,FR,Electronics & Navigation,7953.0,0.394
+2025-05-01,FR,Winter Sports,626.0,0.488
+2025-05-01,NL,Tents & Shelter,11366.0,0.444
+2025-05-01,NL,Apparel,5927.0,0.581
+2025-05-01,NL,Footwear,6807.0,0.528
+2025-05-01,NL,Backpacks & Bags,4659.0,0.545
+2025-05-01,NL,Camp Kitchen,4460.0,0.596
+2025-05-01,NL,Electronics & Navigation,2839.0,0.394
+2025-05-01,NL,Winter Sports,760.0,0.488
+2025-05-01,GB,Tents & Shelter,17447.0,0.444
+2025-05-01,GB,Apparel,16136.0,0.581
+2025-05-01,GB,Footwear,12357.0,0.528
+2025-05-01,GB,Backpacks & Bags,11627.0,0.545
+2025-05-01,GB,Camp Kitchen,8572.0,0.596
+2025-05-01,GB,Electronics & Navigation,10174.0,0.394
+2025-05-01,GB,Winter Sports,2776.0,0.488
+2025-05-01,US,Tents & Shelter,18066.0,0.444
+2025-05-01,US,Apparel,13319.0,0.581
+2025-05-01,US,Footwear,13179.0,0.528
+2025-05-01,US,Backpacks & Bags,6680.0,0.545
+2025-05-01,US,Camp Kitchen,6729.0,0.596
+2025-05-01,US,Electronics & Navigation,9954.0,0.394
+2025-05-01,US,Winter Sports,3311.0,0.488
+2025-05-01,TR,Tents & Shelter,16546.0,0.444
+2025-05-01,TR,Apparel,10652.0,0.581
+2025-05-01,TR,Footwear,13450.0,0.528
+2025-05-01,TR,Backpacks & Bags,16085.0,0.545
+2025-05-01,TR,Camp Kitchen,10183.0,0.596
+2025-05-01,TR,Electronics & Navigation,11053.0,0.394
+2025-05-01,TR,Winter Sports,2724.0,0.488
+2025-05-01,AZ,Tents & Shelter,16568.0,0.444
+2025-05-01,AZ,Apparel,6141.0,0.581
+2025-05-01,AZ,Footwear,7195.0,0.528
+2025-05-01,AZ,Backpacks & Bags,7205.0,0.545
+2025-05-01,AZ,Camp Kitchen,8109.0,0.596
+2025-05-01,AZ,Electronics & Navigation,3998.0,0.394
+2025-05-01,AZ,Winter Sports,1373.0,0.488
+2025-05-01,AE,Tents & Shelter,13161.0,0.444
+2025-05-01,AE,Apparel,11655.0,0.581
+2025-05-01,AE,Footwear,24835.0,0.528
+2025-05-01,AE,Backpacks & Bags,11275.0,0.545
+2025-05-01,AE,Camp Kitchen,10956.0,0.596
+2025-05-01,AE,Electronics & Navigation,10036.0,0.394
+2025-05-01,AE,Winter Sports,264.0,0.488
+2025-06-01,DE,Tents & Shelter,30899.0,0.444
+2025-06-01,DE,Apparel,10934.0,0.581
+2025-06-01,DE,Footwear,13533.0,0.528
+2025-06-01,DE,Backpacks & Bags,19902.0,0.545
+2025-06-01,DE,Camp Kitchen,13601.0,0.596
+2025-06-01,DE,Electronics & Navigation,14402.0,0.394
+2025-06-01,DE,Winter Sports,1005.0,0.488
+2025-06-01,FR,Tents & Shelter,16985.0,0.444
+2025-06-01,FR,Apparel,7277.0,0.581
+2025-06-01,FR,Footwear,5730.0,0.528
+2025-06-01,FR,Backpacks & Bags,10620.0,0.545
+2025-06-01,FR,Camp Kitchen,7147.0,0.596
+2025-06-01,FR,Electronics & Navigation,6618.0,0.394
+2025-06-01,FR,Winter Sports,519.0,0.488
+2025-06-01,NL,Tents & Shelter,11711.0,0.444
+2025-06-01,NL,Apparel,5395.0,0.581
+2025-06-01,NL,Footwear,8624.0,0.528
+2025-06-01,NL,Backpacks & Bags,6511.0,0.545
+2025-06-01,NL,Camp Kitchen,5581.0,0.596
+2025-06-01,NL,Electronics & Navigation,3928.0,0.394
+2025-06-01,NL,Winter Sports,685.0,0.488
+2025-06-01,GB,Tents & Shelter,27569.0,0.444
+2025-06-01,GB,Apparel,14450.0,0.581
+2025-06-01,GB,Footwear,10094.0,0.528
+2025-06-01,GB,Backpacks & Bags,12689.0,0.545
+2025-06-01,GB,Camp Kitchen,7181.0,0.596
+2025-06-01,GB,Electronics & Navigation,7725.0,0.394
+2025-06-01,GB,Winter Sports,2075.0,0.488
+2025-06-01,US,Tents & Shelter,21718.0,0.444
+2025-06-01,US,Apparel,16264.0,0.581
+2025-06-01,US,Footwear,13387.0,0.528
+2025-06-01,US,Backpacks & Bags,13324.0,0.545
+2025-06-01,US,Camp Kitchen,10085.0,0.596
+2025-06-01,US,Electronics & Navigation,10262.0,0.394
+2025-06-01,US,Winter Sports,2738.0,0.488
+2025-06-01,TR,Tents & Shelter,30384.0,0.444
+2025-06-01,TR,Apparel,9787.0,0.581
+2025-06-01,TR,Footwear,12164.0,0.528
+2025-06-01,TR,Backpacks & Bags,14093.0,0.545
+2025-06-01,TR,Camp Kitchen,11448.0,0.596
+2025-06-01,TR,Electronics & Navigation,8040.0,0.394
+2025-06-01,TR,Winter Sports,2548.0,0.488
+2025-06-01,AZ,Tents & Shelter,9541.0,0.444
+2025-06-01,AZ,Apparel,6263.0,0.581
+2025-06-01,AZ,Footwear,4715.0,0.528
+2025-06-01,AZ,Backpacks & Bags,4623.0,0.545
+2025-06-01,AZ,Camp Kitchen,3266.0,0.596
+2025-06-01,AZ,Electronics & Navigation,3505.0,0.394
+2025-06-01,AZ,Winter Sports,298.0,0.488
+2025-06-01,AE,Tents & Shelter,13332.0,0.444
+2025-06-01,AE,Apparel,13220.0,0.581
+2025-06-01,AE,Footwear,12256.0,0.528
+2025-06-01,AE,Backpacks & Bags,12789.0,0.545
+2025-06-01,AE,Camp Kitchen,9317.0,0.596
+2025-06-01,AE,Electronics & Navigation,15229.0,0.394
+2025-06-01,AE,Winter Sports,907.0,0.488
+2025-07-01,DE,Tents & Shelter,24819.0,0.444
+2025-07-01,DE,Apparel,16884.0,0.581
+2025-07-01,DE,Footwear,21392.0,0.528
+2025-07-01,DE,Backpacks & Bags,18740.0,0.545
+2025-07-01,DE,Camp Kitchen,13460.0,0.596
+2025-07-01,DE,Electronics & Navigation,18425.0,0.394
+2025-07-01,DE,Winter Sports,2608.0,0.488
+2025-07-01,FR,Tents & Shelter,10704.0,0.444
+2025-07-01,FR,Apparel,6823.0,0.581
+2025-07-01,FR,Footwear,6264.0,0.528
+2025-07-01,FR,Backpacks & Bags,9606.0,0.545
+2025-07-01,FR,Camp Kitchen,6809.0,0.596
+2025-07-01,FR,Electronics & Navigation,4497.0,0.394
+2025-07-01,FR,Winter Sports,1019.0,0.488
+2025-07-01,NL,Tents & Shelter,4662.0,0.444
+2025-07-01,NL,Apparel,6343.0,0.581
+2025-07-01,NL,Footwear,2707.0,0.528
+2025-07-01,NL,Backpacks & Bags,5452.0,0.545
+2025-07-01,NL,Camp Kitchen,3310.0,0.596
+2025-07-01,NL,Electronics & Navigation,3391.0,0.394
+2025-07-01,NL,Winter Sports,514.0,0.488
+2025-07-01,GB,Tents & Shelter,14477.0,0.444
+2025-07-01,GB,Apparel,12779.0,0.581
+2025-07-01,GB,Footwear,9387.0,0.528
+2025-07-01,GB,Backpacks & Bags,10018.0,0.545
+2025-07-01,GB,Camp Kitchen,6452.0,0.596
+2025-07-01,GB,Electronics & Navigation,5512.0,0.394
+2025-07-01,GB,Winter Sports,2119.0,0.488
+2025-07-01,US,Tents & Shelter,17976.0,0.444
+2025-07-01,US,Apparel,8749.0,0.581
+2025-07-01,US,Footwear,9878.0,0.528
+2025-07-01,US,Backpacks & Bags,12458.0,0.545
+2025-07-01,US,Camp Kitchen,9634.0,0.596
+2025-07-01,US,Electronics & Navigation,10609.0,0.394
+2025-07-01,US,Winter Sports,744.0,0.488
+2025-07-01,TR,Tents & Shelter,31040.0,0.444
+2025-07-01,TR,Apparel,12165.0,0.581
+2025-07-01,TR,Footwear,14646.0,0.528
+2025-07-01,TR,Backpacks & Bags,25969.0,0.545
+2025-07-01,TR,Camp Kitchen,15647.0,0.596
+2025-07-01,TR,Electronics & Navigation,14874.0,0.394
+2025-07-01,TR,Winter Sports,1315.0,0.488
+2025-07-01,AZ,Tents & Shelter,10158.0,0.444
+2025-07-01,AZ,Apparel,4095.0,0.581
+2025-07-01,AZ,Footwear,6722.0,0.528
+2025-07-01,AZ,Backpacks & Bags,8272.0,0.545
+2025-07-01,AZ,Camp Kitchen,4251.0,0.596
+2025-07-01,AZ,Electronics & Navigation,1959.0,0.394
+2025-07-01,AZ,Winter Sports,1047.0,0.488
+2025-07-01,AE,Tents & Shelter,16819.0,0.444
+2025-07-01,AE,Apparel,14654.0,0.581
+2025-07-01,AE,Footwear,10751.0,0.528
+2025-07-01,AE,Backpacks & Bags,11151.0,0.545
+2025-07-01,AE,Camp Kitchen,13235.0,0.596
+2025-07-01,AE,Electronics & Navigation,12043.0,0.394
+2025-08-01,DE,Tents & Shelter,18939.0,0.444
+2025-08-01,DE,Apparel,16820.0,0.581
+2025-08-01,DE,Footwear,15875.0,0.528
+2025-08-01,DE,Backpacks & Bags,20020.0,0.545
+2025-08-01,DE,Camp Kitchen,10172.0,0.596
+2025-08-01,DE,Electronics & Navigation,12124.0,0.394
+2025-08-01,DE,Winter Sports,2385.0,0.488
+2025-08-01,FR,Tents & Shelter,9447.0,0.444
+2025-08-01,FR,Apparel,11820.0,0.581
+2025-08-01,FR,Footwear,5116.0,0.528
+2025-08-01,FR,Backpacks & Bags,6270.0,0.545
+2025-08-01,FR,Camp Kitchen,3711.0,0.596
+2025-08-01,FR,Electronics & Navigation,5092.0,0.394
+2025-08-01,FR,Winter Sports,393.0,0.488
+2025-08-01,NL,Tents & Shelter,5421.0,0.444
+2025-08-01,NL,Apparel,4601.0,0.581
+2025-08-01,NL,Footwear,4276.0,0.528
+2025-08-01,NL,Backpacks & Bags,3364.0,0.545
+2025-08-01,NL,Camp Kitchen,3151.0,0.596
+2025-08-01,NL,Electronics & Navigation,7058.0,0.394
+2025-08-01,NL,Winter Sports,653.0,0.488
+2025-08-01,GB,Tents & Shelter,13641.0,0.444
+2025-08-01,GB,Apparel,11504.0,0.581
+2025-08-01,GB,Footwear,7072.0,0.528
+2025-08-01,GB,Backpacks & Bags,13634.0,0.545
+2025-08-01,GB,Camp Kitchen,8422.0,0.596
+2025-08-01,GB,Electronics & Navigation,13471.0,0.394
+2025-08-01,GB,Winter Sports,2256.0,0.488
+2025-08-01,US,Tents & Shelter,22357.0,0.444
+2025-08-01,US,Apparel,17287.0,0.581
+2025-08-01,US,Footwear,11510.0,0.528
+2025-08-01,US,Backpacks & Bags,11554.0,0.545
+2025-08-01,US,Camp Kitchen,8795.0,0.596
+2025-08-01,US,Electronics & Navigation,8267.0,0.394
+2025-08-01,US,Winter Sports,2906.0,0.488
+2025-08-01,TR,Tents & Shelter,25975.0,0.444
+2025-08-01,TR,Apparel,15226.0,0.581
+2025-08-01,TR,Footwear,17378.0,0.528
+2025-08-01,TR,Backpacks & Bags,14702.0,0.545
+2025-08-01,TR,Camp Kitchen,12825.0,0.596
+2025-08-01,TR,Electronics & Navigation,14093.0,0.394
+2025-08-01,TR,Winter Sports,2601.0,0.488
+2025-08-01,AZ,Tents & Shelter,9854.0,0.444
+2025-08-01,AZ,Apparel,3885.0,0.581
+2025-08-01,AZ,Footwear,4314.0,0.528
+2025-08-01,AZ,Backpacks & Bags,5660.0,0.545
+2025-08-01,AZ,Camp Kitchen,2634.0,0.596
+2025-08-01,AZ,Electronics & Navigation,5691.0,0.394
+2025-08-01,AZ,Winter Sports,2115.0,0.488
+2025-08-01,AE,Tents & Shelter,7838.0,0.444
+2025-08-01,AE,Apparel,10202.0,0.581
+2025-08-01,AE,Footwear,9818.0,0.528
+2025-08-01,AE,Backpacks & Bags,12695.0,0.545
+2025-08-01,AE,Camp Kitchen,10828.0,0.596
+2025-08-01,AE,Electronics & Navigation,12039.0,0.394
+2025-08-01,AE,Winter Sports,305.0,0.488
+2025-09-01,DE,Tents & Shelter,12454.0,0.444
+2025-09-01,DE,Apparel,27421.0,0.581
+2025-09-01,DE,Footwear,20089.0,0.528
+2025-09-01,DE,Backpacks & Bags,12863.0,0.545
+2025-09-01,DE,Camp Kitchen,10180.0,0.596
+2025-09-01,DE,Electronics & Navigation,11641.0,0.394
+2025-09-01,DE,Winter Sports,9749.0,0.488
+2025-09-01,FR,Tents & Shelter,5350.0,0.444
+2025-09-01,FR,Apparel,11005.0,0.581
+2025-09-01,FR,Footwear,7523.0,0.528
+2025-09-01,FR,Backpacks & Bags,5002.0,0.545
+2025-09-01,FR,Camp Kitchen,3374.0,0.596
+2025-09-01,FR,Electronics & Navigation,4261.0,0.394
+2025-09-01,FR,Winter Sports,1698.0,0.488
+2025-09-01,NL,Tents & Shelter,4252.0,0.444
+2025-09-01,NL,Apparel,6705.0,0.581
+2025-09-01,NL,Footwear,6719.0,0.528
+2025-09-01,NL,Backpacks & Bags,5188.0,0.545
+2025-09-01,NL,Camp Kitchen,1564.0,0.596
+2025-09-01,NL,Electronics & Navigation,3776.0,0.394
+2025-09-01,NL,Winter Sports,1168.0,0.488
+2025-09-01,GB,Tents & Shelter,11568.0,0.444
+2025-09-01,GB,Apparel,27948.0,0.581
+2025-09-01,GB,Footwear,10455.0,0.528
+2025-09-01,GB,Backpacks & Bags,11712.0,0.545
+2025-09-01,GB,Camp Kitchen,7816.0,0.596
+2025-09-01,GB,Electronics & Navigation,11531.0,0.394
+2025-09-01,GB,Winter Sports,10554.0,0.488
+2025-09-01,US,Tents & Shelter,14465.0,0.444
+2025-09-01,US,Apparel,17799.0,0.581
+2025-09-01,US,Footwear,15283.0,0.528
+2025-09-01,US,Backpacks & Bags,12670.0,0.545
+2025-09-01,US,Camp Kitchen,5280.0,0.596
+2025-09-01,US,Electronics & Navigation,10468.0,0.394
+2025-09-01,US,Winter Sports,7602.0,0.488
+2025-09-01,TR,Tents & Shelter,17205.0,0.444
+2025-09-01,TR,Apparel,20309.0,0.581
+2025-09-01,TR,Footwear,17132.0,0.528
+2025-09-01,TR,Backpacks & Bags,12363.0,0.545
+2025-09-01,TR,Camp Kitchen,6204.0,0.596
+2025-09-01,TR,Electronics & Navigation,9059.0,0.394
+2025-09-01,TR,Winter Sports,5016.0,0.488
+2025-09-01,AZ,Tents & Shelter,6823.0,0.444
+2025-09-01,AZ,Apparel,6125.0,0.581
+2025-09-01,AZ,Footwear,7492.0,0.528
+2025-09-01,AZ,Backpacks & Bags,3249.0,0.545
+2025-09-01,AZ,Camp Kitchen,1978.0,0.596
+2025-09-01,AZ,Electronics & Navigation,3975.0,0.394
+2025-09-01,AZ,Winter Sports,3563.0,0.488
+2025-09-01,AE,Tents & Shelter,12157.0,0.444
+2025-09-01,AE,Apparel,13218.0,0.581
+2025-09-01,AE,Footwear,16027.0,0.528
+2025-09-01,AE,Backpacks & Bags,10513.0,0.545
+2025-09-01,AE,Camp Kitchen,6203.0,0.596
+2025-09-01,AE,Electronics & Navigation,14016.0,0.394
+2025-09-01,AE,Winter Sports,3383.0,0.488
+2025-10-01,DE,Tents & Shelter,7404.0,0.444
+2025-10-01,DE,Apparel,30483.0,0.581
+2025-10-01,DE,Footwear,20355.0,0.528
+2025-10-01,DE,Backpacks & Bags,13425.0,0.545
+2025-10-01,DE,Camp Kitchen,5508.0,0.596
+2025-10-01,DE,Electronics & Navigation,15353.0,0.394
+2025-10-01,DE,Winter Sports,18660.0,0.488
+2025-10-01,FR,Tents & Shelter,7201.0,0.444
+2025-10-01,FR,Apparel,15656.0,0.581
+2025-10-01,FR,Footwear,8483.0,0.528
+2025-10-01,FR,Backpacks & Bags,6658.0,0.545
+2025-10-01,FR,Camp Kitchen,2948.0,0.596
+2025-10-01,FR,Electronics & Navigation,4857.0,0.394
+2025-10-01,FR,Winter Sports,9274.0,0.488
+2025-10-01,NL,Tents & Shelter,3672.0,0.444
+2025-10-01,NL,Apparel,8351.0,0.581
+2025-10-01,NL,Footwear,5564.0,0.528
+2025-10-01,NL,Backpacks & Bags,8495.0,0.545
+2025-10-01,NL,Camp Kitchen,4641.0,0.596
+2025-10-01,NL,Electronics & Navigation,4437.0,0.394
+2025-10-01,NL,Winter Sports,6258.0,0.488
+2025-10-01,GB,Tents & Shelter,7335.0,0.444
+2025-10-01,GB,Apparel,21521.0,0.581
+2025-10-01,GB,Footwear,11845.0,0.528
+2025-10-01,GB,Backpacks & Bags,14399.0,0.545
+2025-10-01,GB,Camp Kitchen,3672.0,0.596
+2025-10-01,GB,Electronics & Navigation,12733.0,0.394
+2025-10-01,GB,Winter Sports,21950.0,0.488
+2025-10-01,US,Tents & Shelter,10171.0,0.444
+2025-10-01,US,Apparel,27118.0,0.581
+2025-10-01,US,Footwear,16063.0,0.528
+2025-10-01,US,Backpacks & Bags,7011.0,0.545
+2025-10-01,US,Camp Kitchen,4414.0,0.596
+2025-10-01,US,Electronics & Navigation,15406.0,0.394
+2025-10-01,US,Winter Sports,21265.0,0.488
+2025-10-01,TR,Tents & Shelter,18730.0,0.444
+2025-10-01,TR,Apparel,38266.0,0.581
+2025-10-01,TR,Footwear,13935.0,0.528
+2025-10-01,TR,Backpacks & Bags,20945.0,0.545
+2025-10-01,TR,Camp Kitchen,6134.0,0.596
+2025-10-01,TR,Electronics & Navigation,16414.0,0.394
+2025-10-01,TR,Winter Sports,20549.0,0.488
+2025-10-01,AZ,Tents & Shelter,9815.0,0.444
+2025-10-01,AZ,Apparel,19714.0,0.581
+2025-10-01,AZ,Footwear,9880.0,0.528
+2025-10-01,AZ,Backpacks & Bags,2414.0,0.545
+2025-10-01,AZ,Camp Kitchen,2505.0,0.596
+2025-10-01,AZ,Electronics & Navigation,13241.0,0.394
+2025-10-01,AZ,Winter Sports,7518.0,0.488
+2025-10-01,AE,Tents & Shelter,8664.0,0.444
+2025-10-01,AE,Apparel,27206.0,0.581
+2025-10-01,AE,Footwear,18081.0,0.528
+2025-10-01,AE,Backpacks & Bags,22167.0,0.545
+2025-10-01,AE,Camp Kitchen,5228.0,0.596
+2025-10-01,AE,Electronics & Navigation,18602.0,0.394
+2025-10-01,AE,Winter Sports,7182.0,0.488
+2025-11-01,DE,Tents & Shelter,11680.0,0.444
+2025-11-01,DE,Apparel,41427.0,0.581
+2025-11-01,DE,Footwear,19405.0,0.528
+2025-11-01,DE,Backpacks & Bags,19985.0,0.545
+2025-11-01,DE,Camp Kitchen,8939.0,0.596
+2025-11-01,DE,Electronics & Navigation,32887.0,0.394
+2025-11-01,DE,Winter Sports,52673.0,0.488
+2025-11-01,FR,Tents & Shelter,6117.0,0.444
+2025-11-01,FR,Apparel,23019.0,0.581
+2025-11-01,FR,Footwear,9444.0,0.528
+2025-11-01,FR,Backpacks & Bags,8655.0,0.545
+2025-11-01,FR,Camp Kitchen,3225.0,0.596
+2025-11-01,FR,Electronics & Navigation,21738.0,0.394
+2025-11-01,FR,Winter Sports,29395.0,0.488
+2025-11-01,NL,Tents & Shelter,8110.0,0.444
+2025-11-01,NL,Apparel,18089.0,0.581
+2025-11-01,NL,Footwear,7408.0,0.528
+2025-11-01,NL,Backpacks & Bags,8284.0,0.545
+2025-11-01,NL,Camp Kitchen,1349.0,0.596
+2025-11-01,NL,Electronics & Navigation,21154.0,0.394
+2025-11-01,NL,Winter Sports,14235.0,0.488
+2025-11-01,GB,Tents & Shelter,8438.0,0.444
+2025-11-01,GB,Apparel,26851.0,0.581
+2025-11-01,GB,Footwear,16438.0,0.528
+2025-11-01,GB,Backpacks & Bags,13367.0,0.545
+2025-11-01,GB,Camp Kitchen,4863.0,0.596
+2025-11-01,GB,Electronics & Navigation,24941.0,0.394
+2025-11-01,GB,Winter Sports,38094.0,0.488
+2025-11-01,US,Tents & Shelter,8703.0,0.444
+2025-11-01,US,Apparel,32073.0,0.581
+2025-11-01,US,Footwear,12812.0,0.528
+2025-11-01,US,Backpacks & Bags,11367.0,0.545
+2025-11-01,US,Camp Kitchen,4419.0,0.596
+2025-11-01,US,Electronics & Navigation,22625.0,0.394
+2025-11-01,US,Winter Sports,39747.0,0.488
+2025-11-01,TR,Tents & Shelter,27388.0,0.444
+2025-11-01,TR,Apparel,56320.0,0.581
+2025-11-01,TR,Footwear,25578.0,0.528
+2025-11-01,TR,Backpacks & Bags,28922.0,0.545
+2025-11-01,TR,Camp Kitchen,7481.0,0.596
+2025-11-01,TR,Electronics & Navigation,39272.0,0.394
+2025-11-01,TR,Winter Sports,49494.0,0.488
+2025-11-01,AZ,Tents & Shelter,4267.0,0.444
+2025-11-01,AZ,Apparel,12189.0,0.581
+2025-11-01,AZ,Footwear,5279.0,0.528
+2025-11-01,AZ,Backpacks & Bags,6975.0,0.545
+2025-11-01,AZ,Camp Kitchen,4035.0,0.596
+2025-11-01,AZ,Electronics & Navigation,5891.0,0.394
+2025-11-01,AZ,Winter Sports,20707.0,0.488
+2025-11-01,AE,Tents & Shelter,9865.0,0.444
+2025-11-01,AE,Apparel,51633.0,0.581
+2025-11-01,AE,Footwear,24548.0,0.528
+2025-11-01,AE,Backpacks & Bags,22950.0,0.545
+2025-11-01,AE,Camp Kitchen,9662.0,0.596
+2025-11-01,AE,Electronics & Navigation,73165.0,0.394
+2025-11-01,AE,Winter Sports,21092.0,0.488
+2025-12-01,DE,Tents & Shelter,8311.0,0.444
+2025-12-01,DE,Apparel,47778.0,0.581
+2025-12-01,DE,Footwear,14868.0,0.528
+2025-12-01,DE,Backpacks & Bags,18846.0,0.545
+2025-12-01,DE,Camp Kitchen,7786.0,0.596
+2025-12-01,DE,Electronics & Navigation,19437.0,0.394
+2025-12-01,DE,Winter Sports,49733.0,0.488
+2025-12-01,FR,Tents & Shelter,3391.0,0.444
+2025-12-01,FR,Apparel,16184.0,0.581
+2025-12-01,FR,Footwear,6552.0,0.528
+2025-12-01,FR,Backpacks & Bags,9398.0,0.545
+2025-12-01,FR,Camp Kitchen,3230.0,0.596
+2025-12-01,FR,Electronics & Navigation,12424.0,0.394
+2025-12-01,FR,Winter Sports,19877.0,0.488
+2025-12-01,NL,Tents & Shelter,2114.0,0.444
+2025-12-01,NL,Apparel,12007.0,0.581
+2025-12-01,NL,Footwear,4787.0,0.528
+2025-12-01,NL,Backpacks & Bags,5465.0,0.545
+2025-12-01,NL,Camp Kitchen,1492.0,0.596
+2025-12-01,NL,Electronics & Navigation,9237.0,0.394
+2025-12-01,NL,Winter Sports,16932.0,0.488
+2025-12-01,GB,Tents & Shelter,6118.0,0.444
+2025-12-01,GB,Apparel,38649.0,0.581
+2025-12-01,GB,Footwear,11841.0,0.528
+2025-12-01,GB,Backpacks & Bags,10901.0,0.545
+2025-12-01,GB,Camp Kitchen,5282.0,0.596
+2025-12-01,GB,Electronics & Navigation,13360.0,0.394
+2025-12-01,GB,Winter Sports,37080.0,0.488
+2025-12-01,US,Tents & Shelter,9800.0,0.444
+2025-12-01,US,Apparel,38724.0,0.581
+2025-12-01,US,Footwear,12047.0,0.528
+2025-12-01,US,Backpacks & Bags,17237.0,0.545
+2025-12-01,US,Camp Kitchen,4202.0,0.596
+2025-12-01,US,Electronics & Navigation,24670.0,0.394
+2025-12-01,US,Winter Sports,41081.0,0.488
+2025-12-01,TR,Tents & Shelter,14943.0,0.444
+2025-12-01,TR,Apparel,38133.0,0.581
+2025-12-01,TR,Footwear,18643.0,0.528
+2025-12-01,TR,Backpacks & Bags,24098.0,0.545
+2025-12-01,TR,Camp Kitchen,8529.0,0.596
+2025-12-01,TR,Electronics & Navigation,24764.0,0.394
+2025-12-01,TR,Winter Sports,41119.0,0.488
+2025-12-01,AZ,Tents & Shelter,4527.0,0.444
+2025-12-01,AZ,Apparel,11381.0,0.581
+2025-12-01,AZ,Footwear,5238.0,0.528
+2025-12-01,AZ,Backpacks & Bags,4871.0,0.545
+2025-12-01,AZ,Camp Kitchen,3886.0,0.596
+2025-12-01,AZ,Electronics & Navigation,6928.0,0.394
+2025-12-01,AZ,Winter Sports,27329.0,0.488
+2025-12-01,AE,Tents & Shelter,9076.0,0.444
+2025-12-01,AE,Apparel,53562.0,0.581
+2025-12-01,AE,Footwear,17658.0,0.528
+2025-12-01,AE,Backpacks & Bags,18488.0,0.545
+2025-12-01,AE,Camp Kitchen,6950.0,0.596
+2025-12-01,AE,Electronics & Navigation,36941.0,0.394
+2025-12-01,AE,Winter Sports,12229.0,0.488
+2026-01-01,DE,Tents & Shelter,14320.0,0.444
+2026-01-01,DE,Apparel,32842.0,0.581
+2026-01-01,DE,Footwear,12121.0,0.528
+2026-01-01,DE,Backpacks & Bags,18909.0,0.545
+2026-01-01,DE,Camp Kitchen,8847.0,0.596
+2026-01-01,DE,Electronics & Navigation,15116.0,0.394
+2026-01-01,DE,Winter Sports,70101.0,0.488
+2026-01-01,FR,Tents & Shelter,3295.0,0.444
+2026-01-01,FR,Apparel,15794.0,0.581
+2026-01-01,FR,Footwear,5304.0,0.528
+2026-01-01,FR,Backpacks & Bags,4850.0,0.545
+2026-01-01,FR,Camp Kitchen,1507.0,0.596
+2026-01-01,FR,Electronics & Navigation,5042.0,0.394
+2026-01-01,FR,Winter Sports,25749.0,0.488
+2026-01-01,NL,Tents & Shelter,4250.0,0.444
+2026-01-01,NL,Apparel,7415.0,0.581
+2026-01-01,NL,Footwear,6220.0,0.528
+2026-01-01,NL,Backpacks & Bags,2948.0,0.545
+2026-01-01,NL,Camp Kitchen,1555.0,0.596
+2026-01-01,NL,Electronics & Navigation,4912.0,0.394
+2026-01-01,NL,Winter Sports,15641.0,0.488
+2026-01-01,GB,Tents & Shelter,7057.0,0.444
+2026-01-01,GB,Apparel,19335.0,0.581
+2026-01-01,GB,Footwear,10948.0,0.528
+2026-01-01,GB,Backpacks & Bags,8265.0,0.545
+2026-01-01,GB,Camp Kitchen,2175.0,0.596
+2026-01-01,GB,Electronics & Navigation,11091.0,0.394
+2026-01-01,GB,Winter Sports,39140.0,0.488
+2026-01-01,US,Tents & Shelter,6886.0,0.444
+2026-01-01,US,Apparel,16223.0,0.581
+2026-01-01,US,Footwear,10737.0,0.528
+2026-01-01,US,Backpacks & Bags,8901.0,0.545
+2026-01-01,US,Camp Kitchen,3315.0,0.596
+2026-01-01,US,Electronics & Navigation,9058.0,0.394
+2026-01-01,US,Winter Sports,30178.0,0.488
+2026-01-01,TR,Tents & Shelter,14689.0,0.444
+2026-01-01,TR,Apparel,38383.0,0.581
+2026-01-01,TR,Footwear,16186.0,0.528
+2026-01-01,TR,Backpacks & Bags,17100.0,0.545
+2026-01-01,TR,Camp Kitchen,7169.0,0.596
+2026-01-01,TR,Electronics & Navigation,12217.0,0.394
+2026-01-01,TR,Winter Sports,37805.0,0.488
+2026-01-01,AZ,Tents & Shelter,2080.0,0.444
+2026-01-01,AZ,Apparel,14037.0,0.581
+2026-01-01,AZ,Footwear,9116.0,0.528
+2026-01-01,AZ,Backpacks & Bags,6015.0,0.545
+2026-01-01,AZ,Camp Kitchen,3668.0,0.596
+2026-01-01,AZ,Electronics & Navigation,4317.0,0.394
+2026-01-01,AZ,Winter Sports,25949.0,0.488
+2026-01-01,AE,Tents & Shelter,5460.0,0.444
+2026-01-01,AE,Apparel,33615.0,0.581
+2026-01-01,AE,Footwear,14471.0,0.528
+2026-01-01,AE,Backpacks & Bags,13873.0,0.545
+2026-01-01,AE,Camp Kitchen,5693.0,0.596
+2026-01-01,AE,Electronics & Navigation,16867.0,0.394
+2026-01-01,AE,Winter Sports,8189.0,0.488
+2026-02-01,DE,Tents & Shelter,10206.0,0.444
+2026-02-01,DE,Apparel,16335.0,0.581
+2026-02-01,DE,Footwear,11068.0,0.528
+2026-02-01,DE,Backpacks & Bags,12280.0,0.545
+2026-02-01,DE,Camp Kitchen,4326.0,0.596
+2026-02-01,DE,Electronics & Navigation,7122.0,0.394
+2026-02-01,DE,Winter Sports,47593.0,0.488
+2026-02-01,FR,Tents & Shelter,5666.0,0.444
+2026-02-01,FR,Apparel,19474.0,0.581
+2026-02-01,FR,Footwear,8801.0,0.528
+2026-02-01,FR,Backpacks & Bags,5565.0,0.545
+2026-02-01,FR,Camp Kitchen,2224.0,0.596
+2026-02-01,FR,Electronics & Navigation,10904.0,0.394
+2026-02-01,FR,Winter Sports,17241.0,0.488
+2026-02-01,NL,Tents & Shelter,2305.0,0.444
+2026-02-01,NL,Apparel,7758.0,0.581
+2026-02-01,NL,Footwear,4342.0,0.528
+2026-02-01,NL,Backpacks & Bags,4115.0,0.545
+2026-02-01,NL,Camp Kitchen,2515.0,0.596
+2026-02-01,NL,Electronics & Navigation,2970.0,0.394
+2026-02-01,NL,Winter Sports,13110.0,0.488
+2026-02-01,GB,Tents & Shelter,8637.0,0.444
+2026-02-01,GB,Apparel,15457.0,0.581
+2026-02-01,GB,Footwear,9877.0,0.528
+2026-02-01,GB,Backpacks & Bags,10232.0,0.545
+2026-02-01,GB,Camp Kitchen,3333.0,0.596
+2026-02-01,GB,Electronics & Navigation,8985.0,0.394
+2026-02-01,GB,Winter Sports,41807.0,0.488
+2026-02-01,US,Tents & Shelter,5736.0,0.444
+2026-02-01,US,Apparel,25051.0,0.581
+2026-02-01,US,Footwear,10977.0,0.528
+2026-02-01,US,Backpacks & Bags,6197.0,0.545
+2026-02-01,US,Camp Kitchen,3373.0,0.596
+2026-02-01,US,Electronics & Navigation,6172.0,0.394
+2026-02-01,US,Winter Sports,26918.0,0.488
+2026-02-01,TR,Tents & Shelter,15878.0,0.444
+2026-02-01,TR,Apparel,34240.0,0.581
+2026-02-01,TR,Footwear,18736.0,0.528
+2026-02-01,TR,Backpacks & Bags,12057.0,0.545
+2026-02-01,TR,Camp Kitchen,8295.0,0.596
+2026-02-01,TR,Electronics & Navigation,13540.0,0.394
+2026-02-01,TR,Winter Sports,28549.0,0.488
+2026-02-01,AZ,Tents & Shelter,2660.0,0.444
+2026-02-01,AZ,Apparel,7512.0,0.581
+2026-02-01,AZ,Footwear,2895.0,0.528
+2026-02-01,AZ,Backpacks & Bags,2864.0,0.545
+2026-02-01,AZ,Camp Kitchen,4173.0,0.596
+2026-02-01,AZ,Electronics & Navigation,4077.0,0.394
+2026-02-01,AZ,Winter Sports,11358.0,0.488
+2026-02-01,AE,Tents & Shelter,8752.0,0.444
+2026-02-01,AE,Apparel,29601.0,0.581
+2026-02-01,AE,Footwear,10790.0,0.528
+2026-02-01,AE,Backpacks & Bags,15599.0,0.545
+2026-02-01,AE,Camp Kitchen,9812.0,0.596
+2026-02-01,AE,Electronics & Navigation,12312.0,0.394
+2026-02-01,AE,Winter Sports,17704.0,0.488
+2026-03-01,DE,Tents & Shelter,16760.0,0.444
+2026-03-01,DE,Apparel,23325.0,0.581
+2026-03-01,DE,Footwear,23135.0,0.528
+2026-03-01,DE,Backpacks & Bags,13920.0,0.545
+2026-03-01,DE,Camp Kitchen,8948.0,0.596
+2026-03-01,DE,Electronics & Navigation,10947.0,0.394
+2026-03-01,DE,Winter Sports,23621.0,0.488
+2026-03-01,FR,Tents & Shelter,10080.0,0.444
+2026-03-01,FR,Apparel,9488.0,0.581
+2026-03-01,FR,Footwear,8857.0,0.528
+2026-03-01,FR,Backpacks & Bags,8481.0,0.545
+2026-03-01,FR,Camp Kitchen,2693.0,0.596
+2026-03-01,FR,Electronics & Navigation,4057.0,0.394
+2026-03-01,FR,Winter Sports,8970.0,0.488
+2026-03-01,NL,Tents & Shelter,5655.0,0.444
+2026-03-01,NL,Apparel,8722.0,0.581
+2026-03-01,NL,Footwear,5986.0,0.528
+2026-03-01,NL,Backpacks & Bags,3433.0,0.545
+2026-03-01,NL,Camp Kitchen,2421.0,0.596
+2026-03-01,NL,Electronics & Navigation,3949.0,0.394
+2026-03-01,NL,Winter Sports,6504.0,0.488
+2026-03-01,GB,Tents & Shelter,8107.0,0.444
+2026-03-01,GB,Apparel,24352.0,0.581
+2026-03-01,GB,Footwear,12006.0,0.528
+2026-03-01,GB,Backpacks & Bags,8826.0,0.545
+2026-03-01,GB,Camp Kitchen,3524.0,0.596
+2026-03-01,GB,Electronics & Navigation,13646.0,0.394
+2026-03-01,GB,Winter Sports,15736.0,0.488
+2026-03-01,US,Tents & Shelter,10119.0,0.444
+2026-03-01,US,Apparel,27600.0,0.581
+2026-03-01,US,Footwear,22037.0,0.528
+2026-03-01,US,Backpacks & Bags,23496.0,0.545
+2026-03-01,US,Camp Kitchen,6902.0,0.596
+2026-03-01,US,Electronics & Navigation,11603.0,0.394
+2026-03-01,US,Winter Sports,16110.0,0.488
+2026-03-01,TR,Tents & Shelter,23716.0,0.444
+2026-03-01,TR,Apparel,26567.0,0.581
+2026-03-01,TR,Footwear,29907.0,0.528
+2026-03-01,TR,Backpacks & Bags,23266.0,0.545
+2026-03-01,TR,Camp Kitchen,9558.0,0.596
+2026-03-01,TR,Electronics & Navigation,13694.0,0.394
+2026-03-01,TR,Winter Sports,19586.0,0.488
+2026-03-01,AZ,Tents & Shelter,8437.0,0.444
+2026-03-01,AZ,Apparel,7530.0,0.581
+2026-03-01,AZ,Footwear,9110.0,0.528
+2026-03-01,AZ,Backpacks & Bags,6299.0,0.545
+2026-03-01,AZ,Camp Kitchen,2733.0,0.596
+2026-03-01,AZ,Electronics & Navigation,6853.0,0.394
+2026-03-01,AZ,Winter Sports,12730.0,0.488
+2026-03-01,AE,Tents & Shelter,15024.0,0.444
+2026-03-01,AE,Apparel,31633.0,0.581
+2026-03-01,AE,Footwear,19050.0,0.528
+2026-03-01,AE,Backpacks & Bags,12102.0,0.545
+2026-03-01,AE,Camp Kitchen,7415.0,0.596
+2026-03-01,AE,Electronics & Navigation,12679.0,0.394
+2026-03-01,AE,Winter Sports,5740.0,0.488
+2026-04-01,DE,Tents & Shelter,22247.0,0.444
+2026-04-01,DE,Apparel,29109.0,0.581
+2026-04-01,DE,Footwear,35386.0,0.528
+2026-04-01,DE,Backpacks & Bags,27461.0,0.545
+2026-04-01,DE,Camp Kitchen,12359.0,0.596
+2026-04-01,DE,Electronics & Navigation,9585.0,0.394
+2026-04-01,DE,Winter Sports,11240.0,0.488
+2026-04-01,FR,Tents & Shelter,9830.0,0.444
+2026-04-01,FR,Apparel,11849.0,0.581
+2026-04-01,FR,Footwear,13471.0,0.528
+2026-04-01,FR,Backpacks & Bags,8990.0,0.545
+2026-04-01,FR,Camp Kitchen,4800.0,0.596
+2026-04-01,FR,Electronics & Navigation,10496.0,0.394
+2026-04-01,FR,Winter Sports,2932.0,0.488
+2026-04-01,NL,Tents & Shelter,8695.0,0.444
+2026-04-01,NL,Apparel,5408.0,0.581
+2026-04-01,NL,Footwear,7353.0,0.528
+2026-04-01,NL,Backpacks & Bags,8301.0,0.545
+2026-04-01,NL,Camp Kitchen,3102.0,0.596
+2026-04-01,NL,Electronics & Navigation,4128.0,0.394
+2026-04-01,NL,Winter Sports,2468.0,0.488
+2026-04-01,GB,Tents & Shelter,22052.0,0.444
+2026-04-01,GB,Apparel,18829.0,0.581
+2026-04-01,GB,Footwear,25904.0,0.528
+2026-04-01,GB,Backpacks & Bags,12352.0,0.545
+2026-04-01,GB,Camp Kitchen,13710.0,0.596
+2026-04-01,GB,Electronics & Navigation,12106.0,0.394
+2026-04-01,GB,Winter Sports,6788.0,0.488
+2026-04-01,US,Tents & Shelter,14801.0,0.444
+2026-04-01,US,Apparel,15536.0,0.581
+2026-04-01,US,Footwear,17310.0,0.528
+2026-04-01,US,Backpacks & Bags,18246.0,0.545
+2026-04-01,US,Camp Kitchen,7937.0,0.596
+2026-04-01,US,Electronics & Navigation,9588.0,0.394
+2026-04-01,US,Winter Sports,8028.0,0.488
+2026-04-01,TR,Tents & Shelter,29974.0,0.444
+2026-04-01,TR,Apparel,33188.0,0.581
+2026-04-01,TR,Footwear,27158.0,0.528
+2026-04-01,TR,Backpacks & Bags,34268.0,0.545
+2026-04-01,TR,Camp Kitchen,11469.0,0.596
+2026-04-01,TR,Electronics & Navigation,21030.0,0.394
+2026-04-01,TR,Winter Sports,6789.0,0.488
+2026-04-01,AZ,Tents & Shelter,10984.0,0.444
+2026-04-01,AZ,Apparel,10319.0,0.581
+2026-04-01,AZ,Footwear,12796.0,0.528
+2026-04-01,AZ,Backpacks & Bags,12615.0,0.545
+2026-04-01,AZ,Camp Kitchen,4648.0,0.596
+2026-04-01,AZ,Electronics & Navigation,4127.0,0.394
+2026-04-01,AZ,Winter Sports,3190.0,0.488
+2026-04-01,AE,Tents & Shelter,17530.0,0.444
+2026-04-01,AE,Apparel,20305.0,0.581
+2026-04-01,AE,Footwear,22407.0,0.528
+2026-04-01,AE,Backpacks & Bags,17662.0,0.545
+2026-04-01,AE,Camp Kitchen,7951.0,0.596
+2026-04-01,AE,Electronics & Navigation,13234.0,0.394
+2026-04-01,AE,Winter Sports,1090.0,0.488
+2026-05-01,DE,Tents & Shelter,32353.0,0.444
+2026-05-01,DE,Apparel,22272.0,0.581
+2026-05-01,DE,Footwear,29698.0,0.528
+2026-05-01,DE,Backpacks & Bags,22137.0,0.545
+2026-05-01,DE,Camp Kitchen,21396.0,0.596
+2026-05-01,DE,Electronics & Navigation,13508.0,0.394
+2026-05-01,DE,Winter Sports,2093.0,0.488
+2026-05-01,FR,Tents & Shelter,14975.0,0.444
+2026-05-01,FR,Apparel,12049.0,0.581
+2026-05-01,FR,Footwear,13837.0,0.528
+2026-05-01,FR,Backpacks & Bags,13725.0,0.545
+2026-05-01,FR,Camp Kitchen,5674.0,0.596
+2026-05-01,FR,Electronics & Navigation,8355.0,0.394
+2026-05-01,FR,Winter Sports,688.0,0.488
+2026-05-01,NL,Tents & Shelter,8664.0,0.444
+2026-05-01,NL,Apparel,11960.0,0.581
+2026-05-01,NL,Footwear,7851.0,0.528
+2026-05-01,NL,Backpacks & Bags,4983.0,0.545
+2026-05-01,NL,Camp Kitchen,3444.0,0.596
+2026-05-01,NL,Electronics & Navigation,4085.0,0.394
+2026-05-01,NL,Winter Sports,835.0,0.488
+2026-05-01,GB,Tents & Shelter,18416.0,0.444
+2026-05-01,GB,Apparel,15499.0,0.581
+2026-05-01,GB,Footwear,18297.0,0.528
+2026-05-01,GB,Backpacks & Bags,12909.0,0.545
+2026-05-01,GB,Camp Kitchen,12952.0,0.596
+2026-05-01,GB,Electronics & Navigation,12172.0,0.394
+2026-05-01,GB,Winter Sports,713.0,0.488
+2026-05-01,US,Tents & Shelter,26150.0,0.444
+2026-05-01,US,Apparel,13807.0,0.581
+2026-05-01,US,Footwear,19305.0,0.528
+2026-05-01,US,Backpacks & Bags,23500.0,0.545
+2026-05-01,US,Camp Kitchen,9636.0,0.596
+2026-05-01,US,Electronics & Navigation,14793.0,0.394
+2026-05-01,US,Winter Sports,4033.0,0.488
+2026-05-01,TR,Tents & Shelter,41470.0,0.444
+2026-05-01,TR,Apparel,26562.0,0.581
+2026-05-01,TR,Footwear,25186.0,0.528
+2026-05-01,TR,Backpacks & Bags,30319.0,0.545
+2026-05-01,TR,Camp Kitchen,13465.0,0.596
+2026-05-01,TR,Electronics & Navigation,17951.0,0.394
+2026-05-01,TR,Winter Sports,2851.0,0.488
+2026-05-01,AZ,Tents & Shelter,23027.0,0.444
+2026-05-01,AZ,Apparel,7648.0,0.581
+2026-05-01,AZ,Footwear,10252.0,0.528
+2026-05-01,AZ,Backpacks & Bags,16807.0,0.545
+2026-05-01,AZ,Camp Kitchen,4683.0,0.596
+2026-05-01,AZ,Electronics & Navigation,12689.0,0.394
+2026-05-01,AZ,Winter Sports,1501.0,0.488
+2026-05-01,AE,Tents & Shelter,27489.0,0.444
+2026-05-01,AE,Apparel,16244.0,0.581
+2026-05-01,AE,Footwear,21015.0,0.528
+2026-05-01,AE,Backpacks & Bags,27598.0,0.545
+2026-05-01,AE,Camp Kitchen,18310.0,0.596
+2026-05-01,AE,Electronics & Navigation,18327.0,0.394
+2026-05-01,AE,Winter Sports,484.0,0.488
+2026-06-01,DE,Tents & Shelter,35871.0,0.444
+2026-06-01,DE,Apparel,21287.0,0.581
+2026-06-01,DE,Footwear,22514.0,0.528
+2026-06-01,DE,Backpacks & Bags,30644.0,0.545
+2026-06-01,DE,Camp Kitchen,18404.0,0.596
+2026-06-01,DE,Electronics & Navigation,15553.0,0.394
+2026-06-01,DE,Winter Sports,1259.0,0.488
+2026-06-01,FR,Tents & Shelter,15092.0,0.444
+2026-06-01,FR,Apparel,5808.0,0.581
+2026-06-01,FR,Footwear,13373.0,0.528
+2026-06-01,FR,Backpacks & Bags,11629.0,0.545
+2026-06-01,FR,Camp Kitchen,7715.0,0.596
+2026-06-01,FR,Electronics & Navigation,3769.0,0.394
+2026-06-01,FR,Winter Sports,361.0,0.488
+2026-06-01,NL,Tents & Shelter,15438.0,0.444
+2026-06-01,NL,Apparel,4348.0,0.581
+2026-06-01,NL,Footwear,4507.0,0.528
+2026-06-01,NL,Backpacks & Bags,13125.0,0.545
+2026-06-01,NL,Camp Kitchen,4067.0,0.596
+2026-06-01,NL,Electronics & Navigation,5948.0,0.394
+2026-06-01,NL,Winter Sports,900.0,0.488
+2026-06-01,GB,Tents & Shelter,31607.0,0.444
+2026-06-01,GB,Apparel,16773.0,0.581
+2026-06-01,GB,Footwear,15546.0,0.528
+2026-06-01,GB,Backpacks & Bags,19735.0,0.545
+2026-06-01,GB,Camp Kitchen,14672.0,0.596
+2026-06-01,GB,Electronics & Navigation,13126.0,0.394
+2026-06-01,GB,Winter Sports,1037.0,0.488
+2026-06-01,US,Tents & Shelter,33367.0,0.444
+2026-06-01,US,Apparel,18459.0,0.581
+2026-06-01,US,Footwear,18173.0,0.528
+2026-06-01,US,Backpacks & Bags,22581.0,0.545
+2026-06-01,US,Camp Kitchen,11529.0,0.596
+2026-06-01,US,Electronics & Navigation,12152.0,0.394
+2026-06-01,US,Winter Sports,3126.0,0.488
+2026-06-01,TR,Tents & Shelter,44496.0,0.444
+2026-06-01,TR,Apparel,25268.0,0.581
+2026-06-01,TR,Footwear,27277.0,0.528
+2026-06-01,TR,Backpacks & Bags,38578.0,0.545
+2026-06-01,TR,Camp Kitchen,21335.0,0.596
+2026-06-01,TR,Electronics & Navigation,19968.0,0.394
+2026-06-01,TR,Winter Sports,1564.0,0.488
+2026-06-01,AZ,Tents & Shelter,13056.0,0.444
+2026-06-01,AZ,Apparel,6241.0,0.581
+2026-06-01,AZ,Footwear,5967.0,0.528
+2026-06-01,AZ,Backpacks & Bags,7867.0,0.545
+2026-06-01,AZ,Camp Kitchen,5053.0,0.596
+2026-06-01,AZ,Electronics & Navigation,7456.0,0.394
+2026-06-01,AZ,Winter Sports,985.0,0.488
+2026-06-01,AE,Tents & Shelter,20309.0,0.444
+2026-06-01,AE,Apparel,16246.0,0.581
+2026-06-01,AE,Footwear,23244.0,0.528
+2026-06-01,AE,Backpacks & Bags,25535.0,0.545
+2026-06-01,AE,Camp Kitchen,17197.0,0.596
+2026-06-01,AE,Electronics & Navigation,20988.0,0.394
+2026-06-01,AE,Winter Sports,471.0,0.488
+2026-07-01,DE,Tents & Shelter,48230.0,0.444
+2026-07-01,DE,Apparel,17057.0,0.581
+2026-07-01,DE,Footwear,15367.0,0.528
+2026-07-01,DE,Backpacks & Bags,32332.0,0.545
+2026-07-01,DE,Camp Kitchen,15495.0,0.596
+2026-07-01,DE,Electronics & Navigation,19745.0,0.394
+2026-07-01,DE,Winter Sports,4054.0,0.488
+2026-07-01,FR,Tents & Shelter,9912.0,0.444
+2026-07-01,FR,Apparel,9990.0,0.581
+2026-07-01,FR,Footwear,7044.0,0.528
+2026-07-01,FR,Backpacks & Bags,7433.0,0.545
+2026-07-01,FR,Camp Kitchen,4886.0,0.596
+2026-07-01,FR,Electronics & Navigation,6626.0,0.394
+2026-07-01,FR,Winter Sports,225.0,0.488
+2026-07-01,NL,Tents & Shelter,8392.0,0.444
+2026-07-01,NL,Apparel,5364.0,0.581
+2026-07-01,NL,Footwear,5703.0,0.528
+2026-07-01,NL,Backpacks & Bags,6336.0,0.545
+2026-07-01,NL,Camp Kitchen,4268.0,0.596
+2026-07-01,NL,Electronics & Navigation,4432.0,0.394
+2026-07-01,NL,Winter Sports,158.0,0.488
+2026-07-01,GB,Tents & Shelter,17294.0,0.444
+2026-07-01,GB,Apparel,9426.0,0.581
+2026-07-01,GB,Footwear,10064.0,0.528
+2026-07-01,GB,Backpacks & Bags,13587.0,0.545
+2026-07-01,GB,Camp Kitchen,11520.0,0.596
+2026-07-01,GB,Electronics & Navigation,14398.0,0.394
+2026-07-01,GB,Winter Sports,1236.0,0.488
+2026-07-01,US,Tents & Shelter,24668.0,0.444
+2026-07-01,US,Apparel,15810.0,0.581
+2026-07-01,US,Footwear,12912.0,0.528
+2026-07-01,US,Backpacks & Bags,27725.0,0.545
+2026-07-01,US,Camp Kitchen,15702.0,0.596
+2026-07-01,US,Electronics & Navigation,14855.0,0.394
+2026-07-01,US,Winter Sports,1477.0,0.488
+2026-07-01,TR,Tents & Shelter,41458.0,0.444
+2026-07-01,TR,Apparel,19297.0,0.581
+2026-07-01,TR,Footwear,19783.0,0.528
+2026-07-01,TR,Backpacks & Bags,39176.0,0.545
+2026-07-01,TR,Camp Kitchen,19457.0,0.596
+2026-07-01,TR,Electronics & Navigation,25199.0,0.394
+2026-07-01,TR,Winter Sports,1565.0,0.488
+2026-07-01,AZ,Tents & Shelter,20911.0,0.444
+2026-07-01,AZ,Apparel,5754.0,0.581
+2026-07-01,AZ,Footwear,8428.0,0.528
+2026-07-01,AZ,Backpacks & Bags,16953.0,0.545
+2026-07-01,AZ,Camp Kitchen,8463.0,0.596
+2026-07-01,AZ,Electronics & Navigation,9922.0,0.394
+2026-07-01,AZ,Winter Sports,992.0,0.488
+2026-07-01,AE,Tents & Shelter,22399.0,0.444
+2026-07-01,AE,Apparel,11214.0,0.581
+2026-07-01,AE,Footwear,14006.0,0.528
+2026-07-01,AE,Backpacks & Bags,22511.0,0.545
+2026-07-01,AE,Camp Kitchen,14714.0,0.596
+2026-07-01,AE,Electronics & Navigation,14726.0,0.394
+2026-07-01,AE,Winter Sports,547.0,0.488
+2026-08-01,DE,Tents & Shelter,23475.0,0.444
+2026-08-01,DE,Apparel,22245.0,0.581
+2026-08-01,DE,Footwear,17759.0,0.528
+2026-08-01,DE,Backpacks & Bags,20813.0,0.545
+2026-08-01,DE,Camp Kitchen,13290.0,0.596
+2026-08-01,DE,Electronics & Navigation,11692.0,0.394
+2026-08-01,DE,Winter Sports,2081.0,0.488
+2026-08-01,FR,Tents & Shelter,10986.0,0.444
+2026-08-01,FR,Apparel,5044.0,0.581
+2026-08-01,FR,Footwear,6999.0,0.528
+2026-08-01,FR,Backpacks & Bags,9641.0,0.545
+2026-08-01,FR,Camp Kitchen,4986.0,0.596
+2026-08-01,FR,Electronics & Navigation,5741.0,0.394
+2026-08-01,FR,Winter Sports,880.0,0.488
+2026-08-01,NL,Tents & Shelter,12042.0,0.444
+2026-08-01,NL,Apparel,7926.0,0.581
+2026-08-01,NL,Footwear,4095.0,0.528
+2026-08-01,NL,Backpacks & Bags,5533.0,0.545
+2026-08-01,NL,Camp Kitchen,3704.0,0.596
+2026-08-01,NL,Electronics & Navigation,4213.0,0.394
+2026-08-01,NL,Winter Sports,875.0,0.488
+2026-08-01,GB,Tents & Shelter,16675.0,0.444
+2026-08-01,GB,Apparel,13582.0,0.581
+2026-08-01,GB,Footwear,16194.0,0.528
+2026-08-01,GB,Backpacks & Bags,18280.0,0.545
+2026-08-01,GB,Camp Kitchen,6272.0,0.596
+2026-08-01,GB,Electronics & Navigation,10278.0,0.394
+2026-08-01,GB,Winter Sports,2360.0,0.488
+2026-08-01,US,Tents & Shelter,15868.0,0.444
+2026-08-01,US,Apparel,19920.0,0.581
+2026-08-01,US,Footwear,14055.0,0.528
+2026-08-01,US,Backpacks & Bags,16332.0,0.545
+2026-08-01,US,Camp Kitchen,17145.0,0.596
+2026-08-01,US,Electronics & Navigation,12068.0,0.394
+2026-08-01,US,Winter Sports,3239.0,0.488
+2026-08-01,TR,Tents & Shelter,35729.0,0.444
+2026-08-01,TR,Apparel,29859.0,0.581
+2026-08-01,TR,Footwear,20256.0,0.528
+2026-08-01,TR,Backpacks & Bags,31688.0,0.545
+2026-08-01,TR,Camp Kitchen,13846.0,0.596
+2026-08-01,TR,Electronics & Navigation,16423.0,0.394
+2026-08-01,TR,Winter Sports,2332.0,0.488
+2026-08-01,AZ,Tents & Shelter,10720.0,0.444
+2026-08-01,AZ,Apparel,6501.0,0.581
+2026-08-01,AZ,Footwear,5376.0,0.528
+2026-08-01,AZ,Backpacks & Bags,10706.0,0.545
+2026-08-01,AZ,Camp Kitchen,4539.0,0.596
+2026-08-01,AZ,Electronics & Navigation,3222.0,0.394
+2026-08-01,AZ,Winter Sports,1228.0,0.488
+2026-08-01,AE,Tents & Shelter,14720.0,0.444
+2026-08-01,AE,Apparel,18673.0,0.581
+2026-08-01,AE,Footwear,25660.0,0.528
+2026-08-01,AE,Backpacks & Bags,30961.0,0.545
+2026-08-01,AE,Camp Kitchen,14912.0,0.596
+2026-08-01,AE,Electronics & Navigation,16502.0,0.394
+2026-08-01,AE,Winter Sports,367.0,0.488
+2026-09-01,DE,Tents & Shelter,20851.0,0.444
+2026-09-01,DE,Apparel,26273.0,0.581
+2026-09-01,DE,Footwear,19645.0,0.528
+2026-09-01,DE,Backpacks & Bags,27474.0,0.545
+2026-09-01,DE,Camp Kitchen,8447.0,0.596
+2026-09-01,DE,Electronics & Navigation,13769.0,0.394
+2026-09-01,DE,Winter Sports,10266.0,0.488
+2026-09-01,FR,Tents & Shelter,7505.0,0.444
+2026-09-01,FR,Apparel,10318.0,0.581
+2026-09-01,FR,Footwear,9524.0,0.528
+2026-09-01,FR,Backpacks & Bags,8858.0,0.545
+2026-09-01,FR,Camp Kitchen,3235.0,0.596
+2026-09-01,FR,Electronics & Navigation,5059.0,0.394
+2026-09-01,FR,Winter Sports,3739.0,0.488
+2026-09-01,NL,Tents & Shelter,8689.0,0.444
+2026-09-01,NL,Apparel,7541.0,0.581
+2026-09-01,NL,Footwear,5215.0,0.528
+2026-09-01,NL,Backpacks & Bags,6633.0,0.545
+2026-09-01,NL,Camp Kitchen,2932.0,0.596
+2026-09-01,NL,Electronics & Navigation,4290.0,0.394
+2026-09-01,NL,Winter Sports,4498.0,0.488
+2026-09-01,GB,Tents & Shelter,8082.0,0.444
+2026-09-01,GB,Apparel,22043.0,0.581
+2026-09-01,GB,Footwear,14089.0,0.528
+2026-09-01,GB,Backpacks & Bags,12278.0,0.545
+2026-09-01,GB,Camp Kitchen,6835.0,0.596
+2026-09-01,GB,Electronics & Navigation,11027.0,0.394
+2026-09-01,GB,Winter Sports,6663.0,0.488
+2026-09-01,US,Tents & Shelter,14585.0,0.444
+2026-09-01,US,Apparel,18744.0,0.581
+2026-09-01,US,Footwear,22195.0,0.528
+2026-09-01,US,Backpacks & Bags,16026.0,0.545
+2026-09-01,US,Camp Kitchen,7316.0,0.596
+2026-09-01,US,Electronics & Navigation,11330.0,0.394
+2026-09-01,US,Winter Sports,8619.0,0.488
+2026-09-01,TR,Tents & Shelter,26031.0,0.444
+2026-09-01,TR,Apparel,54320.0,0.581
+2026-09-01,TR,Footwear,37049.0,0.528
+2026-09-01,TR,Backpacks & Bags,39294.0,0.545
+2026-09-01,TR,Camp Kitchen,13805.0,0.596
+2026-09-01,TR,Electronics & Navigation,22332.0,0.394
+2026-09-01,TR,Winter Sports,7843.0,0.488
+2026-09-01,AZ,Tents & Shelter,9225.0,0.444
+2026-09-01,AZ,Apparel,10182.0,0.581
+2026-09-01,AZ,Footwear,12836.0,0.528
+2026-09-01,AZ,Backpacks & Bags,9009.0,0.545
+2026-09-01,AZ,Camp Kitchen,2712.0,0.596
+2026-09-01,AZ,Electronics & Navigation,5186.0,0.394
+2026-09-01,AZ,Winter Sports,3701.0,0.488
+2026-09-01,AE,Tents & Shelter,9721.0,0.444
+2026-09-01,AE,Apparel,37263.0,0.581
+2026-09-01,AE,Footwear,21217.0,0.528
+2026-09-01,AE,Backpacks & Bags,19875.0,0.545
+2026-09-01,AE,Camp Kitchen,8938.0,0.596
+2026-09-01,AE,Electronics & Navigation,19248.0,0.394
+2026-09-01,AE,Winter Sports,926.0,0.488
+2026-10-01,DE,Tents & Shelter,10215.0,0.444
+2026-10-01,DE,Apparel,39241.0,0.581
+2026-10-01,DE,Footwear,24958.0,0.528
+2026-10-01,DE,Backpacks & Bags,17506.0,0.545
+2026-10-01,DE,Camp Kitchen,7508.0,0.596
+2026-10-01,DE,Electronics & Navigation,20091.0,0.394
+2026-10-01,DE,Winter Sports,26832.0,0.488
+2026-10-01,FR,Tents & Shelter,8092.0,0.444
+2026-10-01,FR,Apparel,22673.0,0.581
+2026-10-01,FR,Footwear,12180.0,0.528
+2026-10-01,FR,Backpacks & Bags,8061.0,0.545
+2026-10-01,FR,Camp Kitchen,3795.0,0.596
+2026-10-01,FR,Electronics & Navigation,5727.0,0.394
+2026-10-01,FR,Winter Sports,12012.0,0.488
+2026-10-01,NL,Tents & Shelter,5217.0,0.444
+2026-10-01,NL,Apparel,9490.0,0.581
+2026-10-01,NL,Footwear,7533.0,0.528
+2026-10-01,NL,Backpacks & Bags,10328.0,0.545
+2026-10-01,NL,Camp Kitchen,5891.0,0.596
+2026-10-01,NL,Electronics & Navigation,5628.0,0.394
+2026-10-01,NL,Winter Sports,6822.0,0.488
+2026-10-01,GB,Tents & Shelter,8611.0,0.444
+2026-10-01,GB,Apparel,29558.0,0.581
+2026-10-01,GB,Footwear,14437.0,0.528
+2026-10-01,GB,Backpacks & Bags,18579.0,0.545
+2026-10-01,GB,Camp Kitchen,5252.0,0.596
+2026-10-01,GB,Electronics & Navigation,15593.0,0.394
+2026-10-01,GB,Winter Sports,26802.0,0.488
+2026-10-01,US,Tents & Shelter,11415.0,0.444
+2026-10-01,US,Apparel,33407.0,0.581
+2026-10-01,US,Footwear,20691.0,0.528
+2026-10-01,US,Backpacks & Bags,10447.0,0.545
+2026-10-01,US,Camp Kitchen,5273.0,0.596
+2026-10-01,US,Electronics & Navigation,21221.0,0.394
+2026-10-01,US,Winter Sports,30361.0,0.488
+2026-10-01,TR,Tents & Shelter,19247.0,0.444
+2026-10-01,TR,Apparel,34592.0,0.581
+2026-10-01,TR,Footwear,16850.0,0.528
+2026-10-01,TR,Backpacks & Bags,21841.0,0.545
+2026-10-01,TR,Camp Kitchen,7528.0,0.596
+2026-10-01,TR,Electronics & Navigation,18668.0,0.394
+2026-10-01,TR,Winter Sports,19785.0,0.488
+2026-10-01,AZ,Tents & Shelter,14573.0,0.444
+2026-10-01,AZ,Apparel,24048.0,0.581
+2026-10-01,AZ,Footwear,14683.0,0.528
+2026-10-01,AZ,Backpacks & Bags,3565.0,0.545
+2026-10-01,AZ,Camp Kitchen,3407.0,0.596
+2026-10-01,AZ,Electronics & Navigation,17937.0,0.394
+2026-10-01,AZ,Winter Sports,11544.0,0.488
+2026-10-01,AE,Tents & Shelter,10760.0,0.444
+2026-10-01,AE,Apparel,36839.0,0.581
+2026-10-01,AE,Footwear,30275.0,0.528
+2026-10-01,AE,Backpacks & Bags,30052.0,0.545
+2026-10-01,AE,Camp Kitchen,7251.0,0.596
+2026-10-01,AE,Electronics & Navigation,23779.0,0.394
+2026-10-01,AE,Winter Sports,8615.0,0.488
+2026-11-01,DE,Tents & Shelter,15343.0,0.444
+2026-11-01,DE,Apparel,59037.0,0.581
+2026-11-01,DE,Footwear,25404.0,0.528
+2026-11-01,DE,Backpacks & Bags,23370.0,0.545
+2026-11-01,DE,Camp Kitchen,10757.0,0.596
+2026-11-01,DE,Electronics & Navigation,52490.0,0.394
+2026-11-01,DE,Winter Sports,74268.0,0.488
+2026-11-01,FR,Tents & Shelter,7467.0,0.444
+2026-11-01,FR,Apparel,23276.0,0.581
+2026-11-01,FR,Footwear,11794.0,0.528
+2026-11-01,FR,Backpacks & Bags,12393.0,0.545
+2026-11-01,FR,Camp Kitchen,4039.0,0.596
+2026-11-01,FR,Electronics & Navigation,27167.0,0.394
+2026-11-01,FR,Winter Sports,33584.0,0.488
+2026-11-01,NL,Tents & Shelter,9989.0,0.444
+2026-11-01,NL,Apparel,26292.0,0.581
+2026-11-01,NL,Footwear,10444.0,0.528
+2026-11-01,NL,Backpacks & Bags,9477.0,0.545
+2026-11-01,NL,Camp Kitchen,1585.0,0.596
+2026-11-01,NL,Electronics & Navigation,24681.0,0.394
+2026-11-01,NL,Winter Sports,20505.0,0.488
+2026-11-01,GB,Tents & Shelter,10155.0,0.444
+2026-11-01,GB,Apparel,33773.0,0.581
+2026-11-01,GB,Footwear,17573.0,0.528
+2026-11-01,GB,Backpacks & Bags,16246.0,0.545
+2026-11-01,GB,Camp Kitchen,6539.0,0.596
+2026-11-01,GB,Electronics & Navigation,30501.0,0.394
+2026-11-01,GB,Winter Sports,53135.0,0.488
+2026-11-01,US,Tents & Shelter,11114.0,0.444
+2026-11-01,US,Apparel,38379.0,0.581
+2026-11-01,US,Footwear,19161.0,0.528
+2026-11-01,US,Backpacks & Bags,13889.0,0.545
+2026-11-01,US,Camp Kitchen,6491.0,0.596
+2026-11-01,US,Electronics & Navigation,33518.0,0.394
+2026-11-01,US,Winter Sports,51966.0,0.488
+2026-11-01,TR,Tents & Shelter,26905.0,0.444
+2026-11-01,TR,Apparel,52640.0,0.581
+2026-11-01,TR,Footwear,30186.0,0.528
+2026-11-01,TR,Backpacks & Bags,25047.0,0.545
+2026-11-01,TR,Camp Kitchen,7893.0,0.596
+2026-11-01,TR,Electronics & Navigation,39673.0,0.394
+2026-11-01,TR,Winter Sports,52506.0,0.488
+2026-11-01,AZ,Tents & Shelter,5572.0,0.444
+2026-11-01,AZ,Apparel,17576.0,0.581
+2026-11-01,AZ,Footwear,6934.0,0.528
+2026-11-01,AZ,Backpacks & Bags,11521.0,0.545
+2026-11-01,AZ,Camp Kitchen,5511.0,0.596
+2026-11-01,AZ,Electronics & Navigation,9200.0,0.394
+2026-11-01,AZ,Winter Sports,29515.0,0.488
+2026-11-01,AE,Tents & Shelter,10721.0,0.444
+2026-11-01,AE,Apparel,85676.0,0.581
+2026-11-01,AE,Footwear,31328.0,0.528
+2026-11-01,AE,Backpacks & Bags,28170.0,0.545
+2026-11-01,AE,Camp Kitchen,10471.0,0.596
+2026-11-01,AE,Electronics & Navigation,75274.0,0.394
+2026-11-01,AE,Winter Sports,30325.0,0.488
+2026-12-01,DE,Tents & Shelter,11195.0,0.444
+2026-12-01,DE,Apparel,53635.0,0.581
+2026-12-01,DE,Footwear,22329.0,0.528
+2026-12-01,DE,Backpacks & Bags,22541.0,0.545
+2026-12-01,DE,Camp Kitchen,8783.0,0.596
+2026-12-01,DE,Electronics & Navigation,31563.0,0.394
+2026-12-01,DE,Winter Sports,64351.0,0.488
+2026-12-01,FR,Tents & Shelter,4636.0,0.444
+2026-12-01,FR,Apparel,21121.0,0.581
+2026-12-01,FR,Footwear,9947.0,0.528
+2026-12-01,FR,Backpacks & Bags,9724.0,0.545
+2026-12-01,FR,Camp Kitchen,3719.0,0.596
+2026-12-01,FR,Electronics & Navigation,16075.0,0.394
+2026-12-01,FR,Winter Sports,25415.0,0.488
+2026-12-01,NL,Tents & Shelter,2669.0,0.444
+2026-12-01,NL,Apparel,18446.0,0.581
+2026-12-01,NL,Footwear,6225.0,0.528
+2026-12-01,NL,Backpacks & Bags,6752.0,0.545
+2026-12-01,NL,Camp Kitchen,1999.0,0.596
+2026-12-01,NL,Electronics & Navigation,11298.0,0.394
+2026-12-01,NL,Winter Sports,18993.0,0.488
+2026-12-01,GB,Tents & Shelter,10301.0,0.444
+2026-12-01,GB,Apparel,43751.0,0.581
+2026-12-01,GB,Footwear,12583.0,0.528
+2026-12-01,GB,Backpacks & Bags,15457.0,0.545
+2026-12-01,GB,Camp Kitchen,7081.0,0.596
+2026-12-01,GB,Electronics & Navigation,19806.0,0.394
+2026-12-01,GB,Winter Sports,47227.0,0.488
+2026-12-01,US,Tents & Shelter,10963.0,0.444
+2026-12-01,US,Apparel,41047.0,0.581
+2026-12-01,US,Footwear,16321.0,0.528
+2026-12-01,US,Backpacks & Bags,19351.0,0.545
+2026-12-01,US,Camp Kitchen,5140.0,0.596
+2026-12-01,US,Electronics & Navigation,29016.0,0.394
+2026-12-01,US,Winter Sports,63226.0,0.488
+2026-12-01,TR,Tents & Shelter,14686.0,0.444
+2026-12-01,TR,Apparel,45367.0,0.581
+2026-12-01,TR,Footwear,19182.0,0.528
+2026-12-01,TR,Backpacks & Bags,22794.0,0.545
+2026-12-01,TR,Camp Kitchen,8278.0,0.596
+2026-12-01,TR,Electronics & Navigation,30924.0,0.394
+2026-12-01,TR,Winter Sports,47368.0,0.488
+2026-12-01,AZ,Tents & Shelter,5762.0,0.444
+2026-12-01,AZ,Apparel,15330.0,0.581
+2026-12-01,AZ,Footwear,7352.0,0.528
+2026-12-01,AZ,Backpacks & Bags,6832.0,0.545
+2026-12-01,AZ,Camp Kitchen,5674.0,0.596
+2026-12-01,AZ,Electronics & Navigation,9659.0,0.394
+2026-12-01,AZ,Winter Sports,40104.0,0.488
+2026-12-01,AE,Tents & Shelter,10751.0,0.444
+2026-12-01,AE,Apparel,70980.0,0.581
+2026-12-01,AE,Footwear,25950.0,0.528
+2026-12-01,AE,Backpacks & Bags,23349.0,0.545
+2026-12-01,AE,Camp Kitchen,8688.0,0.596
+2026-12-01,AE,Electronics & Navigation,53424.0,0.394
+2026-12-01,AE,Winter Sports,15645.0,0.488

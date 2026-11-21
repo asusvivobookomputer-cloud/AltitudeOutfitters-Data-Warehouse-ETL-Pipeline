@@ -1,0 +1,11 @@
+product_id,product_name,warehouse_id,streak_start,streak_end,consecutive_months
+P0021,Borealis Ember Sleeping Pad,WH-HAM,2025-03-31,2025-09-30,7
+P0019,Fjordik Vista Sleeping Pad,WH-HAM,2025-05-31,2025-09-30,5
+P0019,Fjordik Vista Sleeping Pad,WH-IST,2025-05-31,2025-09-30,5
+P0028,Borealis Apex Tarp Shelter,WH-DXB,2025-05-31,2025-09-30,5
+P0021,Borealis Ember Sleeping Pad,WH-IST,2023-06-30,2023-09-30,4
+P0122,Terravo Basecamp Hydration Pack,WH-HAM,2023-06-30,2023-09-30,4
+P0174,Nordvik Glide Action Camera,WH-HAM,2023-10-31,2024-01-31,4
+P0180,Ridgemont Horizon Ski Jacket (Men's),WH-HAM,2023-11-30,2024-02-29,4
+P0181,Trailhead Ember Ski Jacket (Women's),WH-IST,2024-11-30,2025-02-28,4
+P0195,Nordvik Cascade Goggles,WH-HAM,2024-12-31,2025-03-31,4

@@ -1,0 +1,23 @@
+store_id,store_name,channel,country_code,city,open_date,marketplace_commission_pct,payment_fee_pct
+WEB-DE,Online Store DE,Web,DE,Berlin,2021-01-01,0.0,0.024
+WEB-FR,Online Store FR,Web,FR,Paris,2021-01-01,0.0,0.024
+WEB-NL,Online Store NL,Web,NL,Amsterdam,2021-01-01,0.0,0.024
+WEB-GB,Online Store GB,Web,GB,London,2021-01-01,0.0,0.024
+WEB-US,Online Store US,Web,US,New York,2021-01-01,0.0,0.024
+WEB-TR,Online Store TR,Web,TR,Istanbul,2021-01-01,0.0,0.024
+WEB-AZ,Online Store AZ,Web,AZ,Baku,2021-01-01,0.0,0.024
+WEB-AE,Online Store AE,Web,AE,Dubai,2024-03-01,0.0,0.024
+MKT-EU,Marketplace Europe,Marketplace,DE,Hamburg,2021-06-01,0.15,0.0
+MKT-GB,Marketplace UK,Marketplace,GB,London,2021-06-01,0.15,0.0
+MKT-US,Marketplace US,Marketplace,US,New York,2022-03-01,0.14,0.0
+MKT-TR,Marketplace Turkey,Marketplace,TR,Istanbul,2022-09-01,0.17,0.0
+MKT-GCC,Marketplace Gulf,Marketplace,AE,Dubai,2024-03-01,0.16,0.0
+RET-BER,Berlin Flagship Store,Retail,DE,Berlin,2022-05-01,0.0,0.012
+RET-LON,London Flagship Store,Retail,GB,London,2022-08-01,0.0,0.012
+RET-IST,Istanbul Flagship Store,Retail,TR,Istanbul,2022-11-01,0.0,0.012
+RET-BAK,Baku Flagship Store,Retail,AZ,Baku,2023-06-01,0.0,0.012
+RET-NYC,New York Flagship Store,Retail,US,New York,2024-05-01,0.0,0.012
+RET-DXB,Dubai Flagship Store,Retail,AE,Dubai,2025-02-01,0.0,0.012
+B2B-EUR,B2B Wholesale Europe,B2B,DE,Hamburg,2021-01-01,0.0,0.005
+B2B-AMER,B2B Wholesale Americas,B2B,US,New York,2022-01-01,0.0,0.005
+B2B-MECA,B2B Wholesale Middle East & Caucasus,B2B,TR,Istanbul,2022-01-01,0.0,0.005

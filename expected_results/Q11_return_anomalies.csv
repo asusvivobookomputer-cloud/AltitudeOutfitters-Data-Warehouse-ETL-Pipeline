@@ -1,0 +1,7 @@
+category,product_name,supplier_id,units_sold,units_returned,return_rate_pct,category_rate_pct,times_category_norm
+Footwear,Nordvik Apex Trail Runner (Men's),S03,3038.0,929.0,30.6,10.8,2.8
+Footwear,Nordvik Basecamp Hiking Boot (Men's),S10,338.0,99.0,29.3,10.8,2.7
+Footwear,Nordvik Ember Trail Runner (Men's),S10,1183.0,349.0,29.5,10.8,2.7
+Footwear,Nordvik Drift Trail Runner (Men's),S10,520.0,154.0,29.6,10.8,2.7
+Winter Sports,Nordvik Pioneer Ski Pants (Women's),S04,293.0,55.0,18.8,6.8,2.7
+Winter Sports,Trailhead Aero Ski Pants (Women's),S06,247.0,45.0,18.2,6.8,2.7

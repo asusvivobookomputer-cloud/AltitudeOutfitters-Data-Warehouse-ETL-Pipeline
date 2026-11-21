@@ -1,0 +1,9 @@
+country_code,country_name,region,currency_code,latitude,longitude
+DE,Germany,Europe,EUR,51.17,10.45
+FR,France,Europe,EUR,46.23,2.21
+NL,Netherlands,Europe,EUR,52.13,5.29
+GB,United Kingdom,Europe,GBP,55.38,-3.44
+US,United States,North America,USD,37.09,-95.71
+TR,Turkey,Middle East & Caucasus,TRY,38.96,35.24
+AZ,Azerbaijan,Middle East & Caucasus,AZN,40.14,47.58
+AE,United Arab Emirates,Middle East & Caucasus,AED,23.42,53.85

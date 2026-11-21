@@ -1,0 +1,12 @@
+order_year,promo_type,orders,net_revenue_usd,effective_discount_pct,gross_margin_pct
+2023,Black Friday,486,88255.0,20.0,38.8
+2024,Black Friday,843,147791.0,24.9,34.4
+2025,Black Friday,1234,201806.0,29.9,31.0
+2023,Clearance,399,71402.0,14.1,44.8
+2024,Clearance,865,165164.0,17.7,42.2
+2025,Clearance,1302,249491.0,22.1,37.9
+2026,Clearance,1971,398267.0,21.6,38.7
+2023,No promotion,8490,1900123.0,1.7,50.7
+2024,No promotion,15667,3688945.0,1.9,50.9
+2025,No promotion,23868,6301115.0,2.8,50.2
+2026,No promotion,22231,5677991.0,2.8,50.0

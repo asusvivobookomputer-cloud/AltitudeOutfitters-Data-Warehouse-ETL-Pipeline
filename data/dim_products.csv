@@ -1,0 +1,208 @@
+product_id,sku,product_name,category,subcategory,brand,brand_type,supplier_id,list_price_usd,standard_cost_usd,launch_date,discontinued_date,weight_kg
+P0001,TNT-KES-0001,Kestrane Drift Tent 6P,Tents & Shelter,Tents,Kestrane,Third-Party,S05,204.99,112.6,2020-07-22,,0.6
+P0002,TNT-TER-0002,Terravo Ridge Tent 2P,Tents & Shelter,Tents,Terravo,Third-Party,S01,399.99,234.36,2021-09-19,,3.51
+P0003,TNT-TRA-0003,Trailhead Drift Tent 4P,Tents & Shelter,Tents,Trailhead,Private Label,S05,259.99,136.98,2020-07-16,<bound method Timestamp.date of Timestamp('2024-07-03 00:00:00')>,3.24
+P0004,TNT-TRA-0004,Trailhead Cascade Tent 6P,Tents & Shelter,Tents,Trailhead,Private Label,S01,239.99,118.78,2023-10-05,,2.38
+P0005,TNT-NOR-0005,Nordvik Frost Tent 4P,Tents & Shelter,Tents,Nordvik,Private Label,S05,194.99,96.81,2022-06-12,,4.09
+P0006,TNT-FJO-0006,Fjordik Basecamp Tent 2P,Tents & Shelter,Tents,Fjordik,Third-Party,S05,224.99,146.64,2022-02-08,,1.23
+P0007,TNT-FJO-0007,Fjordik Vista Tent 4P,Tents & Shelter,Tents,Fjordik,Third-Party,S01,194.99,117.1,2021-03-10,,2.91
+P0008,TNT-NOR-0008,Nordvik Zenith Tent 6P,tents & shelter,Tents,Nordvik,Private Label,S01,439.99,224.88,2022-04-25,,1.69
+P0009,TNT-ALT-0009,Altavera Granite Tent 4P,Tents & Shelter,Tents,Altavera,Third-Party,S05,434.99,259.45,2021-05-19,,1.59
+P0010,TNT-NOR-0010,Nordvik Frost Sleeping Bag (-15°C),Tents & Shelter,Sleeping Bags,Nordvik,Private Label,S05,334.99,183.63,2021-04-09,,4.44
+P0011,TNT-NOR-0011,Nordvik Aero Sleeping Bag (0°C),Tents & Shelter,Sleeping Bags,Nordvik,Private Label,S05,124.99,65.85,2021-08-25,,1.49
+P0012,TNT-TER-0012,Terravo Nomad Sleeping Bag (5°C),Tents & Shelter,Sleeping Bags,Terravo,Third-Party,S05,149.99,89.64,2021-11-22,,1.57
+P0013,TNT-NOR-0013,Nordvik Alpine Sleeping Bag (-8°C),Tents & Shelter,Sleeping Bags,Nordvik,Private Label,S01,139.99,66.92,2022-01-28,,3.77
+P0014,TNT-NOR-0014,Nordvik Alpine Sleeping Bag (0°C),Tents & Shelter,Sleeping Bags,Nordvik,Private Label,S05,84.99,44.07,2021-04-26,,0.55
+P0015,TNT-TRA-0015,Trailhead Ember Sleeping Bag (-5°C),Tents & Shelter,Sleeping Bags,Trailhead,Private Label,S05,269.99,155.38,2022-05-12,,0.84
+P0016,TNT-FJO-0016,Fjordik Orbit Sleeping Bag (0°C),Tents & Shelter,Sleeping Bags,Fjordik,Third-Party,S05,284.99,162.29,2020-10-04,,0.46
+P0017,TNT-ALT-0017,Altavera Orbit Sleeping Bag (-15°C),Tents & Shelter,Sleeping Bags,Altavera,Third-Party,S05,314.99,204.24,2021-12-11,<bound method Timestamp.date of Timestamp('2026-04-28 00:00:00')>,1.12
+P0018,TNT-NOR-0018,Nordvik Granite Sleeping Bag (5°C),Tents & Shelter,Sleeping Bags,Nordvik,Private Label,S01,194.99,90.41,2021-09-09,,1.77
+P0019,TNT-FJO-0019,Fjordik Vista Sleeping Pad,Tents & Shelter,Sleeping Pads,Fjordik,Third-Party,S05,40.99,25.69,2021-03-22,,2.12
+P0020,TNT-KES-0020,Kestrane Tundra Sleeping Pad,Tents & Shelter,Sleeping Pads,Kestrane,Third-Party,S01,164.99,88.92,2021-10-24,,3.53
+P0021,TNT-BOR-0021,Borealis Ember Sleeping Pad,Tents & Shelter,Sleeping Pads,Borealis,Third-Party,S05,109.99,78.7,2022-05-30,,0.98
+P0022,TNT-KES-0022,Kestrane Vista Sleeping Pad,Tents & Shelter,Sleeping Pads,Kestrane,Third-Party,S05,79.99,53.24,2022-10-04,,3.74
+P0023,TNT-RID-0023,Ridgemont Basecamp Sleeping Pad,Tents & Shelter,Sleeping Pads,Ridgemont,Third-Party,S01,99.99,56.79,2020-07-31,,4.12
+P0024,TNT-TRA-0024,Trailhead Ember Sleeping Pad,Tents & Shelter,Sleeping Pads,Trailhead,Private Label,S05,59.99,31.38,2021-10-05,,2.96
+P0025,TNT-NOR-0025,Nordvik Aero Tarp Shelter,Tents & Shelter,Shelters & Tarps,Nordvik,Private Label,S05,134.99,77.41,2020-11-09,,0.42
+P0026,TNT-TER-0026,Terravo Cascade Tarp Shelter,Tents & Shelter,Shelters & Tarps,Terravo,Third-Party,S05,124.99,79.44,2021-01-08,,0.83
+P0027,TNT-ALT-0027,Altavera Frost Tarp Shelter,Tents & Shelter,Shelters & Tarps,Altavera,Third-Party,S01,109.99,57.37,2021-01-22,<bound method Timestamp.date of Timestamp('2024-08-29 00:00:00')>,4.11
+P0028,TNT-BOR-0028,Borealis Apex Tarp Shelter,Tents & Shelter,Shelters & Tarps,Borealis,Third-Party,S05,79.99,52.01,2022-03-26,,2.91
+P0029,TNT-TER-0029,Terravo Pioneer Tarp Shelter,Tents & Shelter,Shelters & Tarps,Terravo,Third-Party,S01,54.99,28.53,2024-09-07,,3.94
+P0030,APP-BOR-0030,Borealis Drift Insulated Jacket (Women's),Apparel,Insulated Jackets,Borealis,Third-Party,S04,189.99,90.43,2021-03-16,,2.28
+P0031,APP-KES-0031,Kestrane Apex Insulated Jacket (Men's),Apparel,Insulated Jackets,Kestrane,Third-Party,S04,264.99,122.57,2022-06-29,,3.17
+P0032,APP-RID-0032,Ridgemont Nomad Insulated Jacket (Men's),Apparel,Insulated Jackets,Ridgemont,Third-Party,S04,134.99,55.76,2024-05-06,,1.38
+P0033,APP-NOR-0033,Nordvik Ridge Insulated Jacket (Men's),Apparel,Insulated Jackets,Nordvik,Private Label,S02,189.99,74.04,2022-05-24,,0.51
+P0034,APP-NOR-0034,Nordvik Granite Insulated Jacket (Women's),Apparel,Insulated Jackets,Nordvik,Private Label,S04,254.99,96.3,2022-03-03,,3.27
+P0035,APP-BOR-0035,Borealis Ember Insulated Jacket (Men's),Apparel,Insulated Jackets,Borealis,Third-Party,S08,209.99,98.6,2021-01-25,,3.7
+P0036,APP-TRA-0036,Trailhead Summit Insulated Jacket (Men's),Apparel,Insulated Jackets,Trailhead,Private Label,S04,374.99,134.23,2022-08-09,<bound method Timestamp.date of Timestamp('2025-02-03 00:00:00')>,1.93
+P0037,APP-TER-0037,Terravo Frost Insulated Jacket (Men's),Apparel,Insulated Jackets,Terravo,Third-Party,S08,139.99,62.84,2022-08-06,,1.07
+P0038,APP-TER-0038,Terravo Glide Insulated Jacket (Women's),Apparel,Insulated Jackets,Terravo,Third-Party,S06,204.99,89.18,2022-08-03,,3.84
+P0039,APP-RID-0039,Ridgemont Granite Shell Jacket (Men's),Apparel,Shell Jackets,Ridgemont,Third-Party,S06,129.99,52.35,2021-01-06,,4.09
+P0040,APP-NOR-0040,Nordvik Cascade Shell Jacket (Women's),Apparel,Shell Jackets,Nordvik,Private Label,S02,129.99,45.34,2021-11-20,,2.23
+P0041,APP-KES-0041,Kestrane Glide Shell Jacket (Women's),Apparel,Shell Jackets,Kestrane,Third-Party,S06,164.99,74.69,2022-03-20,,3.34
+P0042,APP-NOR-0042,Nordvik Nomad Shell Jacket (Men's),Apparel,Shell Jackets,Nordvik,Private Label,S02,299.99,121.49,2021-10-11,,0.49
+P0043,APP-RID-0043,Ridgemont Cascade Shell Jacket (Women's),Apparel,Shell Jackets,Ridgemont,Third-Party,S04,154.99,65.38,2022-02-07,,2.14
+P0044,APP-NOR-0044,Nordvik Frost Shell Jacket (Women's),Apparel,Shell Jackets,Nordvik,Private Label,S04,274.99,95.77,2022-05-31,,3.87
+P0045,APP-TRA-0045,Trailhead Frost Shell Jacket (Men's),Apparel,Shell Jackets,Trailhead,Private Label,S04,354.99,120.37,2022-01-01,,2.99
+P0046,APP-TRA-0046,Trailhead Basecamp Shell Jacket (Women's),Apparel,Shell Jackets,Trailhead,Private Label,S04,234.99,88.04,2020-11-16,,2.5
+P0047,APP-FJO-0047,Fjordik Vista Base Layer,Apparel,Base Layers,Fjordik,Third-Party,S02,39.99,20.29,2020-09-21,,4.1
+P0048,APP-ALT-0048,Altavera Tundra Base Layer,Apparel,Base Layers,Altavera,Third-Party,S02,74.99,35.99,2021-09-29,,2.0
+P0049,APP-TRA-0049,Trailhead Trek Base Layer,Apparel,Base Layers,Trailhead,Private Label,S04,32.99,12.99,2022-09-18,,2.66
+P0050,APP-KES-0050,Kestrane Ember Base Layer,Apparel,Base Layers,Kestrane,Third-Party,S04,37.99,17.19,2022-08-13,<bound method Timestamp.date of Timestamp('2025-11-28 00:00:00')>,0.61
+P0051,APP-TER-0051,Terravo Tundra Base Layer,Apparel,Base Layers,Terravo,Third-Party,S02,89.99,40.28,2020-11-13,,4.1
+P0052,APP-KES-0052,Kestrane Alpine Base Layer,Apparel,Base Layers,Kestrane,Third-Party,S06,69.99,29.37,2021-03-30,,0.29
+P0053,APP-NOR-0053,Nordvik Nomad Base Layer,Apparel,Base Layers,Nordvik,Private Label,S08,54.99,20.71,2022-09-16,,2.18
+P0054,APP-RID-0054,Ridgemont Trek Base Layer,Apparel,Base Layers,Ridgemont,Third-Party,S02,79.99,37.05,2021-01-12,,1.6
+P0055,APP-NOR-0055,Nordvik Pioneer Base Layer,Apparel,Base Layers,Nordvik,Private Label,S08,79.99,29.32,2022-09-05,,2.3
+P0056,APP-NOR-0056,Nordvik Basecamp Base Layer,apparel,Base Layers,Nordvik,Private Label,S02,59.99,25.35,2021-06-26,,4.38
+P0057,APP-TRA-0057,Trailhead Aero Hiking Pants (Women's),Apparel,Hiking Pants,Trailhead,Private Label,S08,99.99,36.34,2021-09-06,,2.0
+P0058,APP-TRA-0058,Trailhead Alpine Hiking Pants (Men's),Apparel,Hiking Pants,Trailhead,Private Label,S04,119.99,47.11,2022-06-29,,2.45
+P0059,APP-RID-0059,Ridgemont Cascade Hiking Pants (Women's),Apparel,Hiking Pants ,Ridgemont,Third-Party,S04,129.99,59.65,2021-11-09,,2.44
+P0060,APP-TRA-0060,Trailhead Apex Hiking Pants (Women's),Apparel,Hiking Pants,Trailhead,Private Label,S02,129.99,48.9,2021-06-25,,1.45
+P0061,APP-RID-0061,Ridgemont Zenith Hiking Pants (Men's),Apparel,Hiking Pants,Ridgemont,Third-Party,S04,89.99,39.59,2022-10-31,,1.0
+P0062,APP-ALT-0062,Altavera Ember Hiking Pants (Women's),apparel,Hiking Pants,Altavera,Third-Party,S08,94.99,42.07,2020-09-17,,3.47
+P0063,APP-TER-0063,Terravo Vista Hiking Pants (Women's),Apparel,Hiking Pants,Terravo,Third-Party,S08,99.99,42.58,2025-01-08,,2.59
+P0064,APP-NOR-0064,Nordvik Ridge Hiking Pants (Men's),Apparel,Hiking Pants,Nordvik,Private Label,S02,99.99,43.01,2021-03-13,,0.74
+P0065,APP-TRA-0065,Trailhead Nomad Fleece (Women's),Apparel,Fleece,Trailhead,Private Label,S04,69.99,28.43,2021-07-29,,3.33
+P0066,APP-TRA-0066,Trailhead Frost Fleece (Women's),Apparel,Fleece,Trailhead,Private Label,S06,134.99,49.2,2021-05-09,,3.9
+P0067,APP-FJO-0067,Fjordik Vista Fleece (Men's),Apparel,Fleece ,Fjordik,Third-Party,S02,54.99,24.88,2021-06-26,,0.51
+P0068,APP-ALT-0068,Altavera Granite Fleece (Men's),Apparel,Fleece,Altavera,Third-Party,S04,119.99,55.51,2021-03-23,,3.8
+P0069,APP-RID-0069,Ridgemont Basecamp Fleece (Men's),Apparel,Fleece,Ridgemont,Third-Party,S08,99.99,50.3,2021-12-01,,3.99
+P0070,APP-TRA-0070,Trailhead Orbit Fleece (Men's),Apparel,Fleece,Trailhead,Private Label,S04,74.99,28.95,2022-10-28,,0.71
+P0071,APP-TRA-0071,Trailhead Trek Fleece (Women's),Apparel,Fleece,Trailhead,Private Label,S04,104.99,38.48,2021-03-31,,3.39
+P0072,FTW-ALT-0072,Altavera Summit Hiking Boot (Men's),footwear,Hiking Boots,Altavera,Third-Party,S10,179.99,89.32,2021-06-12,,2.24
+P0073,FTW-ALT-0073,Altavera Glide Hiking Boot (Men's),Footwear,Hiking Boots,Altavera,Third-Party,S03,204.99,105.89,2024-10-28,,1.97
+P0074,FTW-ALT-0074,Altavera Horizon Hiking Boot (Women's),Footwear,Hiking Boots,Altavera,Third-Party,S10,224.99,119.12,2022-08-07,,2.58
+P0075,FTW-TRA-0075,Trailhead Glide Hiking Boot (Women's),Footwear,Hiking Boots,Trailhead,Private Label,S10,234.99,109.5,2021-12-25,,2.57
+P0076,FTW-KES-0076,Kestrane Basecamp Hiking Boot (Women's),Footwear,Hiking Boots,Kestrane,Third-Party,S03,124.99,63.53,2020-09-04,,2.87
+P0077,FTW-FJO-0077,Fjordik Frost Hiking Boot (Men's),Footwear,Hiking Boots,Fjordik,Third-Party,S10,114.99,60.43,2022-05-09,,3.45
+P0078,FTW-TRA-0078,Trailhead Ridge Hiking Boot (Women's),Footwear,Hiking Boots,Trailhead,Private Label,S10,254.99,119.6,2021-03-15,,4.46
+P0079,FTW-ALT-0079,Altavera Basecamp Hiking Boot (Men's),Footwear,Hiking Boots,Altavera,Third-Party,S10,234.99,114.21,2024-07-20,,1.45
+P0080,FTW-NOR-0080,Nordvik Basecamp Hiking Boot (Men's),Footwear,Hiking Boots,Nordvik,Private Label,S10,119.99,50.84,2022-07-31,,3.19
+P0081,FTW-NOR-0081,Nordvik Apex Trail Runner (Men's),Footwear,Trail Runners,Nordvik,Private Label,S03,109.99,46.38,2022-06-03,,3.62
+P0082,FTW-TRA-0082,Trailhead Horizon Trail Runner (Men's),footwear,Trail Runners,Trailhead,Private Label,S03,94.99,41.42,2023-10-29,,0.72
+P0083,FTW-NOR-0083,Nordvik Ember Trail Runner (Men's),Footwear,Trail Runners,Nordvik,Private Label,S10,94.99,41.86,2022-02-10,,3.04
+P0084,FTW-NOR-0084,Nordvik Drift Trail Runner (Men's),Footwear,Trail Runners,Nordvik,Private Label,S10,139.99,56.68,2023-04-28,,2.29
+P0085,FTW-TER-0085,Terravo Granite Trail Runner (Women's),Footwear,Trail Runners,Terravo,Third-Party,S10,124.99,57.18,2021-04-06,,4.28
+P0086,FTW-RID-0086,Ridgemont Alpine Trail Runner (Women's),Footwear,Trail Runners,Ridgemont,Third-Party,S03,179.99,75.94,2024-02-07,,4.5
+P0087,FTW-RID-0087,Ridgemont Zenith Trail Runner (Men's),Footwear,Trail Runners,Ridgemont,Third-Party,S10,159.99,80.73,2021-06-28,,1.57
+P0088,FTW-NOR-0088,Nordvik Nomad Trail Runner (Women's),Footwear,Trail Runners,Nordvik,Private Label,S10,139.99,57.6,2020-10-13,,0.77
+P0089,FTW-RID-0089,Ridgemont Ridge Sandal,Footwear,Sandals,Ridgemont,Third-Party,S10,54.99,26.75,2024-03-08,,1.56
+P0090,FTW-KES-0090,Kestrane Ember Sandal,Footwear,Sandals,Kestrane,Third-Party,S10,46.99,23.94,2021-02-27,,3.75
+P0091,FTW-TRA-0091,Trailhead Pioneer Sandal,Footwear,Sandals,Trailhead,Private Label,S10,79.99,38.49,2024-07-02,,4.24
+P0092,FTW-RID-0092,Ridgemont Nomad Sandal,Footwear,Sandals,Ridgemont,Third-Party,S03,64.99,34.64,2021-05-12,,0.33
+P0093,FTW-NOR-0093,Nordvik Tundra Sandal,Footwear,Sandals,Nordvik,Private Label,S03,89.99,37.93,2022-07-27,,3.83
+P0094,FTW-NOR-0094,Nordvik Aero Hiking Socks,Footwear,Socks,Nordvik,Private Label,S10,15.99,6.56,2021-01-07,,3.33
+P0095,FTW-ALT-0095,Altavera Ridge Hiking Socks,Footwear,Socks,Altavera,Third-Party,S03,25.99,12.64,2021-07-11,<bound method Timestamp.date of Timestamp('2024-11-29 00:00:00')>,0.72
+P0096,FTW-NOR-0096,Nordvik Granite Hiking Socks,Footwear,Socks,Nordvik,Private Label,S03,24.99,10.4,2021-12-30,<bound method Timestamp.date of Timestamp('2026-03-13 00:00:00')>,2.8
+P0097,FTW-RID-0097,Ridgemont Aero Hiking Socks,Footwear,Socks,Ridgemont,Third-Party,S10,14.99,7.46,2020-09-09,,2.18
+P0098,FTW-KES-0098,Kestrane Granite Hiking Socks,Footwear,Socks,Kestrane,Third-Party,S10,23.99,11.56,2022-03-23,,2.79
+P0099,BAG-TER-0099,Terravo Basecamp Daypack,Backpacks & Bags,Daypacks,Terravo,Third-Party,S03,64.99,33.19,2026-01-20,,2.82
+P0100,BAG-TER-0100,Terravo Apex Daypack,Backpacks & Bags,Daypacks,Terravo,Third-Party,S08,99.99,53.4,2021-07-15,,1.52
+P0101,BAG-BOR-0101,Borealis Nomad Daypack,Backpacks & Bags,Daypacks,Borealis,Third-Party,S08,74.99,39.28,2021-10-19,,0.6
+P0102,BAG-BOR-0102,Borealis Granite Daypack,backpacks & bags,Daypacks,Borealis,Third-Party,S03,139.99,67.56,2020-10-28,,2.31
+P0103,BAG-TRA-0103,Trailhead Pioneer Daypack,Backpacks & Bags,Daypacks,Trailhead,Private Label,S03,64.99,25.6,2020-12-01,,1.68
+P0104,BAG-BOR-0104,Borealis Alpine Daypack,Backpacks & Bags,Daypacks,Borealis,Third-Party,S03,49.99,22.67,2020-10-04,,4.42
+P0105,BAG-NOR-0105,Nordvik Ember Daypack,Backpacks & Bags,Daypacks,Nordvik,Private Label,S01,64.99,25.71,2021-11-17,,3.4
+P0106,BAG-NOR-0106,Nordvik Pioneer Daypack,Backpacks & Bags,Daypacks,Nordvik,Private Label,S03,54.99,21.06,2022-05-02,,4.03
+P0107,BAG-RID-0107,Ridgemont Apex Trekking Pack,Backpacks & Bags,Trekking Packs,Ridgemont,Third-Party,S03,149.99,69.86,2021-07-24,,2.55
+P0108,BAG-BOR-0108,Borealis Ember Trekking Pack,Backpacks & Bags,Trekking Packs,Borealis,Third-Party,S08,369.99,191.3,2020-10-06,,0.23
+P0109,BAG-NOR-0109,Nordvik Aero Trekking Pack,Backpacks & Bags,Trekking Packs,Nordvik,Private Label,S01,219.99,85.43,2025-10-16,,0.88
+P0110,BAG-BOR-0110,Borealis Aero Trekking Pack,Backpacks & Bags,Trekking Packs,Borealis,Third-Party,S01,314.99,151.83,2021-01-12,,2.69
+P0111,BAG-TRA-0111,Trailhead Cascade Trekking Pack,Backpacks & Bags,Trekking Packs,Trailhead,Private Label,S03,349.99,143.39,2021-04-26,,2.31
+P0112,BAG-NOR-0112,Nordvik Apex Trekking Pack,Backpacks & Bags,Trekking Packs,Nordvik,Private Label,S01,194.99,79.09,2022-10-02,,4.29
+P0113,BAG-BOR-0113,Borealis Tundra Trekking Pack,backpacks & bags,Trekking Packs,Borealis,Third-Party,S01,189.99,84.88,2021-04-01,,2.82
+P0114,BAG-TRA-0114,Trailhead Ember Trekking Pack,Backpacks & Bags,Trekking Packs,Trailhead,Private Label,S01,284.99,111.56,2022-04-02,,1.65
+P0115,BAG-TRA-0115,Trailhead Cascade Duffel Bag,Backpacks & Bags,Duffels,Trailhead,Private Label,S01,79.99,30.41,2024-07-25,,0.41
+P0116,BAG-BOR-0116,Borealis Frost Duffel Bag,Backpacks & Bags,Duffels,Borealis,Third-Party,S03,154.99,69.41,2024-02-08,,0.21
+P0117,BAG-NOR-0117,Nordvik Orbit Duffel Bag,Backpacks & Bags,Duffels,Nordvik,Private Label,S03,104.99,43.94,2021-01-23,,2.99
+P0118,BAG-ALT-0118,Altavera Granite Duffel Bag,backpacks & bags,Duffels,Altavera,Third-Party,S03,154.99,72.61,2021-11-19,,4.28
+P0119,BAG-TRA-0119,Trailhead Alpine Duffel Bag,Backpacks & Bags,Duffels,Trailhead,Private Label,S01,64.99,24.36,2022-07-29,,3.02
+P0120,BAG-TRA-0120,Trailhead Horizon Hydration Pack,Backpacks & Bags,Hydration Packs,Trailhead,Private Label,S03,89.99,33.92,2021-09-16,,2.98
+P0121,BAG-TER-0121,Terravo Pioneer Hydration Pack,backpacks & bags,Hydration Packs,Terravo,Third-Party,S03,109.99,51.06,2022-05-13,,1.56
+P0122,BAG-TER-0122,Terravo Basecamp Hydration Pack,Backpacks & Bags,Hydration Packs,Terravo,Third-Party,S01,69.99,31.68,2020-08-17,,0.26
+P0123,BAG-NOR-0123,Nordvik Glide Hydration Pack,Backpacks & Bags,Hydration Packs,Nordvik,Private Label,S03,119.99,46.54,2020-09-19,,2.28
+P0124,KIT-NOR-0124,Nordvik Alpine Camp Stove,Camp Kitchen,Stoves,Nordvik,Private Label,S07,154.99,54.52,2021-11-12,,1.39
+P0125,KIT-NOR-0125,Nordvik Nomad Camp Stove,Camp Kitchen,Stoves,Nordvik,Private Label,S07,134.99,50.19,2021-12-31,,3.81
+P0126,KIT-TRA-0126,Trailhead Orbit Camp Stove,camp kitchen,Stoves,Trailhead,Private Label,S01,64.99,26.19,2022-02-28,,3.01
+P0127,KIT-TRA-0127,Trailhead Vista Camp Stove,Camp Kitchen,Stoves,Trailhead,Private Label,S07,74.99,29.35,2021-11-02,,1.17
+P0128,KIT-TRA-0128,Trailhead Ridge Camp Stove,Camp Kitchen,Stoves,Trailhead,Private Label,S07,139.99,47.93,2022-01-03,,1.34
+P0129,KIT-TER-0129,Terravo Zenith Camp Stove,Camp Kitchen,Stoves,Terravo,Third-Party,S01,54.99,24.04,2023-07-08,,1.24
+P0130,KIT-KES-0130,Kestrane Glide Cook Set,Camp Kitchen,Cookware,Kestrane,Third-Party,S07,99.99,40.95,2022-06-26,,3.92
+P0131,KIT-NOR-0131,Nordvik Summit Cook Set,camp kitchen,Cookware,Nordvik,Private Label,S07,42.99,14.26,2022-05-19,,1.77
+P0132,KIT-TRA-0132,Trailhead Ember Cook Set,Camp Kitchen,Cookware,Trailhead,Private Label,S07,25.99,9.46,2023-11-09,,4.1
+P0133,KIT-TER-0133,Terravo Vista Cook Set,Camp Kitchen,Cookware,Terravo,Third-Party,S01,27.99,12.92,2022-10-10,,0.29
+P0134,KIT-TRA-0134,Trailhead Nomad Cook Set,Camp Kitchen,Cookware,Trailhead,Private Label,S07,74.99,27.23,2021-01-11,,2.78
+P0135,KIT-FJO-0135,Fjordik Granite Cook Set,Camp Kitchen,Cookware,Fjordik,Third-Party,S01,36.99,15.76,2021-09-23,,2.62
+P0136,KIT-RID-0136,Ridgemont Alpine Cook Set,Camp Kitchen,Cookware,Ridgemont,Third-Party,S01,30.99,13.25,2021-05-15,,4.17
+P0137,KIT-TER-0137,Terravo Apex Cook Set,Camp Kitchen,Cookware,Terravo,Third-Party,S07,59.99,24.17,2021-07-04,<bound method Timestamp.date of Timestamp('2025-07-23 00:00:00')>,0.58
+P0138,KIT-TER-0138,Terravo Frost Bottle,Camp Kitchen,Bottles & Hydration,Terravo,Third-Party,S07,35.99,15.56,2022-01-23,,1.59
+P0139,KIT-KES-0139,Kestrane Orbit Bottle,Camp Kitchen,Bottles & Hydration,Kestrane,Third-Party,S07,15.99,6.97,2023-05-20,,1.13
+P0140,KIT-NOR-0140,Nordvik Ridge Bottle,Camp Kitchen,Bottles & Hydration,Nordvik,Private Label,S07,30.99,12.35,2021-10-07,,0.5
+P0141,KIT-TRA-0141,Trailhead Vista Bottle,Camp Kitchen,Bottles & Hydration,Trailhead,Private Label,S01,35.99,12.01,2021-03-16,,3.92
+P0142,KIT-NOR-0142,Nordvik Nomad Bottle,Camp Kitchen,Bottles & Hydration,Nordvik,Private Label,S07,29.99,11.03,2022-05-20,,0.59
+P0143,KIT-ALT-0143,Altavera Drift Bottle,Camp Kitchen,Bottles & Hydration,Altavera,Third-Party,S07,24.99,11.15,2020-07-20,,2.47
+P0144,KIT-ALT-0144,Altavera Apex Bottle,Camp Kitchen,Bottles & Hydration,Altavera,Third-Party,S07,16.99,7.42,2022-05-18,,1.01
+P0145,KIT-TRA-0145,Trailhead Pioneer Cooler,Camp Kitchen,Coolers,Trailhead,Private Label,S01,159.99,60.87,2022-06-03,,4.31
+P0146,KIT-ALT-0146,Altavera Frost Cooler,Camp Kitchen,Coolers,Altavera,Third-Party,S07,189.99,83.09,2020-12-27,,2.62
+P0147,KIT-FJO-0147,Fjordik Summit Cooler,camp kitchen,Coolers ,Fjordik,Third-Party,S07,129.99,59.69,2021-05-06,,3.4
+P0148,KIT-NOR-0148,Nordvik Frost Cooler,Camp Kitchen,Coolers,Nordvik,Private Label,S07,114.99,46.5,2023-12-11,,3.12
+P0149,KIT-BOR-0149,Borealis Cascade Utensil Kit,Camp Kitchen,Utensils,Borealis,Third-Party,S07,14.99,6.29,2022-02-16,,1.14
+P0150,KIT-TRA-0150,Trailhead Summit Utensil Kit,Camp Kitchen,Utensils,Trailhead,Private Label,S07,23.99,9.47,2021-12-24,,3.09
+P0151,KIT-TRA-0151,Trailhead Ember Utensil Kit,Camp Kitchen,Utensils,Trailhead,Private Label,S01,9.99,3.69,2022-09-05,,2.15
+P0152,KIT-ALT-0152,Altavera Zenith Utensil Kit,Camp Kitchen,Utensils,Altavera,Third-Party,S01,17.99,6.82,2025-11-11,,3.73
+P0153,ELC-NOR-0153,Nordvik Drift Headlamp,Electronics & Navigation,Headlamps ,Nordvik,Private Label,S09,64.99,33.9,2021-09-20,,0.57
+P0154,ELC-RID-0154,Ridgemont Glide Headlamp,Electronics & Navigation,Headlamps,Ridgemont,Third-Party,S01,54.99,35.54,2022-03-21,<bound method Timestamp.date of Timestamp('2024-11-23 00:00:00')>,0.15
+P0155,ELC-BOR-0155,Borealis Alpine Headlamp,Electronics & Navigation,Headlamps,Borealis,Third-Party,S01,38.99,22.97,2021-02-25,,0.38
+P0156,ELC-BOR-0156,Borealis Granite Headlamp,Electronics & Navigation,Headlamps,Borealis,Third-Party,S07,34.99,23.85,2022-06-21,,0.35
+P0157,ELC-TRA-0157,Trailhead Drift Headlamp,Electronics & Navigation,Headlamps,Trailhead,Private Label,S07,84.99,49.28,2021-09-21,<bound method Timestamp.date of Timestamp('2024-12-20 00:00:00')>,0.13
+P0158,ELC-ALT-0158,Altavera Granite Headlamp,Electronics & Navigation,Headlamps,Altavera,Third-Party,S01,49.99,31.62,2024-10-27,,0.43
+P0159,ELC-BOR-0159,Borealis Glide Headlamp,Electronics & Navigation,Headlamps,Borealis,Third-Party,S07,89.99,55.45,2021-12-11,,0.08
+P0160,ELC-ALT-0160,Altavera Summit GPS Watch,Electronics & Navigation,GPS & Watches,Altavera,Third-Party,S09,189.99,112.73,2022-06-02,,0.77
+P0161,ELC-FJO-0161,Fjordik Drift GPS Watch,Electronics & Navigation,GPS & Watches,Fjordik,Third-Party,S01,529.99,365.98,2024-05-25,,0.29
+P0162,ELC-RID-0162,Ridgemont Glide GPS Watch,Electronics & Navigation,GPS & Watches,Ridgemont,Third-Party,S01,344.99,207.71,2025-01-12,,0.1
+P0163,ELC-NOR-0163,Nordvik Basecamp GPS Watch,Electronics & Navigation,GPS & Watches,Nordvik,Private Label,S01,519.99,255.17,2020-10-19,,0.26
+P0164,ELC-BOR-0164,Borealis Nomad GPS Watch,Electronics & Navigation,GPS & Watches,Borealis,Third-Party,S09,329.99,214.19,2022-03-15,,0.17
+P0165,ELC-NOR-0165,Nordvik Glide GPS Watch,Electronics & Navigation,GPS & Watches,Nordvik,Private Label,S09,349.99,192.72,2020-07-29,,0.42
+P0166,ELC-TER-0166,Terravo Nomad Power Bank,Electronics & Navigation,Power Banks & Solar,Terravo,Third-Party,S09,64.99,41.92,2020-12-28,,0.53
+P0167,ELC-TRA-0167,Trailhead Trek Power Bank,Electronics & Navigation,Power Banks & Solar,Trailhead,Private Label,S01,74.99,40.87,2024-10-06,,0.59
+P0168,ELC-RID-0168,Ridgemont Glide Power Bank,Electronics & Navigation,Power Banks & Solar,Ridgemont,Third-Party,S01,35.99,22.6,2022-02-11,,0.24
+P0169,ELC-NOR-0169,Nordvik Glide Power Bank,Electronics & Navigation,Power Banks & Solar,Nordvik,Private Label,S09,33.99,19.09,2022-06-23,,0.1
+P0170,ELC-TRA-0170,Trailhead Cascade Power Bank,Electronics & Navigation,Power Banks & Solar,Trailhead,Private Label,S01,41.99,26.18,2020-10-17,,0.21
+P0171,ELC-NOR-0171,Nordvik Nomad Power Bank,Electronics & Navigation,Power Banks & Solar,Nordvik,Private Label,S09,154.99,78.09,2023-04-06,,0.53
+P0172,ELC-RID-0172,Ridgemont Tundra Power Bank,Electronics & Navigation,Power Banks & Solar,Ridgemont,Third-Party,S01,69.99,44.17,2022-01-27,,0.29
+P0173,ELC-TRA-0173,Trailhead Horizon Action Camera,Electronics & Navigation,Action Cameras,Trailhead,Private Label,S01,154.99,80.3,2021-04-25,,0.1
+P0174,ELC-NOR-0174,Nordvik Glide Action Camera,Electronics & Navigation,Action Cameras,Nordvik,Private Label,S01,269.99,146.94,2023-09-08,,0.17
+P0175,ELC-FJO-0175,Fjordik Frost Action Camera,Electronics & Navigation,Action Cameras,Fjordik,Third-Party,S09,284.99,186.7,2022-07-04,,0.22
+P0176,ELC-TER-0176,Terravo Alpine Action Camera,Electronics & Navigation,Action Cameras,Terravo,Third-Party,S01,354.99,227.12,2022-02-28,,0.28
+P0177,ELC-TER-0177,Terravo Trek Safety Radio,Electronics & Navigation,Radios & Safety,Terravo,Third-Party,S01,79.99,50.48,2025-11-29,,0.37
+P0178,ELC-NOR-0178,Nordvik Granite Safety Radio,Electronics & Navigation,Radios & Safety,Nordvik,Private Label,S09,49.99,26.15,2021-09-20,,0.72
+P0179,ELC-BOR-0179,Borealis Drift Safety Radio,Electronics & Navigation,Radios & Safety,Borealis,Third-Party,S01,84.99,56.87,2020-12-31,,0.76
+P0180,WNT-RID-0180,Ridgemont Horizon Ski Jacket (Men's),Winter Sports,Ski Jackets,Ridgemont,Third-Party,S02,189.99,95.67,2022-08-22,,1.65
+P0181,WNT-TRA-0181,Trailhead Ember Ski Jacket (Women's),Winter Sports,Ski Jackets,Trailhead,Private Label,S02,199.99,92.74,2022-10-09,,1.94
+P0182,WNT-TRA-0182,Trailhead Ridge Ski Jacket (Women's),Winter Sports,Ski Jackets,Trailhead,Private Label,S06,324.99,134.64,2020-08-06,,0.88
+P0183,WNT-BOR-0183,Borealis Aero Ski Jacket (Men's),Winter Sports,Ski Jackets,Borealis,Third-Party,S02,454.99,242.39,2021-11-20,,2.85
+P0184,WNT-TRA-0184,Trailhead Summit Ski Jacket (Men's),Winter Sports,Ski Jackets,Trailhead,Private Label,S06,424.99,167.16,2022-09-14,,3.22
+P0185,WNT-RID-0185,Ridgemont Apex Ski Jacket (Men's),Winter Sports,Ski Jackets,Ridgemont,Third-Party,S02,254.99,136.17,2022-09-03,,1.76
+P0186,WNT-FJO-0186,Fjordik Pioneer Ski Jacket (Women's),Winter Sports,Ski Jackets,Fjordik,Third-Party,S04,404.99,228.37,2022-03-09,,0.18
+P0187,WNT-FJO-0187,Fjordik Pioneer Ski Pants (Women's),Winter Sports,Ski Pants,Fjordik,Third-Party,S06,139.99,71.97,2020-09-18,,0.61
+P0188,WNT-BOR-0188,Borealis Trek Ski Pants (Men's),Winter Sports,Ski Pants,Borealis,Third-Party,S02,244.99,120.58,2022-06-13,,4.42
+P0189,WNT-NOR-0189,Nordvik Pioneer Ski Pants (Women's),Winter Sports,Ski Pants,Nordvik,Private Label,S04,134.99,62.51,2022-05-06,,2.87
+P0190,WNT-RID-0190,Ridgemont Basecamp Ski Pants (Women's),Winter Sports,Ski Pants,Ridgemont,Third-Party,S06,194.99,94.55,2022-08-11,,1.86
+P0191,WNT-TRA-0191,Trailhead Aero Ski Pants (Women's),Winter Sports,Ski Pants,Trailhead,Private Label,S06,119.99,48.44,2024-12-08,,1.38
+P0192,WNT-ALT-0192,Altavera Zenith Goggles,Winter Sports,Goggles,Altavera,Third-Party,S04,74.99,39.34,2022-06-07,,4.48
+P0193,WNT-ALT-0193,Altavera Vista Goggles,Winter Sports,Goggles,Altavera,Third-Party,S04,64.99,31.44,2022-02-03,,2.43
+P0194,WNT-TRA-0194,Trailhead Alpine Goggles,Winter Sports,Goggles,Trailhead,Private Label,S02,119.99,53.57,2022-01-07,,3.16
+P0195,WNT-NOR-0195,Nordvik Cascade Goggles,Winter Sports,Goggles,Nordvik,Private Label,S02,154.99,76.16,2021-01-30,,0.59
+P0196,WNT-TRA-0196,Trailhead Cascade Goggles,Winter Sports,Goggles,Trailhead,Private Label,S02,124.99,51.3,2021-08-21,,0.87
+P0197,WNT-TRA-0197,Trailhead Glide Goggles,Winter Sports,Goggles,Trailhead,Private Label,S04,184.99,82.53,2022-02-14,,0.94
+P0198,WNT-FJO-0198,Fjordik Frost Ski Gloves,Winter Sports,Gloves ,Fjordik,Third-Party,S04,38.99,19.89,2022-01-07,,3.97
+P0199,WNT-TER-0199,Terravo Tundra Ski Gloves,winter sports,Gloves,Terravo,Third-Party,S06,129.99,66.15,2021-06-05,,0.87
+P0200,WNT-TER-0200,Terravo Frost Ski Gloves,Winter Sports,Gloves ,Terravo,Third-Party,S06,89.99,46.06,2022-01-23,,0.15
+P0201,WNT-FJO-0201,Fjordik Basecamp Ski Gloves,Winter Sports,Gloves,Fjordik,Third-Party,S06,64.99,29.71,2021-06-04,,1.37
+P0202,WNT-KES-0202,Kestrane Ridge Ski Gloves,Winter Sports,Gloves,Kestrane,Third-Party,S06,64.99,30.4,2021-07-16,,1.51
+P0203,WNT-RID-0203,Ridgemont Vista Ski Gloves,Winter Sports,Gloves,Ridgemont,Third-Party,S06,44.99,20.89,2021-08-23,,3.14
+P0204,WNT-NOR-0204,Nordvik Frost Ski Helmet,Winter Sports,Helmets,Nordvik,Private Label,S04,89.99,38.09,2020-12-20,,3.47
+P0205,WNT-TRA-0205,Trailhead Glide Ski Helmet,Winter Sports,Helmets,Trailhead,Private Label,S02,184.99,83.95,2025-02-17,,1.4
+P0206,WNT-BOR-0206,Borealis Drift Ski Helmet,Winter Sports,Helmets,Borealis,Third-Party,S02,219.99,134.49,2021-09-22,,2.48
+P0207,WNT-NOR-0207,Nordvik Orbit Ski Helmet,Winter Sports,Helmets,Nordvik,Private Label,S06,94.99,45.14,2021-09-07,,2.44

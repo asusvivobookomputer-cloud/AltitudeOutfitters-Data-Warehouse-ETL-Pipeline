@@ -1,0 +1,7 @@
+segment,customers,pct_of_customers,revenue_usd,pct_of_revenue,avg_recency_days,avg_orders
+1 Champions,2519,6.5,4683172.0,25.8,97.0,5.67
+2 Loyal,3351,8.7,3230623.0,17.8,204.0,3.66
+3 New / Promising,11289,29.2,3325625.0,18.3,105.0,1.29
+4 At Risk (high value),1756,4.5,1568831.0,8.6,622.0,3.91
+5 Needs Attention,6004,15.6,1787834.0,9.8,309.0,1.26
+6 Hibernating,13686,35.5,3567859.0,19.6,764.0,1.19

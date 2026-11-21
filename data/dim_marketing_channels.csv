@@ -1,0 +1,10 @@
+channel_name,channel_group,is_paid
+Organic Search,Organic,0
+Direct,Organic,0
+Referral,Organic,0
+Google Ads,Paid Media,1
+Meta Ads,Paid Media,1
+TikTok Ads,Paid Media,1
+Influencer,Partner,1
+Affiliate,Partner,1
+Email,Owned,1

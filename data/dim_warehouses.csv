@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,city,country_code,open_date
+WH-HAM,Hamburg Central Warehouse,Hamburg,DE,2021-01-01
+WH-IST,Istanbul Regional Warehouse,Istanbul,TR,2021-01-01
+WH-DXB,Dubai Gulf Warehouse,Dubai,AE,2024-02-15

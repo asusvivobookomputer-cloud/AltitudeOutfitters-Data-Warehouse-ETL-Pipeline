@@ -1,0 +1,13 @@
+supplier_id,supplier_name,return_year,units_returned,defective_share_pct
+S01,Shenzhen Outdoor Mfg,2023,139.0,36.7
+S01,Shenzhen Outdoor Mfg,2024,269.0,28.3
+S01,Shenzhen Outdoor Mfg,2025,484.0,36.0
+S01,Shenzhen Outdoor Mfg,2026,457.0,24.9
+S05,Dongguan Shelter Systems,2023,98.0,26.5
+S05,Dongguan Shelter Systems,2024,194.0,24.7
+S05,Dongguan Shelter Systems,2025,475.0,43.4
+S05,Dongguan Shelter Systems,2026,616.0,45.8
+S07,Bavaria Precision,2023,64.0,31.3
+S07,Bavaria Precision,2024,144.0,17.4
+S07,Bavaria Precision,2025,179.0,27.4
+S07,Bavaria Precision,2026,188.0,26.1

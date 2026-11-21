@@ -1,0 +1,5 @@
+health,skus,units_on_hand,inventory_value_usd,pct_of_inventory_value
+1 Stock-out risk (< 30 days),42,1698.0,75808.0,6.4
+2 Healthy,116,10331.0,522722.0,44.0
+3 Overstock (> 180 days),33,5720.0,338329.0,28.5
+4 Dead stock (no sales in 90 days),6,1496.0,251355.0,21.2

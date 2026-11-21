@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,lead_time_days,quality_rating,payment_terms_days
+S01,Shenzhen Outdoor Mfg,China,55,4.4,60
+S02,Guangzhou Textile Works,China,48,4.1,60
+S03,Hanoi Gear Co,Vietnam,42,4.3,45
+S04,Porto Apparel Group,Portugal,21,4.7,30
+S05,Dongguan Shelter Systems,China,60,3.6,60
+S06,Izmir Textiles,Turkey,14,4.5,30
+S07,Bavaria Precision,Germany,18,4.8,30
+S08,Dhaka Garments,Bangladesh,50,3.9,60
+S09,Seoul Optics,South Korea,35,4.6,45
+S10,Taipei Footwear Co,Taiwan,45,4.2,45

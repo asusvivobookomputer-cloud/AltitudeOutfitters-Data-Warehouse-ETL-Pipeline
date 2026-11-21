@@ -1,0 +1,5 @@
+channel,net_revenue_usd,gross_margin_pct,marketplace_commission_usd,net_shipping_cost_usd,refunds_usd,contribution_margin_usd,contribution_margin_pct
+Retail,1826145.0,50.5,0.0,0.0,68528.0,832080.0,45.6
+B2B,2495399.0,42.8,0.0,17529.0,31725.0,1006725.0,40.3
+Web,13842401.0,49.6,0.0,419659.0,1088242.0,5032368.0,36.4
+Marketplace,3104496.0,51.2,472799.0,142023.0,213664.0,759561.0,24.5

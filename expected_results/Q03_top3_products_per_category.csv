@@ -1,0 +1,22 @@
+category,rank_in_category,product_name,revenue_usd,share_of_category_pct
+Apparel,1,Kestrane Apex Insulated Jacket (Men's),488354.0,10.7
+Apparel,2,Nordvik Nomad Shell Jacket (Men's),419475.0,9.2
+Apparel,3,Nordvik Ridge Insulated Jacket (Men's),408759.0,8.9
+Backpacks & Bags,1,Borealis Ember Trekking Pack,446302.0,14.5
+Backpacks & Bags,2,Terravo Apex Daypack,317575.0,10.3
+Backpacks & Bags,3,Trailhead Pioneer Daypack,291704.0,9.4
+Camp Kitchen,1,Nordvik Frost Cooler,176957.0,10.8
+Camp Kitchen,2,Terravo Zenith Camp Stove,166877.0,10.2
+Camp Kitchen,3,Trailhead Vista Camp Stove,134631.0,8.3
+Electronics & Navigation,1,Borealis Drift Safety Radio,569951.0,20.6
+Electronics & Navigation,2,Nordvik Glide Action Camera,469183.0,16.9
+Electronics & Navigation,3,Nordvik Basecamp GPS Watch,233731.0,8.4
+Footwear,1,Kestrane Basecamp Hiking Boot (Women's),413251.0,13.8
+Footwear,2,Nordvik Apex Trail Runner (Men's),314274.0,10.5
+Footwear,3,Altavera Basecamp Hiking Boot (Men's),311316.0,10.4
+Tents & Shelter,1,Nordvik Frost Tent 4P,381049.0,11.7
+Tents & Shelter,2,Trailhead Ember Sleeping Pad,245392.0,7.6
+Tents & Shelter,3,Nordvik Aero Tarp Shelter,240815.0,7.4
+Winter Sports,1,Borealis Aero Ski Jacket (Men's),545297.0,18.4
+Winter Sports,2,Terravo Frost Ski Gloves,260109.0,8.8
+Winter Sports,3,Nordvik Cascade Goggles,253576.0,8.6
